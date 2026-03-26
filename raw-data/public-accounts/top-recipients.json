@@ -1,0 +1,815 @@
+{
+  "_metadata": {
+    "description": "Top 50 largest recipients in Ontario Public Accounts (Detailed Schedule of Payments)",
+    "source_url": "https://data.ontario.ca/dataset/public-accounts-detailed-schedule-of-payments",
+    "years_included": [
+      "2024-25",
+      "2023-24"
+    ],
+    "note": "Amounts are summed across all loaded fiscal years. Some 'recipients' are aggregate categories (e.g., physician payments, bond interest) rather than individual vendors.",
+    "generated_date": "2026-03-24"
+  },
+  "top_50_recipients": [
+    {
+      "rank": 1,
+      "recipient": "Payments Made For Services And Care Provided By Physicians And Practitioners",
+      "total_all_years": 34342274411,
+      "by_year": {
+        "2024-25": 18202785225,
+        "2023-24": 16139489186
+      },
+      "ministries": [
+        "Ministry Of Health"
+      ]
+    },
+    {
+      "rank": 2,
+      "recipient": "Interest On Ontario Securities Public Issues",
+      "total_all_years": 28701757849,
+      "by_year": {
+        "2024-25": 14755354675,
+        "2023-24": 13946403174
+      },
+      "ministries": [
+        "Ministry Of Finance"
+      ]
+    },
+    {
+      "rank": 3,
+      "recipient": "Metrolinx",
+      "total_all_years": 16560558691,
+      "by_year": {
+        "2024-25": 8717760904,
+        "2023-24": 7842797787
+      },
+      "ministries": [
+        "Ministry Of Infrastructure",
+        "Ministry Of Solicitor General",
+        "Ministry Of Transportation"
+      ]
+    },
+    {
+      "rank": 4,
+      "recipient": "Ontario Health/Sante Ontario",
+      "total_all_years": 14550951795,
+      "by_year": {
+        "2024-25": 9479023373,
+        "2023-24": 5071928422
+      },
+      "ministries": [
+        "Ministry Of Education",
+        "Ministry Of Health",
+        "Ministry Of Labour, Immigration, Training And Skills Development",
+        "Ministry Of Long-Term Care",
+        "Ministry Of Solicitor General"
+      ]
+    },
+    {
+      "rank": 5,
+      "recipient": "Independent Electricity System Operator",
+      "total_all_years": 12989724797,
+      "by_year": {
+        "2024-25": 6753702551,
+        "2023-24": 6236022246
+      },
+      "ministries": [
+        "Ministry Of Energy"
+      ]
+    },
+    {
+      "rank": 6,
+      "recipient": "Odb",
+      "total_all_years": 9639392332,
+      "by_year": {
+        "2024-25": 9639392332
+      },
+      "ministries": [
+        "Ministry Of Health"
+      ]
+    },
+    {
+      "rank": 7,
+      "recipient": "Ontario Drug Programs",
+      "total_all_years": 8882281588,
+      "by_year": {
+        "2023-24": 8882281588
+      },
+      "ministries": [
+        "Ministry Of Health"
+      ]
+    },
+    {
+      "rank": 8,
+      "recipient": "City Of Toronto",
+      "total_all_years": 7902396008,
+      "by_year": {
+        "2024-25": 4469740136,
+        "2023-24": 3432655872
+      },
+      "ministries": [
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Economic Development, Job Creation And Trade",
+        "Ministry Of Economic Development,Job Creation And Trade",
+        "Ministry Of Education",
+        "Ministry Of Environment, Conservation And Parks",
+        "Ministry Of Health",
+        "Ministry Of Infrastructure",
+        "Ministry Of Labour, Immigration, Training And Skills Development",
+        "Ministry Of Long-Term Care",
+        "Ministry Of Municipal Affairs And Housing",
+        "Ministry Of Solicitor General",
+        "Ministry Of The Attorney General",
+        "Ministry Of The Environment, Conservation And Parks",
+        "Ministry Of Tourism, Culture And Sport",
+        "Ministry Of Tourism, Culture And Sport\n    ",
+        "Ministry Of Transportation"
+      ]
+    },
+    {
+      "rank": 9,
+      "recipient": "Accounts Under $120,000/Comptes Inf\u00e9rieurs \u00c0 120 000$",
+      "total_all_years": 6929010300,
+      "by_year": {
+        "2024-25": 6929010300
+      },
+      "ministries": [
+        "Ministry For Seniors And Accessibility",
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Citizenship And Multiculturalism",
+        "Ministry Of Colleges And Universities",
+        "Ministry Of Economic Development,Job Creation And Trade",
+        "Ministry Of Education",
+        "Ministry Of Energy",
+        "Ministry Of Environment, Conservation And Parks",
+        "Ministry Of Finance",
+        "Ministry Of Francophone Affairs",
+        "Ministry Of Health",
+        "Ministry Of Indigenous Affairs",
+        "Ministry Of Infrastructure",
+        "Ministry Of Labour, Immigration, Training And Skills Development",
+        "Ministry Of Long-Term Care",
+        "Ministry Of Mines",
+        "Ministry Of Municipal Affairs And Housing",
+        "Ministry Of Natural Resources And Forestry",
+        "Ministry Of Northern Development ",
+        "Ministry Of Public And Business Service Delivery",
+        "Ministry Of Solicitor General",
+        "Ministry Of The Attorney General",
+        "Ministry Of Tourism, Culture And Sport",
+        "Ministry Of Transportation",
+        "Office Of The Auditor General",
+        "Treasury Board Secretariat"
+      ]
+    },
+    {
+      "rank": 10,
+      "recipient": "Accounts Under $120,000",
+      "total_all_years": 6592858643,
+      "by_year": {
+        "2023-24": 6592858643
+      },
+      "ministries": [
+        "Ministry For Seniors And Accessibility",
+        "Ministry Of Agriculture, Food And Rural Affairs",
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Citizenship And Multiculturalism",
+        "Ministry Of Colleges And Universities ",
+        "Ministry Of Economic Development, Job Creation And Trade",
+        "Ministry Of Education",
+        "Ministry Of Energy",
+        "Ministry Of Finance",
+        "Ministry Of Francophone Affairs",
+        "Ministry Of Health",
+        "Ministry Of Indigenous Affairs",
+        "Ministry Of Infrastructure",
+        "Ministry Of Labour, Immigration, Training And Skills Development",
+        "Ministry Of Long-Term Care",
+        "Ministry Of Mines",
+        "Ministry Of Municipal Affairs And Housing",
+        "Ministry Of Natural Resources And Forestry",
+        "Ministry Of Northern Development",
+        "Ministry Of Public And Business Service Delivery",
+        "Ministry Of Solicitor General",
+        "Ministry Of The Attorney General",
+        "Ministry Of The Environment, Conservation And Parks",
+        "Ministry Of Tourism, Culture And Sport\n    ",
+        "Ministry Of Transportation",
+        "Office Of The Auditor General",
+        "Treasury Board Secretariat"
+      ]
+    },
+    {
+      "rank": 11,
+      "recipient": "Robinson Huron Treaty Litigation Fund",
+      "total_all_years": 5000000000,
+      "by_year": {
+        "2023-24": 5000000000
+      },
+      "ministries": [
+        "Ministry Of Indigenous Affairs"
+      ]
+    },
+    {
+      "rank": 12,
+      "recipient": "Toronto District School Board",
+      "total_all_years": 4676220074,
+      "by_year": {
+        "2024-25": 2709582519,
+        "2023-24": 1966637555
+      },
+      "ministries": [
+        "Ministry Of Citizenship And Multiculturalism",
+        "Ministry Of Education",
+        "Ministry Of Labour, Immigration, Training And Skills Development"
+      ]
+    },
+    {
+      "rank": 13,
+      "recipient": "University Health Network",
+      "total_all_years": 3518637547,
+      "by_year": {
+        "2024-25": 1857818996,
+        "2023-24": 1660818551
+      },
+      "ministries": [
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Colleges And Universities",
+        "Ministry Of Colleges And Universities ",
+        "Ministry Of Health",
+        "Ministry Of Labour, Immigration, Training And Skills Development",
+        "Ministry Of Long-Term Care"
+      ]
+    },
+    {
+      "rank": 14,
+      "recipient": "Ontario Teachers' Pension Plan Board",
+      "total_all_years": 3321104749,
+      "by_year": {
+        "2024-25": 1677697568,
+        "2023-24": 1643407181
+      },
+      "ministries": [
+        "Ministry Of Education"
+      ]
+    },
+    {
+      "rank": 15,
+      "recipient": "Ontario Infrastructure And Lands Corporation",
+      "total_all_years": 3293773164,
+      "by_year": {
+        "2024-25": 1714220433,
+        "2023-24": 1579552731
+      },
+      "ministries": [
+        "Ministry Of Agriculture, Food And Rural Affairs",
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Colleges And Universities",
+        "Ministry Of Colleges And Universities ",
+        "Ministry Of Economic Development, Job Creation And Trade",
+        "Ministry Of Economic Development,Job Creation And Trade",
+        "Ministry Of Education",
+        "Ministry Of Environment, Conservation And Parks",
+        "Ministry Of Finance",
+        "Ministry Of Health",
+        "Ministry Of Indigenous Affairs",
+        "Ministry Of Infrastructure",
+        "Ministry Of Labour, Immigration, Training And Skills Development",
+        "Ministry Of Long-Term Care",
+        "Ministry Of Mines",
+        "Ministry Of Municipal Affairs And Housing",
+        "Ministry Of Natural Resources And Forestry",
+        "Ministry Of Northern Development",
+        "Ministry Of Northern Development ",
+        "Ministry Of Public And Business Service Delivery",
+        "Ministry Of Solicitor General",
+        "Ministry Of The Attorney General",
+        "Ministry Of The Environment, Conservation And Parks",
+        "Ministry Of Tourism, Culture And Sport",
+        "Ministry Of Tourism, Culture And Sport\n    ",
+        "Ministry Of Transportation",
+        "Office Of The Assembly",
+        "Treasury Board Secretariat"
+      ]
+    },
+    {
+      "rank": 16,
+      "recipient": "Peel District School Board",
+      "total_all_years": 3204388872,
+      "by_year": {
+        "2024-25": 1826969142,
+        "2023-24": 1377419730
+      },
+      "ministries": [
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Education",
+        "Ministry Of Labour, Immigration, Training And Skills Development",
+        "Ministry Of Transportation"
+      ]
+    },
+    {
+      "rank": 17,
+      "recipient": "Hamilton Health Sciences Corp",
+      "total_all_years": 2857450008,
+      "by_year": {
+        "2024-25": 1469062066,
+        "2023-24": 1388387942
+      },
+      "ministries": [
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Health",
+        "Ministry Of Labour, Immigration, Training And Skills Development"
+      ]
+    },
+    {
+      "rank": 18,
+      "recipient": "Trillium Health Partners",
+      "total_all_years": 2755108326,
+      "by_year": {
+        "2024-25": 1375702734,
+        "2023-24": 1379405592
+      },
+      "ministries": [
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Health",
+        "Ministry Of Long-Term Care"
+      ]
+    },
+    {
+      "rank": 19,
+      "recipient": "London Health Sciences Centre",
+      "total_all_years": 2706376906,
+      "by_year": {
+        "2024-25": 1387958358,
+        "2023-24": 1318418548
+      },
+      "ministries": [
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Health",
+        "Ministry Of Labour, Immigration, Training And Skills Development",
+        "Ministry Of Solicitor General"
+      ]
+    },
+    {
+      "rank": 20,
+      "recipient": "Ottawa Hospital",
+      "total_all_years": 2431933309,
+      "by_year": {
+        "2024-25": 1265417268,
+        "2023-24": 1166516041
+      },
+      "ministries": [
+        "Ministry Of Health",
+        "Ministry Of Solicitor General"
+      ]
+    },
+    {
+      "rank": 21,
+      "recipient": "Unity Health Toronto (O/A Providence St Josephs & St Michaels Healthcare)",
+      "total_all_years": 2391522008,
+      "by_year": {
+        "2024-25": 1227356758,
+        "2023-24": 1164165250
+      },
+      "ministries": [
+        "Ministry Of Colleges And Universities",
+        "Ministry Of Colleges And Universities ",
+        "Ministry Of Health",
+        "Ministry Of Long-Term Care"
+      ]
+    },
+    {
+      "rank": 22,
+      "recipient": "York Region District School Board",
+      "total_all_years": 2391345336,
+      "by_year": {
+        "2024-25": 1385906636,
+        "2023-24": 1005438700
+      },
+      "ministries": [
+        "Ministry Of Citizenship And Multiculturalism",
+        "Ministry Of Education",
+        "Ministry Of Labour, Immigration, Training And Skills Development"
+      ]
+    },
+    {
+      "rank": 23,
+      "recipient": "City Of Ottawa",
+      "total_all_years": 2359136277,
+      "by_year": {
+        "2024-25": 1007858164,
+        "2023-24": 1351278113
+      },
+      "ministries": [
+        "Ministry For Seniors And Accessibility",
+        "Ministry Of Agriculture, Food And Rural Affairs",
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Education",
+        "Ministry Of Environment, Conservation And Parks",
+        "Ministry Of Finance",
+        "Ministry Of Health",
+        "Ministry Of Infrastructure",
+        "Ministry Of Labour, Immigration, Training And Skills Development",
+        "Ministry Of Long-Term Care",
+        "Ministry Of Municipal Affairs And Housing",
+        "Ministry Of Natural Resources And Forestry",
+        "Ministry Of Public And Business Service Delivery",
+        "Ministry Of Solicitor General",
+        "Ministry Of Tourism, Culture And Sport",
+        "Ministry Of Tourism, Culture And Sport\n    ",
+        "Ministry Of Transportation"
+      ]
+    },
+    {
+      "rank": 24,
+      "recipient": "Thames Valley District School Board",
+      "total_all_years": 2221014090,
+      "by_year": {
+        "2024-25": 1205222470,
+        "2023-24": 1015791620
+      },
+      "ministries": [
+        "Ministry Of Education",
+        "Ministry Of Labour, Immigration, Training And Skills Development"
+      ]
+    },
+    {
+      "rank": 25,
+      "recipient": "Toronto Catholic District School Board",
+      "total_all_years": 2061769323,
+      "by_year": {
+        "2024-25": 1174265051,
+        "2023-24": 887504272
+      },
+      "ministries": [
+        "Ministry Of Citizenship And Multiculturalism",
+        "Ministry Of Education",
+        "Ministry Of Labour, Immigration, Training And Skills Development",
+        "Office Of The Chief Electoral Officer"
+      ]
+    },
+    {
+      "rank": 26,
+      "recipient": "Regional Municipality Of Peel",
+      "total_all_years": 1975551535,
+      "by_year": {
+        "2024-25": 1064857506,
+        "2023-24": 910694029
+      },
+      "ministries": [
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Citizenship And Multiculturalism",
+        "Ministry Of Education",
+        "Ministry Of Environment, Conservation And Parks",
+        "Ministry Of Health",
+        "Ministry Of Infrastructure",
+        "Ministry Of Long-Term Care",
+        "Ministry Of Municipal Affairs And Housing",
+        "Ministry Of Solicitor General",
+        "Ministry Of The Attorney General",
+        "Ministry Of The Environment, Conservation And Parks",
+        "Ministry Of Transportation"
+      ]
+    },
+    {
+      "rank": 27,
+      "recipient": "Sunnybrook Health Sciences Centre",
+      "total_all_years": 1960764704,
+      "by_year": {
+        "2024-25": 988830864,
+        "2023-24": 971933840
+      },
+      "ministries": [
+        "Ministry Of Health",
+        "Ministry Of Long-Term Care"
+      ]
+    },
+    {
+      "rank": 28,
+      "recipient": "William Osler Health System",
+      "total_all_years": 1952478691,
+      "by_year": {
+        "2024-25": 984501743,
+        "2023-24": 967976948
+      },
+      "ministries": [
+        "Ministry Of Health",
+        "Ministry Of Long-Term Care"
+      ]
+    },
+    {
+      "rank": 29,
+      "recipient": "University Of Toronto",
+      "total_all_years": 1903970930,
+      "by_year": {
+        "2024-25": 973883610,
+        "2023-24": 930087320
+      },
+      "ministries": [
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Citizenship And Multiculturalism",
+        "Ministry Of Colleges And Universities",
+        "Ministry Of Colleges And Universities ",
+        "Ministry Of Education",
+        "Ministry Of Finance",
+        "Ministry Of Health",
+        "Ministry Of Mines",
+        "Ministry Of Natural Resources And Forestry",
+        "Ministry Of Solicitor General",
+        "Ministry Of Transportation"
+      ]
+    },
+    {
+      "rank": 30,
+      "recipient": "Ottawa-Carleton District School Board",
+      "total_all_years": 1845542732,
+      "by_year": {
+        "2024-25": 1044310459,
+        "2023-24": 801232273
+      },
+      "ministries": [
+        "Ministry Of Education",
+        "Ministry Of Labour, Immigration, Training And Skills Development"
+      ]
+    },
+    {
+      "rank": 31,
+      "recipient": "Durham District School Board",
+      "total_all_years": 1831031983,
+      "by_year": {
+        "2024-25": 1039513949,
+        "2023-24": 791518034
+      },
+      "ministries": [
+        "Ministry Of Education",
+        "Ministry Of Labour, Immigration, Training And Skills Development"
+      ]
+    },
+    {
+      "rank": 32,
+      "recipient": "Dufferin-Peel Catholic District School Board",
+      "total_all_years": 1748650036,
+      "by_year": {
+        "2024-25": 942526704,
+        "2023-24": 806123332
+      },
+      "ministries": [
+        "Ministry Of Education",
+        "Ministry Of Labour, Immigration, Training And Skills Development"
+      ]
+    },
+    {
+      "rank": 33,
+      "recipient": "Rbc-Ontaxrebat",
+      "total_all_years": 1735699074,
+      "by_year": {
+        "2024-25": 1735699074
+      },
+      "ministries": [
+        "Ministry Of Finance"
+      ]
+    },
+    {
+      "rank": 34,
+      "recipient": "Dh Corporation/Societe Dh",
+      "total_all_years": 1706000001,
+      "by_year": {
+        "2024-25": 1706000001
+      },
+      "ministries": [
+        "Ministry Of Colleges And Universities"
+      ]
+    },
+    {
+      "rank": 35,
+      "recipient": "Ontario Pension Board",
+      "total_all_years": 1622790090,
+      "by_year": {
+        "2024-25": 831773395,
+        "2023-24": 791016695
+      },
+      "ministries": [
+        "Ministry Of Health",
+        "Ministry Of Solicitor General",
+        "Ministry Of The Attorney General",
+        "Office Of The Assembly",
+        "Office Of The Auditor General",
+        "Ombudsman Ontario",
+        "Treasury Board Secretariat"
+      ]
+    },
+    {
+      "rank": 36,
+      "recipient": "Regional Municipality Of York",
+      "total_all_years": 1572684675,
+      "by_year": {
+        "2024-25": 847849343,
+        "2023-24": 724835332
+      },
+      "ministries": [
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Economic Development, Job Creation And Trade",
+        "Ministry Of Economic Development,Job Creation And Trade",
+        "Ministry Of Education",
+        "Ministry Of Environment, Conservation And Parks",
+        "Ministry Of Health",
+        "Ministry Of Infrastructure",
+        "Ministry Of Long-Term Care",
+        "Ministry Of Municipal Affairs And Housing",
+        "Ministry Of Solicitor General",
+        "Ministry Of The Attorney General",
+        "Ministry Of The Environment, Conservation And Parks",
+        "Ministry Of Transportation"
+      ]
+    },
+    {
+      "rank": 37,
+      "recipient": "Hospital For Sick Children (Hsc)",
+      "total_all_years": 1540353046,
+      "by_year": {
+        "2024-25": 808635486,
+        "2023-24": 731717560
+      },
+      "ministries": [
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Colleges And Universities",
+        "Ministry Of Colleges And Universities ",
+        "Ministry Of Health",
+        "Ministry Of Solicitor General"
+      ]
+    },
+    {
+      "rank": 38,
+      "recipient": "Canadian Blood Services",
+      "total_all_years": 1502311694,
+      "by_year": {
+        "2024-25": 776212650,
+        "2023-24": 726099044
+      },
+      "ministries": [
+        "Ministry Of Health"
+      ]
+    },
+    {
+      "rank": 39,
+      "recipient": "Lakeridge Health",
+      "total_all_years": 1497265473,
+      "by_year": {
+        "2024-25": 757736511,
+        "2023-24": 739528962
+      },
+      "ministries": [
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Health",
+        "Ministry Of Long-Term Care"
+      ]
+    },
+    {
+      "rank": 40,
+      "recipient": "Waterloo Region District School Board",
+      "total_all_years": 1484449190,
+      "by_year": {
+        "2024-25": 818902000,
+        "2023-24": 665547190
+      },
+      "ministries": [
+        "Ministry Of Education",
+        "Ministry Of Labour, Immigration, Training And Skills Development"
+      ]
+    },
+    {
+      "rank": 41,
+      "recipient": "Scarborough Health Network",
+      "total_all_years": 1480652977,
+      "by_year": {
+        "2024-25": 751110134,
+        "2023-24": 729542843
+      },
+      "ministries": [
+        "Ministry Of Health",
+        "Ministry Of Long-Term Care"
+      ]
+    },
+    {
+      "rank": 42,
+      "recipient": "Niagara Health System",
+      "total_all_years": 1360165414,
+      "by_year": {
+        "2024-25": 668496572,
+        "2023-24": 691668842
+      },
+      "ministries": [
+        "Ministry Of Health",
+        "Ministry Of Long-Term Care",
+        "Ministry Of Solicitor General"
+      ]
+    },
+    {
+      "rank": 43,
+      "recipient": "Sinai Health System",
+      "total_all_years": 1347211704,
+      "by_year": {
+        "2024-25": 732832891,
+        "2023-24": 614378813
+      },
+      "ministries": [
+        "Ministry Of Colleges And Universities",
+        "Ministry Of Colleges And Universities ",
+        "Ministry Of Health"
+      ]
+    },
+    {
+      "rank": 44,
+      "recipient": "Halton District School Board",
+      "total_all_years": 1346012240,
+      "by_year": {
+        "2024-25": 763452452,
+        "2023-24": 582559788
+      },
+      "ministries": [
+        "Ministry Of Education",
+        "Ministry Of Labour, Immigration, Training And Skills Development"
+      ]
+    },
+    {
+      "rank": 45,
+      "recipient": "Ottawa Catholic District School Board",
+      "total_all_years": 1340736721,
+      "by_year": {
+        "2024-25": 743763051,
+        "2023-24": 596973670
+      },
+      "ministries": [
+        "Ministry Of Education",
+        "Ministry Of Labour, Immigration, Training And Skills Development"
+      ]
+    },
+    {
+      "rank": 46,
+      "recipient": "St Joseph'S Healthcare Hamilton",
+      "total_all_years": 1304677339,
+      "by_year": {
+        "2024-25": 648351106,
+        "2023-24": 656326233
+      },
+      "ministries": [
+        "Ministry Of Health",
+        "Ministry Of Long-Term Care"
+      ]
+    },
+    {
+      "rank": 47,
+      "recipient": "Simcoe County District School Board",
+      "total_all_years": 1292334191,
+      "by_year": {
+        "2024-25": 723009385,
+        "2023-24": 569324806
+      },
+      "ministries": [
+        "Ministry Of Education",
+        "Ministry Of Labour, Immigration, Training And Skills Development",
+        "Ministry Of Solicitor General"
+      ]
+    },
+    {
+      "rank": 48,
+      "recipient": "Mackenzie Health",
+      "total_all_years": 1287081267,
+      "by_year": {
+        "2024-25": 647802880,
+        "2023-24": 639278387
+      },
+      "ministries": [
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Health",
+        "Ministry Of Long-Term Care"
+      ]
+    },
+    {
+      "rank": 49,
+      "recipient": "Hamilton-Wentworth District School Board",
+      "total_all_years": 1286235581,
+      "by_year": {
+        "2024-25": 727367885,
+        "2023-24": 558867696
+      },
+      "ministries": [
+        "Ministry Of Education",
+        "Ministry Of Labour, Immigration, Training And Skills Development"
+      ]
+    },
+    {
+      "rank": 50,
+      "recipient": "Kingston Health Sciences Centre",
+      "total_all_years": 1284983827,
+      "by_year": {
+        "2024-25": 649333277,
+        "2023-24": 635650550
+      },
+      "ministries": [
+        "Ministry Of Children, Community And Social Services",
+        "Ministry Of Health",
+        "Ministry Of Solicitor General"
+      ]
+    }
+  ]
+}

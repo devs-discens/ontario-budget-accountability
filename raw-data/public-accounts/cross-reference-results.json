@@ -1,0 +1,5304 @@
+{
+  "_metadata": {
+    "description": "Cross-reference of tracked organizations against Ontario Public Accounts Detailed Schedule of Payments",
+    "source_url": "https://data.ontario.ca/dataset/public-accounts-detailed-schedule-of-payments",
+    "csv_files_loaded": {
+      "2024-25": "public-accounts-2024-25.csv",
+      "2023-24": "public-accounts-2023-24.csv"
+    },
+    "records_per_year": {
+      "2024-25": 15571,
+      "2023-24": 14735
+    },
+    "disclosure_threshold_note": "As of 2024-25, the disclosure threshold appears to be $120,000 (payments below this are aggregated). In earlier years it was $50,000.",
+    "structural_caveat": "IMPORTANT: Most large infrastructure contractors (transit, nuclear, highway construction) are paid through crown agencies like Metrolinx, Infrastructure Ontario, or OPG -- not directly by ministries. These payments will NOT appear in this dataset. The Public Accounts show the lump-sum transfers to those crown agencies (e.g., $8.7B to Metrolinx in 2024-25) but not the downstream payments to contractors.",
+    "generated_date": "2026-03-24",
+    "organizations_searched": 129,
+    "organizations_matched": 87
+  },
+  "matched_organizations": [
+    {
+      "org_id": "atkinsrealis",
+      "org_name": "AtkinsRealis (fka SNC-Lavalin)",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 5000000000,
+      "search_variants_used": [
+        "SNC-LAVALIN",
+        "ATKINSREALISFKASNCLAVALIN",
+        "ATKINSREALIS FKA SNCLAVALIN",
+        "ATKINSREALIS (FKA SNC-LAVALIN)",
+        "SNCLAVALIN",
+        "ATKINS REALIS FKA SNCLAVALIN"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Snc-Lavalin Inc",
+            "amount": 1948256,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 1948256
+      },
+      "total_paid_all_years_found": 1948256,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $5,000,000,000. Public Accounts total across loaded years: $1,948,256."
+    },
+    {
+      "org_id": "alstom",
+      "org_name": "Alstom Transport Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 5100000000,
+      "search_variants_used": [
+        "ALSTOM TRANSPORT CANADA",
+        "ALSTOM TRANSPORT"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Als Ltd.",
+            "amount": 63629,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Als Ltd.",
+            "amount": 58044,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 63629,
+        "2023-24": 6588522
+      },
+      "total_paid_all_years_found": 6652151,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $5,100,000,000. Public Accounts total across loaded years: $6,652,151."
+    },
+    {
+      "org_id": "ellisdon",
+      "org_name": "EllisDon",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "ELLISDON",
+        "ELLIS DON"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Elizabeth Alice Ellis & Donald Joseph Lang",
+            "amount": 144000,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Ellisdon Civil Ltd",
+            "amount": 214700,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 144000,
+        "2023-24": 214700
+      },
+      "total_paid_all_years_found": 358700,
+      "consistency_note": "Public Accounts payments found ($358,700) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "ferrovial",
+      "org_name": "Ferrovial Construction Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "FERROVIAL",
+        "FERROVIAL CONSTRUCTION CANADA"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ferro Canada Inc",
+            "amount": 64055,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6594533
+      },
+      "total_paid_all_years_found": 6594533,
+      "consistency_note": "Public Accounts payments found ($6,594,533) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "vinci-construction",
+      "org_name": "VINCI Construction",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "VINCI CONSTRUCTION",
+        "VINCI"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "2626900 Ontario Ltd (O/A Mastro Vinci)",
+            "amount": 142200,
+            "ministry": "Ministry Of Economic Development,Job Creation And Trade",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Provincial Sheet Metal Workers Training Corporation",
+            "amount": 1360706,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Provincial Building & Construction Trades Council Ontario",
+            "amount": 3071924,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Provincial Helicopters Ltd.",
+            "amount": 143691,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Provincial Road Markings Inc",
+            "amount": 1659110,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Provincial Health Services Authority (Phsa)",
+            "amount": 1543360,
+            "ministry": "Ministry Of Indigenous Affairs",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Provincial Building & Construction Trades Council Ontario",
+            "amount": 3903294,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Provincial Sheet Metal Workers Training Corporation",
+            "amount": 1852617,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Provincial Helicopters Ltd.",
+            "amount": 502629,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Provincial, Kirk B",
+            "amount": 10812,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Travel Expenses",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 6377631,
+        "2023-24": 7812712
+      },
+      "total_paid_all_years_found": 14190343,
+      "consistency_note": "Public Accounts payments found ($14,190,343) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "fcc-canada",
+      "org_name": "FCC Canada (FCC Construccion)",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "FCC CONSTRUCCION",
+        "FCC CANADA (FCC CONSTRUCCION)",
+        "FCC CANADA FCC CONSTRUCCION"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Public Accounts payments found ($6,530,478) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "dragados",
+      "org_name": "Dragados Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 729000000,
+      "search_variants_used": [
+        "DRAGADOS CANADA",
+        "DRAGADOS"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $729,000,000. Public Accounts total across loaded years: $6,530,478."
+    },
+    {
+      "org_id": "ghella",
+      "org_name": "Ghella Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "GHELLA",
+        "GHELLA CANADA"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Public Accounts payments found ($6,530,478) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "acciona",
+      "org_name": "Acciona Infrastructure Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "ACCIONA INFRASTRUCTURE",
+        "ACCIONA INFRASTRUCTURE CANADA"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Public Accounts payments found ($6,530,478) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "wsp-canada",
+      "org_name": "WSP Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 500000000,
+      "search_variants_used": [
+        "WSP",
+        "WSP CANADA"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Wsp Canada Inc",
+            "amount": 203832,
+            "ministry": "Ministry Of Mines",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Wsp",
+            "amount": 1413337,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Wsp Canada Inc",
+            "amount": 56787293,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Wsp Canada Inc.",
+            "amount": 50850,
+            "ministry": "Office Of The Auditor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Wsp Canada Inc",
+            "amount": 339304,
+            "ministry": "Ministry Of Mines",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Wsp Canada Group Ltd",
+            "amount": 7345863,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Wsp Canada Inc",
+            "amount": 34648381,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 58455312,
+        "2023-24": 48864026
+      },
+      "total_paid_all_years_found": 107319338,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $500,000,000. Public Accounts total across loaded years: $107,319,338."
+    },
+    {
+      "org_id": "transdev-canada",
+      "org_name": "Transdev Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "TRANSDEV",
+        "TRANSDEV CANADA"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Public Accounts payments found ($6,530,478) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "plenary-americas",
+      "org_name": "Plenary Americas",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "PLENARY AMERICAS"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Public Accounts payments found ($6,530,478) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "ontario-shipyards",
+      "org_name": "Ontario Shipyards (fka Heddle Marine)",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 237400000,
+      "search_variants_used": [
+        "ONTARIO SHIPYARDS (FKA HEDDLE MARINE)",
+        "HEDDLE MARINE",
+        "ONTARIO SHIPYARDS FKA HEDDLE MARINE"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Ontario Shipyards Inc.",
+            "amount": 9042836,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ontario Shipyards Inc.",
+            "amount": 1462912,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Ontario Shipyards Inc.",
+            "amount": 582230,
+            "ministry": "Ministry Of Economic Development, Job Creation And Trade",
+            "category": "Other Payments",
+            "payment_detail": "Loans Receivable"
+          },
+          {
+            "recipient_name": "Ontario Shipyards Inc.",
+            "amount": 3610551,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ontario Shipyards Inc.",
+            "amount": 950169,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Shi Canada",
+            "amount": 317999,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 10505748,
+        "2023-24": 5460949
+      },
+      "total_paid_all_years_found": 15966697,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $237,400,000. Public Accounts total across loaded years: $15,966,697."
+    },
+    {
+      "org_id": "merit-ontario",
+      "org_name": "Merit Ontario",
+      "org_type": "association",
+      "total_gov_value_in_our_data": 23000000,
+      "search_variants_used": [
+        "MERIT",
+        "MERIT ONTARIO"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Merit Openshop Contractors Association Of Ontario",
+            "amount": 5873983,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Merit Openshop Contractors Association Of Ontario",
+            "amount": 5175886,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 5873983,
+        "2023-24": 5175886
+      },
+      "total_paid_all_years_found": 11049869,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $23,000,000. Public Accounts total across loaded years: $11,049,869."
+    },
+    {
+      "org_id": "liuna-local-183",
+      "org_name": "LiUNA Local 183",
+      "org_type": "union",
+      "total_gov_value_in_our_data": 26000000,
+      "search_variants_used": [
+        "LIUNALOCAL183",
+        "LIUNA LOCAL 183",
+        "LI UNA LOCAL 183"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Liuna Local 183 Training And Rehabilitation Fund",
+            "amount": 1167921,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Liuna Local 183 Training And Rehabilitation Fund",
+            "amount": 1223866,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 1167921,
+        "2023-24": 7754344
+      },
+      "total_paid_all_years_found": 8922265,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $26,000,000. Public Accounts total across loaded years: $8,922,265."
+    },
+    {
+      "org_id": "bayshore-healthcare",
+      "org_name": "Bayshore HealthCare",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 18600000,
+      "search_variants_used": [
+        "BAYSHORE HEALTH CARE",
+        "BAYSHORE HEALTHCARE",
+        "BAYSHOREHEALTHCARE"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 134131,
+            "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Bayshore Healthcare Ltd",
+            "amount": 100841,
+            "ministry": "Ministry Of Education",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 100017,
+            "ministry": "Ministry Of Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 1400914,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Shore Consulting Group Inc.",
+            "amount": 101079,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 191648,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 221819,
+            "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Bayshore Healthcare Ltd",
+            "amount": 136057,
+            "ministry": "Ministry Of Education",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 1694018,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 266499,
+            "ministry": "Ministry Of Tourism, Culture And Sport\n    ",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 2028630,
+        "2023-24": 8848871
+      },
+      "total_paid_all_years_found": 10877501,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $18,600,000. Public Accounts total across loaded years: $10,877,501."
+    },
+    {
+      "org_id": "scale-hospitality",
+      "org_name": "Scale Hospitality",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 11000000,
+      "search_variants_used": [
+        "SCALE HOSPITALITY"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Scale Hospitality Group Inc.",
+            "amount": 5751019,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Scale Hospitality Group Inc.",
+            "amount": 5994000,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 5751019,
+        "2023-24": 12524478
+      },
+      "total_paid_all_years_found": 18275497,
+      "consistency_note": "REVIEW: Annual payment (12,524,478) exceeds total contract value (11,000,000). Contract value may be understated or payment includes related entities."
+    },
+    {
+      "org_id": "agnico-eagle-mines",
+      "org_name": "Agnico Eagle Mines",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 10000000,
+      "search_variants_used": [
+        "AGNICO EAGLE MINES"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Agnico Eagle Mines Limited/Mines Agnico Eagle Limitee",
+            "amount": 8500000,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Agnico Eagle Mines Ltd",
+            "amount": 18478938,
+            "ministry": "Ministry Of Northern Development ",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 26978938
+      },
+      "total_paid_all_years_found": 26978938,
+      "consistency_note": "REVIEW: Annual payment (26,978,938) exceeds total contract value (10,000,000). Contract value may be understated or payment includes related entities."
+    },
+    {
+      "org_id": "canadian-niagara-hotels",
+      "org_name": "Canadian Niagara Hotels",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 9000000,
+      "search_variants_used": [
+        "CANADIAN NIAGARA HOTELS"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Canadian Niagara Hotels Inc",
+            "amount": 1563751,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Canadian Niagara Hotels Inc.",
+            "amount": 708935,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Canadian Niagara Hotels Inc",
+            "amount": 100000,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Canadian Niagara Hotels Inc",
+            "amount": 2022307,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 2272686,
+        "2023-24": 8652785
+      },
+      "total_paid_all_years_found": 10925471,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $9,000,000. Public Accounts total across loaded years: $10,925,471."
+    },
+    {
+      "org_id": "keel-digital-solutions",
+      "org_name": "Keel Digital Solutions / Get A-Head",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 7500000,
+      "search_variants_used": [
+        "KEEL DIGITAL SOLUTIONS / GET A-HEAD",
+        "KEEL DIGITAL",
+        "GET AHEAD",
+        "KEEL DIGITAL SOLUTIONS GET AHEAD"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Get A-Head Inc",
+            "amount": 12750000,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Get A-Head Inc",
+            "amount": 1848000,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Community And Priority Services"
+          },
+          {
+            "recipient_name": "Get A-Head Inc",
+            "amount": 2314805,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Get A-Head Inc",
+            "amount": 11000000,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 16912805,
+        "2023-24": 11000000
+      },
+      "total_paid_all_years_found": 27912805,
+      "consistency_note": "REVIEW: Annual payment (16,912,805) exceeds total contract value (7,500,000). Contract value may be understated or payment includes related entities."
+    },
+    {
+      "org_id": "extendicare",
+      "org_name": "Extendicare (+ ParaMed)",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 1350000000,
+      "search_variants_used": [
+        "EXTENDICARE PARAMED",
+        "EXTENDICARE (+ PARAMED)",
+        "PARAMED",
+        "+ PARAMED",
+        "EXTENDICARE PARA MED",
+        "EXTENDICAREPARAMED"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Lakeshore Paramedical Hearing Services Inc.",
+            "amount": 136500,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Assistive Devices And Supplies Program"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Lakeshore Paramedical Hearing Services Inc.",
+            "amount": 138500,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Assistive Devices And Supplies Program"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 136500,
+        "2023-24": 6668978
+      },
+      "total_paid_all_years_found": 6805478,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $1,350,000,000. Public Accounts total across loaded years: $6,805,478."
+    },
+    {
+      "org_id": "revera",
+      "org_name": "Revera",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "REVERA"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Revera Long Term Care Inc",
+            "amount": 431344,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Payments Made For Services And Care Provided By Physicians And Practitioners"
+          },
+          {
+            "recipient_name": "Revera Long Term Care Inc",
+            "amount": 236007035,
+            "ministry": "Ministry Of Long-Term Care",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Revera Long Term Care Inc",
+            "amount": 415274,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Payments Made For Services And Care Provided By Physicians And Practitioners"
+          },
+          {
+            "recipient_name": "Revera Long Term Care Inc",
+            "amount": 224489418,
+            "ministry": "Ministry Of Long-Term Care",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 236438379,
+        "2023-24": 224904692
+      },
+      "total_paid_all_years_found": 461343071,
+      "consistency_note": "Public Accounts payments found ($461,343,071) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "oltca",
+      "org_name": "OLTCA (Ontario Long Term Care Association)",
+      "org_type": "association",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "ONTARIO LONG TERM CARE ASSOCIATION",
+        "OLTCA ONTARIO LONG TERM CARE ASSOCIATION",
+        "OLTCA (ONTARIO LONG TERM CARE ASSOCIATION)"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Public Accounts payments found ($6,530,478) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "ibm",
+      "org_name": "IBM",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 332200000,
+      "search_variants_used": [
+        "IBM"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Ibm Canada Ltd",
+            "amount": 24336566,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ibm Canada Ltd",
+            "amount": 5117361,
+            "ministry": "Ministry Of Health",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ibm Canada Ltd.",
+            "amount": 3559500,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ibm Canada Ltd",
+            "amount": 19869281,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ibm Canada Ltd",
+            "amount": 272365,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "Tangible Capital Assets"
+          },
+          {
+            "recipient_name": "Ibm Canada Ltd",
+            "amount": 1411750,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ibm Canada Ltd",
+            "amount": 190123,
+            "ministry": "Treasury Board Secretariat",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Ibm Canada Ltd",
+            "amount": 31141810,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ibm Canada Ltd",
+            "amount": 3647276,
+            "ministry": "Ministry Of Health",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ibm Canada Ltd.",
+            "amount": 1130000,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ibm Canada Ltd",
+            "amount": 168088,
+            "ministry": "Treasury Board Secretariat",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ibm Canada Ltd",
+            "amount": 1384079,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ibm Canada Ltd",
+            "amount": 21958341,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 54756946,
+        "2023-24": 59429594
+      },
+      "total_paid_all_years_found": 114186540,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $332,200,000. Public Accounts total across loaded years: $114,186,540."
+    },
+    {
+      "org_id": "mckinsey",
+      "org_name": "McKinsey & Company",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 4800000,
+      "search_variants_used": [
+        "MC KINSEY COMPANY",
+        "MCKINSEY COMPANY",
+        "MCKINSEY & COMPANY",
+        "MCKINSEYCOMPANY"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Mckinsey & Company Canada",
+            "amount": 791000,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 791000
+      },
+      "total_paid_all_years_found": 791000,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $4,800,000. Public Accounts total across loaded years: $791,000."
+    },
+    {
+      "org_id": "accenture",
+      "org_name": "Accenture",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 206000000,
+      "search_variants_used": [
+        "ACCENTURE"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Accenture Inc",
+            "amount": 222610,
+            "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Accenture Inc",
+            "amount": 203400,
+            "ministry": "Ministry Of Health",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Accenture Inc",
+            "amount": 1090902,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Accenture Inc",
+            "amount": 3415512,
+            "ministry": "Ministry Of Health",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Accenture Inc",
+            "amount": 288263,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 1516912,
+        "2023-24": 3703775
+      },
+      "total_paid_all_years_found": 5220687,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $206,000,000. Public Accounts total across loaded years: $5,220,687."
+    },
+    {
+      "org_id": "deloitte",
+      "org_name": "Deloitte",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "DELOITTE"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Deloitte Inc",
+            "amount": 214846,
+            "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 622630,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 129272,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Other Payments",
+            "payment_detail": "Other Payments"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 378482,
+            "ministry": "Ministry Of Economic Development,Job Creation And Trade",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 272249,
+            "ministry": "Ministry Of Education",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Inc",
+            "amount": 508500,
+            "ministry": "Ministry Of Education",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Touche Tohmatsu Ltd",
+            "amount": 59413,
+            "ministry": "Ministry Of Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Inc",
+            "amount": 3749905,
+            "ministry": "Ministry Of Health",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Inc",
+            "amount": 404430,
+            "ministry": "Ministry Of Indigenous Affairs",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Inc",
+            "amount": 152550,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 230520,
+            "ministry": "Ministry Of Long-Term Care",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 152550,
+            "ministry": "Ministry Of Mines",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Touche Tohmatsu Ltd.",
+            "amount": 136730,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 1539414,
+            "ministry": "Ministry Of Northern Development ",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 9578388,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 59890,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 15956158,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 208748,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp ",
+            "amount": 54240,
+            "ministry": "Office Of The Assembly",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 768885,
+            "ministry": "Office Of The Auditor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Inc",
+            "amount": 1105607,
+            "ministry": "Treasury Board Secretariat",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Deloitte ",
+            "amount": 13909643,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Inc",
+            "amount": 242877,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 96728,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 374471,
+            "ministry": "Ministry Of Economic Development, Job Creation And Trade",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 1364669,
+            "ministry": "Ministry Of Education",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Touche Tohmatsu Ltd",
+            "amount": 105675,
+            "ministry": "Ministry Of The Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Inc",
+            "amount": 78592,
+            "ministry": "Ministry Of Finance",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Inc",
+            "amount": 3829254,
+            "ministry": "Ministry Of Health",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Inc",
+            "amount": 326570,
+            "ministry": "Ministry Of Indigenous Affairs",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 596358,
+            "ministry": "Ministry Of Long-Term Care",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 355950,
+            "ministry": "Ministry Of Mines",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Touche Tohmatsu Ltd.",
+            "amount": 1693706,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Inc",
+            "amount": 498445,
+            "ministry": "Office Of The Chief Electoral Officer",
+            "category": "Statutory Payments",
+            "payment_detail": "Other Payments"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 277268,
+            "ministry": "Office Of The Auditor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Inc",
+            "amount": 962850,
+            "ministry": "Treasury Board Secretariat",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 50236,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 4444290,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Deloitte Llp",
+            "amount": 1480661,
+            "ministry": "Ministry Of Northern Development",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 36283407,
+        "2023-24": 30688243
+      },
+      "total_paid_all_years_found": 66971650,
+      "consistency_note": "Public Accounts payments found ($66,971,650) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "staples-canada",
+      "org_name": "Staples Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 11700000,
+      "search_variants_used": [
+        "STAPLES CANADA",
+        "STAPLES"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Staples Canada Ulc (O/A Staples Canada)",
+            "amount": 119359,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Staples Inc",
+            "amount": 139142,
+            "ministry": "Ministry Of Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Staples Canada Inc.",
+            "amount": 128873,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Staples Canada Ulc. (O/A Staples Canada)",
+            "amount": 3811826,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Staples Canada Inc",
+            "amount": 739895,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Staples Canada Ulc (O/A Staples Canada)",
+            "amount": 233051,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Staples ",
+            "amount": 66984,
+            "ministry": "Office Of The Assembly",
+            "category": "Other Payments",
+            "payment_detail": "Members' Office Support: Other Payments"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Staples Canada",
+            "amount": 297478,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Staples Professional Inc.",
+            "amount": 92111,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Staples Inc",
+            "amount": 163714,
+            "ministry": "Ministry Of The Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Staples Canada Inc.",
+            "amount": 166027,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Staples ",
+            "amount": 68436,
+            "ministry": "Office Of The Assembly",
+            "category": "Other Payments",
+            "payment_detail": "Members' Office Support"
+          },
+          {
+            "recipient_name": "Staples Professional Formerly Staples Advantage, Canada",
+            "amount": 71147,
+            "ministry": "Office Of The Assembly",
+            "category": "Other Payments",
+            "payment_detail": "Members' Office Support"
+          },
+          {
+            "recipient_name": "Staples Canada Inc",
+            "amount": 586433,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Staples Canada Ulc (O/A Staples Canada)",
+            "amount": 2561132,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 5239130,
+        "2023-24": 10536956
+      },
+      "total_paid_all_years_found": 15776086,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $11,700,000. Public Accounts total across loaded years: $15,776,086."
+    },
+    {
+      "org_id": "compugen",
+      "org_name": "Compugen Inc.",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "COMPUGEN",
+        "COMPUGEN INC."
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Compugen Inc.",
+            "amount": 6542574,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Compugen Inc",
+            "amount": 92808,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Compugen Inc.",
+            "amount": 80347,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Compugen Inc.",
+            "amount": 16890790,
+            "ministry": "Office Of The Chief Electoral Officer",
+            "category": "Other Payments",
+            "payment_detail": "Election Expense Subsidies Payments"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Compugen Inc",
+            "amount": 127130,
+            "ministry": "Ministry Of Education",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Compugen Inc",
+            "amount": 119839,
+            "ministry": "Ministry Of Health",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Compugen Inc",
+            "amount": 173831,
+            "ministry": "Ministry Of Health",
+            "category": "Other Payments",
+            "payment_detail": "Tangible Capital Assets"
+          },
+          {
+            "recipient_name": "Compugen Inc",
+            "amount": 2868600,
+            "ministry": "Office Of The Chief Electoral Officer",
+            "category": "Statutory Payments",
+            "payment_detail": "Other Payments"
+          },
+          {
+            "recipient_name": "Compugen Inc",
+            "amount": 271821,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Compugen Inc",
+            "amount": 3949012,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Compugen Inc",
+            "amount": 2259072,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "Tangible Capital Assets"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 23606519,
+        "2023-24": 9769305
+      },
+      "total_paid_all_years_found": 33375824,
+      "consistency_note": "Public Accounts payments found ($33,375,824) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "d2l",
+      "org_name": "D2L (Brightspace)",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "BRIGHTSPACE",
+        "D2L (BRIGHTSPACE)",
+        "D2L BRIGHTSPACE"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "D2L Corporation",
+            "amount": 65053,
+            "ministry": "Office Of The Chief Electoral Officer",
+            "category": "Other Payments",
+            "payment_detail": "Election Expense Subsidies Payments"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "D2L Corp",
+            "amount": 74248,
+            "ministry": "Office Of The Chief Electoral Officer",
+            "category": "Statutory Payments",
+            "payment_detail": "Other Payments"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 65053,
+        "2023-24": 74248
+      },
+      "total_paid_all_years_found": 139301,
+      "consistency_note": "Public Accounts payments found ($139,301) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "honda-canada",
+      "org_name": "Honda Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 2500000000,
+      "search_variants_used": [
+        "HONDA CANADA",
+        "HONDA"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Honda Canada Inc",
+            "amount": 23921150,
+            "ministry": "Ministry Of Economic Development,Job Creation And Trade",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Honda Canada Inc",
+            "amount": 19840000,
+            "ministry": "Ministry Of Economic Development, Job Creation And Trade",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 23921150,
+        "2023-24": 26370478
+      },
+      "total_paid_all_years_found": 50291628,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $2,500,000,000. Public Accounts total across loaded years: $50,291,628."
+    },
+    {
+      "org_id": "lg-energy",
+      "org_name": "LG Energy Solution (NextStar)",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 5000000000,
+      "search_variants_used": [
+        "LGENERGYSOLUTIONNEXTSTAR",
+        "LG ENERGY SOLUTION NEXTSTAR",
+        "NEXTSTAR",
+        "LG ENERGY SOLUTION NEXT STAR",
+        "LG ENERGY SOLUTION (NEXTSTAR)"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Nextstar Energy Inc",
+            "amount": 293968316,
+            "ministry": "Ministry Of Economic Development,Job Creation And Trade",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 293968316
+      },
+      "total_paid_all_years_found": 293968316,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $5,000,000,000. Public Accounts total across loaded years: $293,968,316."
+    },
+    {
+      "org_id": "volkswagen-powerco",
+      "org_name": "Volkswagen PowerCo",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 500000000,
+      "search_variants_used": [
+        "VOLKSWAGENPOWERCO",
+        "VOLKSWAGEN POWERCO",
+        "VOLKSWAGEN POWER"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Npower Canada",
+            "amount": 213750,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Npower Canada",
+            "amount": 1243122,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 213750,
+        "2023-24": 1243122
+      },
+      "total_paid_all_years_found": 1456872,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $500,000,000. Public Accounts total across loaded years: $1,456,872."
+    },
+    {
+      "org_id": "toyota",
+      "org_name": "Toyota",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 110000000,
+      "search_variants_used": [
+        "TOYOTA"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Toyota Canada Inc",
+            "amount": 6080838,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Toyota Motor Manufacturing Canada Inc",
+            "amount": 28000000,
+            "ministry": "Ministry Of Economic Development, Job Creation And Trade",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Toyota Motor Manufacturing Canada Inc",
+            "amount": 233000,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Toyota Canada Inc",
+            "amount": 1933462,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 6080838,
+        "2023-24": 30166462
+      },
+      "total_paid_all_years_found": 36247300,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $110,000,000. Public Accounts total across loaded years: $36,247,300."
+    },
+    {
+      "org_id": "dufferin-crh",
+      "org_name": "Dufferin Construction / CRH Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 2500000000,
+      "search_variants_used": [
+        "CRH",
+        "DUFFERIN CONSTRUCTION CRH",
+        "DUFFERIN",
+        "DUFFERIN CONSTRUCTION / CRH CANADA"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Dufferin Veterinary Services Professional Corporation",
+            "amount": 81933,
+            "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "John Howard Society Of Peel-Halton-Dufferin",
+            "amount": 329960,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Caledon\\Dufferin Victim Services",
+            "amount": 486789,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Catholic Family Services Of Peel-Dufferin",
+            "amount": 1450320,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Wellington-Dufferin-Guelph Health Unit",
+            "amount": 1888451,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 6847866,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Community Living Dufferin",
+            "amount": 12585150,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Children'S Aid Society Of The County Of Dufferin (O/A Dufferin Child And Family Services)",
+            "amount": 14532956,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Dufferin-Peel Catholic District School Board",
+            "amount": 417574,
+            "ministry": "Ministry Of Education",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 19046280,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Dufferin-Peel Catholic District School Board",
+            "amount": 939752194,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 1181074,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Assisted Living Services In Supportive Housing"
+          },
+          {
+            "recipient_name": "Children'S Aid Society Of The County Of Dufferin (O/A Dufferin Child And Family Services)",
+            "amount": 1772194,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Child And Youth Mental Health"
+          },
+          {
+            "recipient_name": "Hospice Dufferin",
+            "amount": 271443,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Community Support Services"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 923610,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Community Support Services"
+          },
+          {
+            "recipient_name": "Alzheimer Society Of Dufferin County",
+            "amount": 1137032,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Community Support Services"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 5139634,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Municipal Ambulance Operations"
+          },
+          {
+            "recipient_name": "Wellington-Dufferin-Guelph Health Unit",
+            "amount": 17607122,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Official Local Health Agencies"
+          },
+          {
+            "recipient_name": "Wellington-Dufferin-Guelph Health Unit",
+            "amount": 343083,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Outbreaks Of Diseases"
+          },
+          {
+            "recipient_name": "St Clair Dufferin Physio Inc",
+            "amount": 269468,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Payments Made For Services And Care Provided By Physicians And Practitioners"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 493153,
+            "ministry": "Ministry Of Infrastructure",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Peel-Halton-Dufferin Adult Learning Network",
+            "amount": 175999,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Workforce Planning Board Of Waterloo Wellington Dufferin",
+            "amount": 290000,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Habitat For Humanity Halton-Mississauga-Dufferin",
+            "amount": 860648,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Dufferin-Peel Catholic District School Board",
+            "amount": 2356936,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 16155013,
+            "ministry": "Ministry Of Long-Term Care",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 3191957,
+            "ministry": "Ministry Of Municipal Affairs And Housing",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Catholic Family Services Of Peel-Dufferin",
+            "amount": 689161,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Kiewit-Dufferin Midtown Partnership",
+            "amount": 45436379,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Crh Canada Group Inc",
+            "amount": 239041583,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Dufferin-Caledon",
+            "amount": 536326,
+            "ministry": "Office Of The Chief Electoral Officer",
+            "category": "Statutory Payments",
+            "payment_detail": "Other Payments"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Dufferin Veterinary Services Professional Corporation",
+            "amount": 74302,
+            "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Catholic Family Services Of Peel-Dufferin",
+            "amount": 691438,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Caledon\\Dufferin Victim Services",
+            "amount": 484607,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Catholic Family Services Of Peel-Dufferin",
+            "amount": 1478190,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Children'S Aid Society Of The County Of Dufferin (O/A Dufferin Child And Family Services)",
+            "amount": 11642636,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Community Living Dufferin",
+            "amount": 11591323,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 5589113,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "John Howard Society Of Peel-Halton-Dufferin",
+            "amount": 322990,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Wellington-Dufferin-Guelph Health Unit",
+            "amount": 1567992,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 14595152,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Dufferin-Peel Catholic District School Board",
+            "amount": 803285305,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Dufferin-Peel Catholic District School Board",
+            "amount": 337601,
+            "ministry": "Ministry Of Education",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Dufferin Area Family Health Team",
+            "amount": 3396528,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Payments Made For Services And Care Provided By Physicians And Practitioners"
+          },
+          {
+            "recipient_name": "St Clair Dufferin Physio Inc",
+            "amount": 261618,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Payments Made For Services And Care Provided By Physicians And Practitioners"
+          },
+          {
+            "recipient_name": "Wellington-Dufferin-Guelph Health Unit",
+            "amount": 18049403,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Official Local Health Agencies"
+          },
+          {
+            "recipient_name": "Wellington-Dufferin-Guelph Health Unit",
+            "amount": 629175,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Outbreaks Of Diseases"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 4295536,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Municipal Ambulance Operations"
+          },
+          {
+            "recipient_name": "Alzheimer Society Of Dufferin County",
+            "amount": 885302,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Community Support Services"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 1065688,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Community Support Services"
+          },
+          {
+            "recipient_name": "Hospice Dufferin",
+            "amount": 222988,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Community Support Services"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 765301,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Assisted Living Services In Supportive Housing"
+          },
+          {
+            "recipient_name": "Children'S Aid Society Of The County Of Dufferin (O/A Dufferin Child And Family Services)",
+            "amount": 1610994,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Child And Youth Mental Health"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 735870,
+            "ministry": "Ministry Of Infrastructure",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Dufferin-Peel Catholic District School Board",
+            "amount": 2500426,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Peel-Halton-Dufferin Adult Learning Network",
+            "amount": 145178,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Workforce Planning Board Of Waterloo Wellington Dufferin",
+            "amount": 290000,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 13377781,
+            "ministry": "Ministry Of Long-Term Care",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "County Of Dufferin",
+            "amount": 3326573,
+            "ministry": "Ministry Of Municipal Affairs And Housing",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Crh Canada Group Inc",
+            "amount": 329147343,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Kiewit-Dufferin Midtown Partnership",
+            "amount": 52010899,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 1335291288,
+        "2023-24": 1290907730
+      },
+      "total_paid_all_years_found": 2626199018,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $2,500,000,000. Public Accounts total across loaded years: $2,626,199,018."
+    },
+    {
+      "org_id": "green-infrastructure-partners",
+      "org_name": "Green Infrastructure Partners (GIP)",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 638600000,
+      "search_variants_used": [
+        "GIP",
+        "GREEN INFRASTRUCTURE PARTNERS GIP",
+        "GREEN INFRASTRUCTURE PARTNERS (GIP)"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Green Infrastructure Partners Inc.",
+            "amount": 147445,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Green Infrastructure Partners Inc.",
+            "amount": 227506,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 147445,
+        "2023-24": 227506
+      },
+      "total_paid_all_years_found": 374951,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $638,600,000. Public Accounts total across loaded years: $374,951."
+    },
+    {
+      "org_id": "fermar-paving",
+      "org_name": "Fermar Paving",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "FERMAR PAVING"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Fermar Paving Limited",
+            "amount": 31932646,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Fermar Paving Limited",
+            "amount": 37319189,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 31932646,
+        "2023-24": 37319189
+      },
+      "total_paid_all_years_found": 69251835,
+      "consistency_note": "Public Accounts payments found ($69,251,835) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "flatiron-dragados",
+      "org_name": "Flatiron Dragados Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 500000000,
+      "search_variants_used": [
+        "FLATIRON DRAGADOS",
+        "FLATIRON DRAGADOS CANADA"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $500,000,000. Public Accounts total across loaded years: $6,530,478."
+    },
+    {
+      "org_id": "miller-group",
+      "org_name": "Miller Group (Colas Canada)",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "COLAS",
+        "MILLER GROUP (COLAS CANADA)",
+        "MILLER GROUP COLAS CANADA",
+        "COLAS CANADA"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Cola'S Kitchen Inc.",
+            "amount": 120000,
+            "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Nicolas M. Rouleau ",
+            "amount": 160000,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Statutory Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Johanne Colas",
+            "amount": 57855,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 280000,
+        "2023-24": 6588333
+      },
+      "total_paid_all_years_found": 6868333,
+      "consistency_note": "Public Accounts payments found ($6,868,333) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "brennan-construction",
+      "org_name": "Brennan Construction",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "BRENNAN",
+        "BRENNAN CONSTRUCTION"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Brennan Paving & Construction Ltd",
+            "amount": 186122701,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Brennan, Maeghan Elizabeth",
+            "amount": 13401,
+            "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+            "category": "Travel Expenses",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Brennan Paving & Construction Ltd",
+            "amount": 233967626,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 186122701,
+        "2023-24": 233981027
+      },
+      "total_paid_all_years_found": 420103728,
+      "consistency_note": "Public Accounts payments found ($420,103,728) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "brennan-paving",
+      "org_name": "Brennan Paving & Construction",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 114000000,
+      "search_variants_used": [
+        "BRENNAN PAVING & CONSTRUCTION",
+        "BRENNAN PAVING"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Brennan Paving & Construction Ltd",
+            "amount": 186122701,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Brennan Paving & Construction Ltd",
+            "amount": 233967626,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 186122701,
+        "2023-24": 233967626
+      },
+      "total_paid_all_years_found": 420090327,
+      "consistency_note": "REVIEW: Annual payment (233,967,626) exceeds total contract value (114,000,000). Contract value may be understated or payment includes related entities."
+    },
+    {
+      "org_id": "stantec",
+      "org_name": "Stantec",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 9000000,
+      "search_variants_used": [
+        "STANTEC"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Stantec Inc",
+            "amount": 93872,
+            "ministry": "Ministry Of Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Stantec Consulting Ltd",
+            "amount": 25152162,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Stantec Inc",
+            "amount": 53950,
+            "ministry": "Ministry Of The Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Stantec Consulting Ltd",
+            "amount": 12801849,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 25246034,
+        "2023-24": 12855799
+      },
+      "total_paid_all_years_found": 38101833,
+      "consistency_note": "REVIEW: Annual payment (25,246,034) exceeds total contract value (9,000,000). Contract value may be understated or payment includes related entities."
+    },
+    {
+      "org_id": "moncrief-construction",
+      "org_name": "Moncrief Construction",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 32000000,
+      "search_variants_used": [
+        "MONCRIEF",
+        "MONCRIEF CONSTRUCTION"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Moncrief Construction Ltd",
+            "amount": 13289380,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Moncrief Construction Ltd",
+            "amount": 16369670,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 13289380,
+        "2023-24": 16369670
+      },
+      "total_paid_all_years_found": 29659050,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $32,000,000. Public Accounts total across loaded years: $29,659,050."
+    },
+    {
+      "org_id": "pave-al",
+      "org_name": "Pave-Al",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "PAVE-AL",
+        "PAVEAL"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Pave-Al Ltd",
+            "amount": 65055,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Pave-Al Ltd",
+            "amount": 1263245,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 65055,
+        "2023-24": 1263245
+      },
+      "total_paid_all_years_found": 1328300,
+      "consistency_note": "Public Accounts payments found ($1,328,300) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "andritz-hydropower",
+      "org_name": "Andritz Hydropower Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 2500000000,
+      "search_variants_used": [
+        "ANDRITZ HYDROPOWER",
+        "ANDRITZ HYDROPOWER CANADA"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $2,500,000,000. Public Accounts total across loaded years: $6,530,478."
+    },
+    {
+      "org_id": "hydro-one",
+      "org_name": "Hydro One",
+      "org_type": "crown-agency",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "HYDRO ONE"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Hydro One Networks Inc",
+            "amount": 69159219,
+            "ministry": "Ministry Of Economic Development,Job Creation And Trade",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One",
+            "amount": 4243646,
+            "ministry": "Ministry Of Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One Broadband Solutions Inc",
+            "amount": 1386510,
+            "ministry": "Ministry Of Infrastructure",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One Networks Inc",
+            "amount": 55893458,
+            "ministry": "Ministry Of Infrastructure",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One Networks Inc",
+            "amount": 1225414,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One Networks Inc",
+            "amount": 100549,
+            "ministry": "Ministry Of Mines",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One",
+            "amount": 764775,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One Networks Inc",
+            "amount": 372055,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One Remote Communities Inc",
+            "amount": 395435,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One Inc",
+            "amount": 2833021,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One Networks Inc",
+            "amount": 5730717,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Hydro One Networks Inc",
+            "amount": 79179100,
+            "ministry": "Ministry Of Economic Development, Job Creation And Trade",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One",
+            "amount": 3866911,
+            "ministry": "Ministry Of The Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One Networks Inc",
+            "amount": 1573698,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One Networks Inc",
+            "amount": 101282,
+            "ministry": "Ministry Of Mines",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One",
+            "amount": 707110,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One Inc",
+            "amount": 16913710,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hydro One Networks Inc",
+            "amount": 341619,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 142104799,
+        "2023-24": 102683430
+      },
+      "total_paid_all_years_found": 244788229,
+      "consistency_note": "Public Accounts payments found ($244,788,229) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "opg",
+      "org_name": "Ontario Power Generation (OPG)",
+      "org_type": "crown-agency",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "ONTARIO POWER GENERATION (OPG)",
+        "OPG",
+        "ONTARIO POWER GENERATION OPG"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Ontario Power Generation Inc",
+            "amount": 1859056,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Ontario Power Generation Inc",
+            "amount": 856396,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ontario Power Generation Inc",
+            "amount": 10691857,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 1859056,
+        "2023-24": 11548253
+      },
+      "total_paid_all_years_found": 13407309,
+      "consistency_note": "Public Accounts payments found ($13,407,309) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "ge-vernova-hitachi",
+      "org_name": "GE Vernova Hitachi Nuclear Energy",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "GE VERNOVA HITACHI NUCLEAR ENERGY"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Lea Consulting Ltd",
+            "amount": 13823164,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Lea Consulting Ltd",
+            "amount": 12780730,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 13823164,
+        "2023-24": 12780730
+      },
+      "total_paid_all_years_found": 26603894,
+      "consistency_note": "Public Accounts payments found ($26,603,894) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "bwxt-canada",
+      "org_name": "BWXT Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "BWXT",
+        "BWXT CANADA"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Public Accounts payments found ($6,530,478) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "black-and-mcdonald",
+      "org_name": "Black & McDonald",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "BLACKMCDONALD",
+        "BLACK MC DONALD",
+        "BLACK & MCDONALD",
+        "BLACK MCDONALD"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Black & Mcdonald Limited",
+            "amount": 8737917,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Black & Mcdonald Limited",
+            "amount": 11391698,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 8737917,
+        "2023-24": 11391698
+      },
+      "total_paid_all_years_found": 20129615,
+      "consistency_note": "Public Accounts payments found ($20,129,615) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "carepartners",
+      "org_name": "CarePartners",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 140000000,
+      "search_variants_used": [
+        "CARE PARTNERS",
+        "CAREPARTNERS"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Manorcare Partners Ii",
+            "amount": 6182302,
+            "ministry": "Ministry Of Long-Term Care",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Manorcare Partners I",
+            "amount": 6362047,
+            "ministry": "Ministry Of Long-Term Care",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "E Blyth, R Boddaert, R Craig, S Dean, Et Al (O/A Parkview Health Care Partnership)",
+            "amount": 10698586,
+            "ministry": "Ministry Of Long-Term Care",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "E Blyth, R Boddaert, R Craig, S Dean, Et Al (O/A Parkview Health Care Partnership)",
+            "amount": 9886400,
+            "ministry": "Ministry Of Long-Term Care",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Manorcare Partners I",
+            "amount": 5981381,
+            "ministry": "Ministry Of Long-Term Care",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Manorcare Partners Ii",
+            "amount": 5418728,
+            "ministry": "Ministry Of Long-Term Care",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 23242935,
+        "2023-24": 27816987
+      },
+      "total_paid_all_years_found": 51059922,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $140,000,000. Public Accounts total across loaded years: $51,059,922."
+    },
+    {
+      "org_id": "noront-resources",
+      "org_name": "Noront Resources (Wyloo Metals)",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "NORONT RESOURCES WYLOO METALS",
+        "NORONT RESOURCES (WYLOO METALS)",
+        "WYLOO METALS"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Als Ltd.",
+            "amount": 63629,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Eso Solutions Canada",
+            "amount": 141250,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Als Ltd.",
+            "amount": 58044,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Eso Solutions Canada",
+            "amount": 113000,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 204879,
+        "2023-24": 171044
+      },
+      "total_paid_all_years_found": 375923,
+      "consistency_note": "Public Accounts payments found ($375,923) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "ontario-transit-group",
+      "org_name": "Ontario Transit Group (Consortium)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": 6000000000,
+      "search_variants_used": [
+        "ONTARIO TRANSIT GROUP (CONSORTIUM)",
+        "CONSORTIUM",
+        "ONTARIO TRANSIT GROUP CONSORTIUM"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 935213,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium / Consortium Ontarien Pour L'Apprentissage En Linge",
+            "amount": 10782352,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 16356835,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 1114933,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium",
+            "amount": 19399349,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 13625358,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Excellence In Manufacturing Consortium Of Canada",
+            "amount": 612112,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "total_paid_all_years_found": 62826152,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $6,000,000,000. Public Accounts total across loaded years: $62,826,152."
+    },
+    {
+      "org_id": "connect-6ix",
+      "org_name": "Connect 6ix (Consortium)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": 9000000000,
+      "search_variants_used": [
+        "CONNECT 6IX (CONSORTIUM)",
+        "CONNECT 6IX CONSORTIUM",
+        "CONSORTIUM"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 935213,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium / Consortium Ontarien Pour L'Apprentissage En Linge",
+            "amount": 10782352,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 16356835,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 1114933,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium",
+            "amount": 19399349,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 13625358,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Excellence In Manufacturing Consortium Of Canada",
+            "amount": 612112,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "total_paid_all_years_found": 62826152,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $9,000,000,000. Public Accounts total across loaded years: $62,826,152."
+    },
+    {
+      "org_id": "pape-north-connect",
+      "org_name": "Pape North Connect (Consortium)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": 2500000000,
+      "search_variants_used": [
+        "PAPE NORTH CONNECT (CONSORTIUM)",
+        "CONSORTIUM",
+        "PAPE NORTH CONNECT CONSORTIUM"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 935213,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium / Consortium Ontarien Pour L'Apprentissage En Linge",
+            "amount": 10782352,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 16356835,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 1114933,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium",
+            "amount": 19399349,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 13625358,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Excellence In Manufacturing Consortium Of Canada",
+            "amount": 612112,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "total_paid_all_years_found": 62826152,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $2,500,000,000. Public Accounts total across loaded years: $62,826,152."
+    },
+    {
+      "org_id": "trillium-guideway-partners",
+      "org_name": "Trillium Guideway Partners (Consortium)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "TRILLIUM GUIDEWAY PARTNERS CONSORTIUM",
+        "TRILLIUM GUIDEWAY PARTNERS (CONSORTIUM)",
+        "CONSORTIUM"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 935213,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium / Consortium Ontarien Pour L'Apprentissage En Linge",
+            "amount": 10782352,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 16356835,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Trillium",
+            "amount": 28153701,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Ontario Drug Programs"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 1114933,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium",
+            "amount": 19399349,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 13625358,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Trillium",
+            "amount": 23465235,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Ontario Drug Programs"
+          },
+          {
+            "recipient_name": "Excellence In Manufacturing Consortium Of Canada",
+            "amount": 612112,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 56228101,
+        "2023-24": 58216987
+      },
+      "total_paid_all_years_found": 114445088,
+      "consistency_note": "Public Accounts payments found ($114,445,088) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "trillium-rail-partners",
+      "org_name": "Trillium Rail Partners (Consortium)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "CONSORTIUM",
+        "TRILLIUM RAIL PARTNERS CONSORTIUM",
+        "TRILLIUM RAIL PARTNERS (CONSORTIUM)"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 935213,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium / Consortium Ontarien Pour L'Apprentissage En Linge",
+            "amount": 10782352,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 16356835,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Trillium",
+            "amount": 28153701,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Ontario Drug Programs"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 1114933,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium",
+            "amount": 19399349,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 13625358,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Trillium",
+            "amount": 23465235,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Ontario Drug Programs"
+          },
+          {
+            "recipient_name": "Excellence In Manufacturing Consortium Of Canada",
+            "amount": 612112,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 56228101,
+        "2023-24": 58216987
+      },
+      "total_paid_all_years_found": 114445088,
+      "consistency_note": "Public Accounts payments found ($114,445,088) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "scarborough-transit-connect",
+      "org_name": "Scarborough Transit Connect (Consortium)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": 5700000000,
+      "search_variants_used": [
+        "SCARBOROUGH TRANSIT CONNECT CONSORTIUM",
+        "CONSORTIUM",
+        "SCARBOROUGH TRANSIT CONNECT (CONSORTIUM)"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 935213,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium / Consortium Ontarien Pour L'Apprentissage En Linge",
+            "amount": 10782352,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 16356835,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 1114933,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium",
+            "amount": 19399349,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 13625358,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Excellence In Manufacturing Consortium Of Canada",
+            "amount": 612112,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 28074400,
+        "2023-24": 41282230
+      },
+      "total_paid_all_years_found": 69356630,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $5,700,000,000. Public Accounts total across loaded years: $69,356,630."
+    },
+    {
+      "org_id": "west-end-connectors",
+      "org_name": "West End Connectors (Consortium)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": 729000000,
+      "search_variants_used": [
+        "CONSORTIUM",
+        "WEST END CONNECTORS CONSORTIUM",
+        "WEST END CONNECTORS (CONSORTIUM)"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 935213,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium / Consortium Ontarien Pour L'Apprentissage En Linge",
+            "amount": 10782352,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 16356835,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 1114933,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium",
+            "amount": 19399349,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 13625358,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Excellence In Manufacturing Consortium Of Canada",
+            "amount": 612112,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "total_paid_all_years_found": 62826152,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $729,000,000. Public Accounts total across loaded years: $62,826,152."
+    },
+    {
+      "org_id": "north-end-connectors",
+      "org_name": "North End Connectors (Consortium)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": 1400000000,
+      "search_variants_used": [
+        "NORTH END CONNECTORS (CONSORTIUM)",
+        "NORTH END CONNECTORS CONSORTIUM",
+        "CONSORTIUM"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 935213,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium / Consortium Ontarien Pour L'Apprentissage En Linge",
+            "amount": 10782352,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 16356835,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 1114933,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium",
+            "amount": 19399349,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 13625358,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Excellence In Manufacturing Consortium Of Canada",
+            "amount": 612112,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "total_paid_all_years_found": 62826152,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $1,400,000,000. Public Accounts total across loaded years: $62,826,152."
+    },
+    {
+      "org_id": "onxpress",
+      "org_name": "ONxpress (Consortium)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": 1600000000,
+      "search_variants_used": [
+        "ONXPRESS (CONSORTIUM)",
+        "ONXPRESS CONSORTIUM",
+        "CONSORTIUM"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 935213,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium / Consortium Ontarien Pour L'Apprentissage En Linge",
+            "amount": 10782352,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 16356835,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 1114933,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium",
+            "amount": 19399349,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 13625358,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Excellence In Manufacturing Consortium Of Canada",
+            "amount": 612112,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "total_paid_all_years_found": 62826152,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $1,600,000,000. Public Accounts total across loaded years: $62,826,152."
+    },
+    {
+      "org_id": "mobilinx",
+      "org_name": "Mobilinx (Consortium)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": 4600000000,
+      "search_variants_used": [
+        "MOBILINX CONSORTIUM",
+        "MOBILINX (CONSORTIUM)",
+        "CONSORTIUM"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 935213,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium / Consortium Ontarien Pour L'Apprentissage En Linge",
+            "amount": 10782352,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 16356835,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 1114933,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium",
+            "amount": 19399349,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 13625358,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Excellence In Manufacturing Consortium Of Canada",
+            "amount": 612112,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "total_paid_all_years_found": 62826152,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $4,600,000,000. Public Accounts total across loaded years: $62,826,152."
+    },
+    {
+      "org_id": "mosaic-transit-group",
+      "org_name": "Mosaic Transit Group (Consortium)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": 2500000000,
+      "search_variants_used": [
+        "MOSAIC TRANSIT GROUP (CONSORTIUM)",
+        "MOSAIC TRANSIT GROUP CONSORTIUM",
+        "CONSORTIUM"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 935213,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium / Consortium Ontarien Pour L'Apprentissage En Linge",
+            "amount": 10782352,
+            "ministry": "Ministry Of Colleges And Universities",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 16356835,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Indigenous Institutes Consortium",
+            "amount": 1114933,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Ontario Online Learning Consortium",
+            "amount": 19399349,
+            "ministry": "Ministry Of Colleges And Universities ",
+            "category": "Transfer Payments",
+            "payment_detail": "Operating Transfer Payments"
+          },
+          {
+            "recipient_name": "Consortium Centre Jules-L\u00e9ger",
+            "amount": 13625358,
+            "ministry": "Ministry Of Education",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Excellence In Manufacturing Consortium Of Canada",
+            "amount": 612112,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "total_paid_all_years_found": 62826152,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $2,500,000,000. Public Accounts total across loaded years: $62,826,152."
+    },
+    {
+      "org_id": "shoreline-power-group",
+      "org_name": "Shoreline Power Group (Aecon/AtkinsRealis JV)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": 1300000000,
+      "search_variants_used": [
+        "ATKINSREALIS JV",
+        "AECONATKINSREALIS JV",
+        "SHORELINE POWER GROUP AECON",
+        "SHORELINEPOWERGROUPAECONATKINSREALISJV",
+        "SHORELINE POWER GROUP AECONATKINS REALIS JV",
+        "SHORELINE POWER GROUP (AECON/ATKINSREALIS JV)",
+        "SHORELINE POWER GROUP AECONATKINSREALIS JV",
+        "AECON/ATKINSREALIS JV"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 134131,
+            "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 100017,
+            "ministry": "Ministry Of Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 1400914,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Shore Consulting Group Inc.",
+            "amount": 101079,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 191648,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 221819,
+            "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 1694018,
+            "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Shore Consulting Group Inc",
+            "amount": 266499,
+            "ministry": "Ministry Of Tourism, Culture And Sport\n    ",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 1927789,
+        "2023-24": 2182336
+      },
+      "total_paid_all_years_found": 4110125,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $1,300,000,000. Public Accounts total across loaded years: $4,110,125."
+    },
+    {
+      "org_id": "canatom",
+      "org_name": "CanAtom (AtkinsRealis + Aecon JV)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": 14900000000,
+      "search_variants_used": [
+        "ATKINSREALIS AECON JV",
+        "CANATOM (ATKINSREALIS + AECON JV)",
+        "CANATOMATKINSREALISAECONJV",
+        "CAN ATOM ATKINS REALIS AECON JV",
+        "CANATOM ATKINSREALIS AECON JV",
+        "ATKINSREALIS + AECON JV"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $14,900,000,000. Public Accounts total across loaded years: $6,530,478."
+    },
+    {
+      "org_id": "aecon-kiewit",
+      "org_name": "Aecon Kiewit Nuclear Partners",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": 1300000000,
+      "search_variants_used": [
+        "AECON KIEWIT NUCLEAR PARTNERS"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Lea Consulting Ltd",
+            "amount": 13823164,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Lea Consulting Ltd",
+            "amount": 12780730,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 13823164,
+        "2023-24": 12780730
+      },
+      "total_paid_all_years_found": 26603894,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $1,300,000,000. Public Accounts total across loaded years: $26,603,894."
+    },
+    {
+      "org_id": "acs-infrastructure",
+      "org_name": "ACS Infrastructure Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 2500000000,
+      "search_variants_used": [
+        "ACS INFRASTRUCTURE",
+        "ACS INFRASTRUCTURE CANADA"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $2,500,000,000. Public Accounts total across loaded years: $6,530,478."
+    },
+    {
+      "org_id": "shwe-miikaan",
+      "org_name": "Shwe Miikaan (Indigenous Partnership)",
+      "org_type": "consortium",
+      "total_gov_value_in_our_data": 500000000,
+      "search_variants_used": [
+        "SHWE MIIKAAN (INDIGENOUS PARTNERSHIP)",
+        "INDIGENOUS PARTNERSHIP",
+        "SHWE MIIKAAN INDIGENOUS PARTNERSHIP"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Shi Canada",
+            "amount": 317999,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 317999
+      },
+      "total_paid_all_years_found": 317999,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $500,000,000. Public Accounts total across loaded years: $317,999."
+    },
+    {
+      "org_id": "aecom",
+      "org_name": "AECOM",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "AECOM"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Aecom Canada Ltd",
+            "amount": 381638,
+            "ministry": "Ministry Of Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Aecom",
+            "amount": 1097249,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Aecom Canada Ltd",
+            "amount": 51448695,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Aecom Canada Ltd",
+            "amount": 33405035,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 52927582,
+        "2023-24": 33405035
+      },
+      "total_paid_all_years_found": 86332617,
+      "consistency_note": "Public Accounts payments found ($86,332,617) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "jacobs",
+      "org_name": "Jacobs",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "JACOBS"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Jacobs Consultancy Canada Inc",
+            "amount": 96166,
+            "ministry": "Ministry Of Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Watson Jacobs Bosnick Llp",
+            "amount": 309380,
+            "ministry": "Ministry Of Health",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Jacobs Consultancy Canada Inc",
+            "amount": 123280,
+            "ministry": "Ministry Of The Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Watson Jacobs Bosnick Llp",
+            "amount": 299689,
+            "ministry": "Ministry Of Health",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 405546,
+        "2023-24": 422969
+      },
+      "total_paid_all_years_found": 828515,
+      "consistency_note": "Public Accounts payments found ($828,515) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "parsons",
+      "org_name": "Parsons",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "PARSONS"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "David Pfingstgraef Joanne Parsons (O/A Elgin Audiology Consultants)",
+            "amount": 141713,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Parsons, Bonnie Marie",
+            "amount": 16221,
+            "ministry": "Ministry Of Education",
+            "category": "Travel Expenses",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Parsons Inc.",
+            "amount": 116561,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Parsons, Robert J.",
+            "amount": 24687,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Travel Expenses",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Parsons Inc",
+            "amount": 34817386,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Parsons, Robert John",
+            "amount": 23770,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Travel Expenses",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "David Pfingstgraef Joanne Parsons (O/A Elgin Audiology Consultants)",
+            "amount": 141217,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Parsons, Bonnie Marie",
+            "amount": 13193,
+            "ministry": "Ministry Of Education",
+            "category": "Travel Expenses",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Parsons Inc",
+            "amount": 18975834,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 35116568,
+        "2023-24": 19154014
+      },
+      "total_paid_all_years_found": 54270582,
+      "consistency_note": "Public Accounts payments found ($54,270,582) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "construction-demathieu-bard",
+      "org_name": "Construction Demathieu & Bard",
+      "org_type": "company",
+      "total_gov_value_in_our_data": 500000000,
+      "search_variants_used": [
+        "CONSTRUCTION DEMATHIEU BARD",
+        "CONSTRUCTION DEMATHIEU & BARD"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Construction Demathieu & Bard Inc.",
+            "amount": 3322457,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Construction Demathieu & Bard Inc.",
+            "amount": 4734731,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 3322457,
+        "2023-24": 4734731
+      },
+      "total_paid_all_years_found": 8057188,
+      "consistency_note": "Annual public accounts payments found. Our contract value: $500,000,000. Public Accounts total across loaded years: $8,057,188."
+    },
+    {
+      "org_id": "hatch",
+      "org_name": "Hatch",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "HATCH"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Hatch Ltd.",
+            "amount": 878830,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hatch Industries Ltd",
+            "amount": 160933,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hatch Ltd",
+            "amount": 2501849,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hatch Corporation",
+            "amount": 9257007,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Hatch Ltd.",
+            "amount": 165994,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hatch Corporation",
+            "amount": 8702103,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hatch Ltd",
+            "amount": 759580,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Hatch Industries Ltd",
+            "amount": 118588,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 12798619,
+        "2023-24": 9746265
+      },
+      "total_paid_all_years_found": 22544884,
+      "consistency_note": "Public Accounts payments found ($22,544,884) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "arup-canada",
+      "org_name": "Arup Canada",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "ARUP",
+        "ARUP CANADA"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Public Accounts payments found ($6,530,478) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "arcadis",
+      "org_name": "Arcadis",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "ARCADIS"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Arcadis Canada Inc",
+            "amount": 104395,
+            "ministry": "Ministry Of Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Arcadis Professional Services (Canada) Inc",
+            "amount": 162155,
+            "ministry": "Ministry Of Municipal Affairs And Housing",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Arcadis Professional Services (Canada) Inc",
+            "amount": 6243554,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Arcadis Canada Inc",
+            "amount": 137366,
+            "ministry": "Ministry Of The Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Arcadis Canada Inc.",
+            "amount": 148224,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Arcadis Professional Services (Canada) Inc",
+            "amount": 5209775,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 6510104,
+        "2023-24": 12025843
+      },
+      "total_paid_all_years_found": 18535947,
+      "consistency_note": "Public Accounts payments found ($18,535,947) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "ghd",
+      "org_name": "GHD",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "GHD"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Ghd Limited",
+            "amount": 110850,
+            "ministry": "Ministry Of Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ghd Limited",
+            "amount": 204714,
+            "ministry": "Ministry Of Mines",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ghd",
+            "amount": 436231,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ghd Ltd.",
+            "amount": 80174,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ghd Limited",
+            "amount": 19066874,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Ghd Limited",
+            "amount": 101697,
+            "ministry": "Ministry Of The Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ghd Limited",
+            "amount": 671991,
+            "ministry": "Ministry Of Mines",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ghd",
+            "amount": 265596,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ghd Limited",
+            "amount": 17804923,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 19898843,
+        "2023-24": 18844207
+      },
+      "total_paid_all_years_found": 38743050,
+      "consistency_note": "Public Accounts payments found ($38,743,050) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "exp-services",
+      "org_name": "EXP Services",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "EXP SERVICES",
+        "EXP"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Exp Services Inc",
+            "amount": 155787,
+            "ministry": "Ministry Of Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Exp. Services Inc.",
+            "amount": 237680,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Exp Services Inc",
+            "amount": 3839654,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Exp Services Inc",
+            "amount": 526881,
+            "ministry": "Ministry Of The Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Exp. Services Inc.",
+            "amount": 415783,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Exp Services Inc",
+            "amount": 2394792,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Exp Services Inc",
+            "amount": 61913,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Exp Services Inc",
+            "amount": 56500,
+            "ministry": "Ministry Of Northern Development",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 4233121,
+        "2023-24": 3455869
+      },
+      "total_paid_all_years_found": 7688990,
+      "consistency_note": "Public Accounts payments found ($7,688,990) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "ge",
+      "org_name": "GE (General Electric)",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "GE (GENERAL ELECTRIC)",
+        "GE GENERAL ELECTRIC",
+        "GENERAL ELECTRIC"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "General Electric Canada",
+            "amount": 459613,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Ge Healthcare Canada (Div Of General Electric Canada)",
+            "amount": 520460,
+            "ministry": "Ministry Of Solicitor General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 459613,
+        "2023-24": 520460
+      },
+      "total_paid_all_years_found": 980073,
+      "consistency_note": "Public Accounts payments found ($980,073) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "sener",
+      "org_name": "SENER",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "SENER"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Sheldon Wisener",
+            "amount": 191475,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Sheldon Wisener",
+            "amount": 162723,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 191475,
+        "2023-24": 162723
+      },
+      "total_paid_all_years_found": 354198,
+      "consistency_note": "Public Accounts payments found ($354,198) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "dillon",
+      "org_name": "Dillon Consulting",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "DILLON",
+        "DILLON CONSULTING"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Dillon Consulting Ltd",
+            "amount": 498368,
+            "ministry": "Ministry Of Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Dillon Consulting Ltd",
+            "amount": 6302858,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Dillon Consulting Ltd",
+            "amount": 148811,
+            "ministry": "Ministry Of The Environment, Conservation And Parks",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Dillon Consulting Ltd",
+            "amount": 4494924,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 6801226,
+        "2023-24": 4643735
+      },
+      "total_paid_all_years_found": 11444961,
+      "consistency_note": "Public Accounts payments found ($11,444,961) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "parkin-architects",
+      "org_name": "Parkin Architects",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "PARKIN ARCHITECTS"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Hite Services Ltd.",
+            "amount": 197929,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Hite Services Ltd.",
+            "amount": 135361,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 197929,
+        "2023-24": 135361
+      },
+      "total_paid_all_years_found": 333290,
+      "consistency_note": "Public Accounts payments found ($333,290) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "adamson-associates",
+      "org_name": "Adamson Associates",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "ADAMSON ASSOCIATES"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Mso Construction Ltd",
+            "amount": 75915,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Mso Construction Ltd",
+            "amount": 1228524,
+            "ministry": "Ministry Of Transportation",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 75915,
+        "2023-24": 1228524
+      },
+      "total_paid_all_years_found": 1304439,
+      "consistency_note": "Public Accounts payments found ($1,304,439) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "diamond-schmitt",
+      "org_name": "Diamond Schmitt Architects",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "DIAMOND SCHMITT ARCHITECTS"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Hite Services Ltd.",
+            "amount": 197929,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Hite Services Ltd.",
+            "amount": 135361,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 197929,
+        "2023-24": 135361
+      },
+      "total_paid_all_years_found": 333290,
+      "consistency_note": "Public Accounts payments found ($333,290) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "kpmb-architects",
+      "org_name": "KPMB Architects",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "KPMB ARCHITECTS"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Hite Services Ltd.",
+            "amount": 197929,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Hite Services Ltd.",
+            "amount": 135361,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 197929,
+        "2023-24": 135361
+      },
+      "total_paid_all_years_found": 333290,
+      "consistency_note": "Public Accounts payments found ($333,290) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "cannon-design",
+      "org_name": "Cannon Design",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "CANNON DESIGN"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Public Accounts payments found ($6,530,478) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "ymca-ontario",
+      "org_name": "YMCA Ontario",
+      "org_type": "non-profit",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "YMCA",
+        "YMCA ONTARIO"
+      ],
+      "matches_by_year": {
+        "2023-24": [
+          {
+            "recipient_name": "Ca Inc",
+            "amount": 6530478,
+            "ministry": "Ministry Of Public And Business Service Delivery",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2023-24": 6530478
+      },
+      "total_paid_all_years_found": 6530478,
+      "consistency_note": "Public Accounts payments found ($6,530,478) but no total_gov_value set in our data."
+    },
+    {
+      "org_id": "strategycorp",
+      "org_name": "StrategyCorp",
+      "org_type": "company",
+      "total_gov_value_in_our_data": null,
+      "search_variants_used": [
+        "STRATEGYCORP",
+        "STRATEGY"
+      ],
+      "matches_by_year": {
+        "2024-25": [
+          {
+            "recipient_name": "Earnscliffe Strategy Group Gp",
+            "amount": 90519,
+            "ministry": "Cabinet Office",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "The Healing Of The Seven Generations \"A Community Healing Strategy & Support Program\"",
+            "amount": 250290,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Invictus Analytics And Strategy Inc",
+            "amount": 1154570,
+            "ministry": "Ministry Of Health",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ontario Aboriginal Hiv/Aids Strategy",
+            "amount": 2654482,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Hiv Aids And Hepatitis C Programs"
+          },
+          {
+            "recipient_name": "Sussex Strategy Group Inc.",
+            "amount": 186934,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Sussex Strategy Group Inc.",
+            "amount": 285606,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ],
+        "2023-24": [
+          {
+            "recipient_name": "Invictus Analytics And Strategy Inc",
+            "amount": 153180,
+            "ministry": "Ministry Of The Attorney General",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "The Healing Of The Seven Generations \"A Community Healing Strategy & Support Program\"",
+            "amount": 245000,
+            "ministry": "Ministry Of Children, Community And Social Services",
+            "category": "Transfer Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Ontario Aboriginal Hiv/Aids Strategy",
+            "amount": 2244482,
+            "ministry": "Ministry Of Health",
+            "category": "Transfer Payments",
+            "payment_detail": "Hiv Aids And Hepatitis C Programs"
+          },
+          {
+            "recipient_name": "Invictus Analytics And Strategy Inc",
+            "amount": 1490083,
+            "ministry": "Ministry Of Health",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          },
+          {
+            "recipient_name": "Strategycorp Inc.",
+            "amount": 51658,
+            "ministry": "Ministry Of Natural Resources And Forestry",
+            "category": "Other Payments",
+            "payment_detail": "No Value"
+          }
+        ]
+      },
+      "yearly_totals": {
+        "2024-25": 4622401,
+        "2023-24": 4184403
+      },
+      "total_paid_all_years_found": 8806804,
+      "consistency_note": "Public Accounts payments found ($8,806,804) but no total_gov_value set in our data."
+    }
+  ],
+  "unmatched_organizations_with_contract_value": [
+    {
+      "org_id": "strabag",
+      "org_name": "Strabag Inc.",
+      "org_type": "company",
+      "total_gov_value": 1012000000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "the-justice-fund",
+      "org_name": "The Justice Fund",
+      "org_type": "non-profit",
+      "total_gov_value": 4000000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "orba",
+      "org_name": "ORBA (Ontario Road Builders' Association)",
+      "org_type": "association",
+      "total_gov_value": 1800000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "chartwell",
+      "org_name": "Chartwell Retirement Residences",
+      "org_type": "company",
+      "total_gov_value": 690000000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "sienna-senior-living",
+      "org_name": "Sienna Senior Living",
+      "org_type": "company",
+      "total_gov_value": 930000000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "bruce-power",
+      "org_name": "Bruce Power",
+      "org_type": "company",
+      "total_gov_value": 13000000000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "cgi",
+      "org_name": "CGI",
+      "org_type": "company",
+      "total_gov_value": 46200000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "stellantis",
+      "org_name": "Stellantis",
+      "org_type": "company",
+      "total_gov_value": 5000000000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "coco-paving",
+      "org_name": "Coco Paving",
+      "org_type": "company",
+      "total_gov_value": 138600000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "valard-construction",
+      "org_name": "Valard Construction LP",
+      "org_type": "company",
+      "total_gov_value": 1200000000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "forbes-bros",
+      "org_name": "Forbes Bros.",
+      "org_type": "company",
+      "total_gov_value": 1671900000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "se-health",
+      "org_name": "SE Health (Saint Elizabeth)",
+      "org_type": "non-profit",
+      "total_gov_value": 1300000000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "deutsche-bahn",
+      "org_name": "Deutsche Bahn",
+      "org_type": "company",
+      "total_gov_value": 1600000000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "therme-group",
+      "org_name": "Therme Group",
+      "org_type": "company",
+      "total_gov_value": 625000000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    },
+    {
+      "org_id": "ontario-science-partners",
+      "org_name": "Ontario Science Partners",
+      "org_type": "consortium",
+      "total_gov_value": 1040000000,
+      "note": "No direct Public Accounts payments found. Likely paid through crown agencies or payments below disclosure threshold."
+    }
+  ]
+}

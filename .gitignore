@@ -1,0 +1,41 @@
+# Claude Code
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Screenshots (local reference, not part of the project)
+screenshots/
+
+# Old viz directory (migrated to dashboard/ and audits/)
+viz/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Large raw data files (downloadable via scripts — see methodology/sources.md)
+raw-data/elections-ontario/Filed_Statement_Contributions.csv
+raw-data/sunshine-list/sunshine-*.csv
+raw-data/sunshine-list/github-csv/
+
+# Debug/temp files from scraper
+raw-data/lobbyist-registry/debug_*.html
+raw-data/lobbyist-registry/scrape_progress.json
+raw-data/lobbyist-registry/scrape_*_output.log
+raw-data/lobbyist-registry/single_search_*.json
+raw-data/elections-ontario/js-main*.js
+raw-data/elections-ontario/downloads-page.html
+raw-data/elections-ontario/download-probe-report.json
+
+# Draft posts
+reddit-post.md
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

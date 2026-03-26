@@ -1,0 +1,362 @@
+{
+  "timestamp": "2026-03-24T16:23:33.875227",
+  "status_code": 200,
+  "form_action": "./",
+  "viewstate_length": 7296,
+  "eventvalidation_length": 576,
+  "hidden_field_names": [
+    "RadScriptManager1_TSM",
+    "__VIEWSTATE",
+    "__VIEWSTATEGENERATOR",
+    "__VIEWSTATEENCRYPTED",
+    "__EVENTVALIDATION",
+    "ctl00_BodyContent_ucQuickSearch_dpOnDate_dateInput_ClientState",
+    "ctl00_BodyContent_ucQuickSearch_dpOnDate_calendar_SD",
+    "ctl00_BodyContent_ucQuickSearch_dpOnDate_calendar_AD",
+    "ctl00_BodyContent_ucQuickSearch_dpOnDate_ClientState",
+    "ctl00_BodyContent_ucQuickSearch_dpFromDate_dateInput_ClientState",
+    "ctl00_BodyContent_ucQuickSearch_dpFromDate_calendar_SD",
+    "ctl00_BodyContent_ucQuickSearch_dpFromDate_calendar_AD",
+    "ctl00_BodyContent_ucQuickSearch_dpFromDate_ClientState",
+    "ctl00_BodyContent_ucQuickSearch_dpToDate_dateInput_ClientState",
+    "ctl00_BodyContent_ucQuickSearch_dpToDate_calendar_SD",
+    "ctl00_BodyContent_ucQuickSearch_dpToDate_calendar_AD",
+    "ctl00_BodyContent_ucQuickSearch_dpToDate_ClientState"
+  ],
+  "input_fields": [
+    {
+      "name": "RadScriptManager1_TSM",
+      "id": "RadScriptManager1_TSM",
+      "type": "hidden",
+      "value": ""
+    },
+    {
+      "name": "__VIEWSTATE",
+      "id": "__VIEWSTATE",
+      "type": "hidden",
+      "value": "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"
+    },
+    {
+      "name": "__VIEWSTATEGENERATOR",
+      "id": "__VIEWSTATEGENERATOR",
+      "type": "hidden",
+      "value": "9F31B375"
+    },
+    {
+      "name": "__VIEWSTATEENCRYPTED",
+      "id": "__VIEWSTATEENCRYPTED",
+      "type": "hidden",
+      "value": ""
+    },
+    {
+      "name": "__EVENTVALIDATION",
+      "id": "__EVENTVALIDATION",
+      "type": "hidden",
+      "value": "GW+tYPu6BxzauyEgs2ZkHk/qhzJ2OqKyKj62HaolJ9K5dKKEm+lSvCsM9SP/hnAWk3EoOqsADHAYJ2bkzBm7vf+XeiS41WU4F4U4X+C2W/DXm7/IcuAnFJVK/ntOqNJqp27EkNIs7t4n4l+mzYv44kbNJhGI7CrclHuzG2oAUNkcQNcEX1FQUKGV2xWatQwOfqd5u8cLSzO2PMX+lAr9ZaC+wWccy1pqQnFQzuyMPFURC4MXevCyiKU/bY9e/9hesUnnuaQRptiuX7i7PghKQmkhu3yVeXvKjHnsB67Pe4Z/m9vvo3iTPRrN0S/syT0YInTrtr8naVsOQAmn2ImVTbJexc2nNs1zhyspCctPPWROLUS5cF536uiNdjULarMmANds3+e2tChgclB/2lGqd8I+S5ln24RuX1BOQxCtEde6739eF80R7VaeRfoe98DEGAgPtW83Gu5ft5O/MjrColDVV1mCB9dmyjc/M2V19dK8yrpwC+6j3yfbOFl8lKhpK6pfgdyQRLE++nlTSDIjnUbBCcbacP7MncDzI6+ZBYTlOlOsOU01GqEz/tyWGAk5"
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$rdoStatusGroup1",
+      "id": "BodyContent_ucQuickSearch_rdoCurrentlyActive",
+      "type": "radio",
+      "value": "rdoCurrentlyActive"
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$rdoStatusGroup1",
+      "id": "BodyContent_ucQuickSearch_rdoInactive",
+      "type": "radio",
+      "value": "rdoInactive"
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$rdoStatusGroup1",
+      "id": "BodyContent_ucQuickSearch_rdoAnyStatus",
+      "type": "radio",
+      "value": "rdoAnyStatus"
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$txtSearchByKeyWord",
+      "id": "BodyContent_ucQuickSearch_txtSearchByKeyWord",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$txtSearchByLobbyist",
+      "id": "BodyContent_ucQuickSearch_txtSearchByLobbyist",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$txtSearchByEmployer",
+      "id": "BodyContent_ucQuickSearch_txtSearchByEmployer",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$txtSearchByClient",
+      "id": "BodyContent_ucQuickSearch_txtSearchByClient",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$txtSearchBySubject",
+      "id": "BodyContent_ucQuickSearch_txtSearchBySubject",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$txtSearchByMinistry",
+      "id": "BodyContent_ucQuickSearch_txtSearchByMinistry",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$rdoStatusGroup2",
+      "id": "BodyContent_ucQuickSearch_rdoActiveAnyDate",
+      "type": "radio",
+      "value": "rdoActiveAnyDate"
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$rdoStatusGroup2",
+      "id": "BodyContent_ucQuickSearch_rdoActiveOnDate",
+      "type": "radio",
+      "value": "rdoActiveOnDate"
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$dpOnDate",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpOnDate",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpOnDate_dateInput_text",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpOnDate_dateInput_text",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$dpOnDate$dateInput",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpOnDate_dateInput",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpOnDate_dateInput_ClientState",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpOnDate_dateInput_ClientState",
+      "type": "hidden",
+      "value": ""
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpOnDate_calendar_SD",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpOnDate_calendar_SD",
+      "type": "hidden",
+      "value": "[]"
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpOnDate_calendar_AD",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpOnDate_calendar_AD",
+      "type": "hidden",
+      "value": "[[1980,1,1],[2099,12,30],[2026,3,24]]"
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpOnDate_ClientState",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpOnDate_ClientState",
+      "type": "hidden",
+      "value": ""
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$rdoStatusGroup2",
+      "id": "BodyContent_ucQuickSearch_rdoActiveWithinDates",
+      "type": "radio",
+      "value": "rdoActiveWithinDates"
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$dpFromDate",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpFromDate",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpFromDate_dateInput_text",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpFromDate_dateInput_text",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$dpFromDate$dateInput",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpFromDate_dateInput",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpFromDate_dateInput_ClientState",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpFromDate_dateInput_ClientState",
+      "type": "hidden",
+      "value": ""
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpFromDate_calendar_SD",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpFromDate_calendar_SD",
+      "type": "hidden",
+      "value": "[]"
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpFromDate_calendar_AD",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpFromDate_calendar_AD",
+      "type": "hidden",
+      "value": "[[1980,1,1],[2099,12,30],[2026,3,24]]"
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpFromDate_ClientState",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpFromDate_ClientState",
+      "type": "hidden",
+      "value": ""
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$dpToDate",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpToDate",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpToDate_dateInput_text",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpToDate_dateInput_text",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$dpToDate$dateInput",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpToDate_dateInput",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpToDate_dateInput_ClientState",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpToDate_dateInput_ClientState",
+      "type": "hidden",
+      "value": ""
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpToDate_calendar_SD",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpToDate_calendar_SD",
+      "type": "hidden",
+      "value": "[]"
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpToDate_calendar_AD",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpToDate_calendar_AD",
+      "type": "hidden",
+      "value": "[[1980,1,1],[2099,12,30],[2026,3,24]]"
+    },
+    {
+      "name": "ctl00_BodyContent_ucQuickSearch_dpToDate_ClientState",
+      "id": "ctl00_BodyContent_ucQuickSearch_dpToDate_ClientState",
+      "type": "hidden",
+      "value": ""
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$btnReset",
+      "id": "BodyContent_ucQuickSearch_btnReset",
+      "type": "submit",
+      "value": "RESET"
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$btnSearch",
+      "id": "BodyContent_ucQuickSearch_btnSearch",
+      "type": "submit",
+      "value": "SEARCH"
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$btnRecentActive",
+      "id": "BodyContent_ucQuickSearch_btnRecentActive",
+      "type": "submit",
+      "value": "Recent Active"
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$btnRecentInactive",
+      "id": "BodyContent_ucQuickSearch_btnRecentInactive",
+      "type": "submit",
+      "value": "Recent Inactive"
+    }
+  ],
+  "select_fields": [],
+  "buttons": [
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$btnReset",
+      "id": "BodyContent_ucQuickSearch_btnReset",
+      "value": "RESET",
+      "type": "submit"
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$btnSearch",
+      "id": "BodyContent_ucQuickSearch_btnSearch",
+      "value": "SEARCH",
+      "type": "submit"
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$btnRecentActive",
+      "id": "BodyContent_ucQuickSearch_btnRecentActive",
+      "value": "Recent Active",
+      "type": "submit"
+    },
+    {
+      "name": "ctl00$BodyContent$ucQuickSearch$btnRecentInactive",
+      "id": "BodyContent_ucQuickSearch_btnRecentInactive",
+      "value": "Recent Inactive",
+      "type": "submit"
+    }
+  ],
+  "found_search_button": true,
+  "found_results_grid": false,
+  "sample_links": [
+    "http://www.oico.on.ca/home",
+    "",
+    "javascript:__doPostBack('ctl00$btnSetEnglish','')",
+    "javascript:__doPostBack('ctl00$btnSetFrench','')",
+    "http://www.oico.on.ca/home/lobbyists-registration",
+    "",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#"
+  ],
+  "page_text_preview": "\r\n     \r\n \r\n \r\n\r\n\r\n \r\n \r\n \r\n \r\n    \r\n     \r\n     \r\n         \r\n             \r\n\r\n            \r\n          home     public search       \r\n \r\n\r\n\r\n         \r\n     \r\n     \r\n         \r\n             \r\n             \r\n                 \r\n                     \r\n                         english \r\n                     | \r\n                     \r\n                         fran\u00e7ais \r\n                     \r\n                 \r\n             \r\n             \r\n             \r\n             \r\n                 \r\n                     office of the integrity commissioner \r\n             \r\n             \r\n             \r\n             \r\n                 \r\n                     lobbyists registration \r\n                 \r\n             \r\n             \r\n                \r\n             \r\n             \r\n             \r\n             \r\n             \r\n                 \r\n                    \r\n     \r\n\t \r\n \r\n\r\n \r\n     \r\n\t\r\n\r\n     \r\n         registry search \r\n     \r\n     \r\n\r\n    \r\n\r\n     \r\n\t\t \r\n\t\t\t\r\n\r\n     \r\n\r\n         \r\n             status \u00a0: \r\n         \r\n        \r\n        \r\n                         \r\n                 currently active \r\n                 inactive \r\n             any status (active or inactive) \r\n         \r\n        \r\n         \r\n     \r\n\r\n     \r\n         \r\n             search by key word \u00a0: \r\n         \r\n\r\n         \r\n             \r\n         \r\n         \r\n     \r\n\r\n     \r\n         \r\n             \r\n                 \r\n                     search by lobbyist name \u00a0: \r\n             \r\n             \r\n                 \r\n                     search by firm/company/organization name \u00a0: \r\n             \r\n             \r\n                 \r\n                     search by client name \u00a0: \r\n             \r\n             \r\n                 \r\n                     search by subject matter \u00a0: \r\n             \r\n             \r\n                 \r\n                     search by minister's office/ministry/mpp/agency \u00a0: \r\n             \r\n         \r\n\r\n         \r\n             \r\n                     \r\n             \r\n             \r\n          "
+}

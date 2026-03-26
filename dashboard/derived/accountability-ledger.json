@@ -1,0 +1,1836 @@
+{
+  "fiscal_year": "2025-26",
+  "generated": "2026-03-24",
+  "summary": {
+    "total_decisions": 80,
+    "total_value": 166031600000,
+    "flagged_by_ag": 2,
+    "sole_source": 6,
+    "insider_connected": 31,
+    "total_through_insider_lobbyists": 80675100000
+  },
+  "rows": [
+    {
+      "id": "ontario-line-south",
+      "name": "Ontario Line — South Civil, Stations & Tunnel",
+      "amount": 6000000000,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "Ontario Transit Group (Consortium) + Ferrovial Construction Canada + VINCI Construction + AECOM + COWI + GHD + SENER + Janin Atlas",
+      "recipient_ids": [
+        "ontario-transit-group",
+        "ferrovial",
+        "vinci-construction",
+        "aecom",
+        "cowi",
+        "ghd",
+        "sener",
+        "janin-atlas"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/news-and-media/news/subway---ontario-line---southern-civil-stations-and-tunnel-project/contract-awarded-for-ontario-line-south-package/"
+    },
+    {
+      "id": "ontario-line-rssom",
+      "name": "Ontario Line — Rolling Stock, Systems, O&M (30yr)",
+      "amount": 9000000000,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "Connect 6ix (Consortium) + Plenary Americas + Hitachi Rail + Webuild Group + Transdev Canada + NGE Contracting",
+      "recipient_ids": [
+        "connect-6ix",
+        "plenary-americas",
+        "hitachi-rail",
+        "webuild",
+        "transdev-canada",
+        "nge-contracting"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/news-and-media/news/subway---ontario-line---rolling-stock-systems-operations-and-maintenance/contract-awarded-for-ontario-line-rssom-package/"
+    },
+    {
+      "id": "ontario-line-pape",
+      "name": "Ontario Line — Pape Tunnel & Underground Stations",
+      "amount": 2500000000,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "Pape North Connect (Consortium) + Webuild Group + FCC Canada (FCC Construccion) + Arcadis + AECOM",
+      "recipient_ids": [
+        "pape-north-connect",
+        "webuild",
+        "fcc-canada",
+        "arcadis",
+        "aecom"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/news-and-media/news/ontario-line---pape-tunnel-and-underground-stations/agreement-signed-for-ontario-line-pape-tunnel-and-underground-stations/"
+    },
+    {
+      "id": "ontario-line-elevated",
+      "name": "Ontario Line — Elevated Guideway & Stations",
+      "amount": null,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "Trillium Guideway Partners (Consortium) + Acciona Infrastructure Canada + Amico Major Projects + WSP Canada",
+      "recipient_ids": [
+        "trillium-guideway-partners",
+        "acciona",
+        "amico",
+        "wsp-canada"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/news-and-media/news/subway-ontario-line-elevated-guideway-and-stations/agreement-signed-for-ontario-line-elevated-guideway-and-stations/"
+    },
+    {
+      "id": "sse-tunnel",
+      "name": "Scarborough Subway Extension — Advance Tunnel",
+      "amount": 757000000,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Strabag Inc. + Arup Canada",
+      "recipient_ids": [
+        "strabag",
+        "arup-canada"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.metrolinx.com/en/discover/tunnel-contract-finalized-for-scarborough-subway-extension"
+    },
+    {
+      "id": "sse-srs",
+      "name": "Scarborough Subway Extension — Stations, Rail & Systems",
+      "amount": 5700000000,
+      "sector": "transit-transportation",
+      "status": "awarded",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Scarborough Transit Connect (Consortium) + Aecon Group + FCC Canada (FCC Construccion) + Mott MacDonald",
+      "recipient_ids": [
+        "scarborough-transit-connect",
+        "aecon",
+        "fcc-canada",
+        "mott-macdonald"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [
+        "john-beck"
+      ],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/news-and-media/news/subway-scarborough-subway-extension/contract-awarded-for-the-scarborough-subway-extension-stations-rail-and-systems-project/"
+    },
+    {
+      "id": "ecwe-tunnel-1",
+      "name": "Eglinton Crosstown West Extension — Advance Tunnel 1 (6.4 km)",
+      "amount": 729000000,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "West End Connectors (Consortium) + Dragados Canada + Aecon Group + Ghella Canada",
+      "recipient_ids": [
+        "west-end-connectors",
+        "dragados",
+        "aecon",
+        "ghella"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [
+        "john-beck"
+      ],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/news-and-media/news/eglinton-crosstown-west-extension-stations-rail-and-systems/"
+    },
+    {
+      "id": "ecwe-tunnel-2",
+      "name": "Eglinton Crosstown West Extension — Advance Tunnel 2 (500m)",
+      "amount": 255000000,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Strabag Inc. + WSP Canada",
+      "recipient_ids": [
+        "strabag",
+        "wsp-canada"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/news-and-media/news/eglinton-crosstown-west-extension-stations-rail-and-systems/"
+    },
+    {
+      "id": "ecwe-guideway",
+      "name": "Eglinton Crosstown West Extension — Elevated Guideway (1.5 km)",
+      "amount": 290000000,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Aecon Group",
+      "recipient_ids": [
+        "aecon"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [
+        "john-beck"
+      ],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.aecon.com/press-room/news/2023/12/15/aecon-awarded-contract-for-the-eglinton-crosstown-west-extension-elevated-guideway-project-in-ontario"
+    },
+    {
+      "id": "ecwe-srs",
+      "name": "Eglinton Crosstown West Extension — Stations, Rail & Systems",
+      "amount": null,
+      "sector": "transit-transportation",
+      "status": "awarded",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Trillium Rail Partners (Consortium) + Amico Major Projects + Alberici + Acciona Infrastructure Canada + WSP Canada",
+      "recipient_ids": [
+        "trillium-rail-partners",
+        "amico",
+        "alberici",
+        "acciona",
+        "wsp-canada"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/news-and-media/news/eglinton-crosstown-west-extension-stations-rail-and-systems/agreement-signed-eglinton-crosstown-west-extension-stations-rail-and-systems/"
+    },
+    {
+      "id": "ynse-tunnel",
+      "name": "Yonge North Subway Extension — Advance Tunnel (6.3 km)",
+      "amount": 1400000000,
+      "sector": "transit-transportation",
+      "status": "awarded",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "North End Connectors (Consortium) + Aecon Group + FCC Canada (FCC Construccion) + Ghella Canada + EXP Services",
+      "recipient_ids": [
+        "north-end-connectors",
+        "aecon",
+        "fcc-canada",
+        "ghella",
+        "exp-services"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [
+        "john-beck"
+      ],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/news-and-media/news/advance-tunnel-yonge-north-subway-extension/contract-awarded-for-the-yonge-north-subway-extension-advance-tunnelling-project/"
+    },
+    {
+      "id": "go-oncorridor",
+      "name": "GO Expansion — On-Corridor Works Phase 1",
+      "amount": 1600000000,
+      "sector": "transit-transportation",
+      "status": "terminated",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "ONxpress (Consortium) + Aecon Group + FCC Canada (FCC Construccion) + Deutsche Bahn + Alstom Transport Canada",
+      "recipient_ids": [
+        "onxpress",
+        "aecon",
+        "fcc-canada",
+        "deutsche-bahn",
+        "alstom"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [
+        "john-beck"
+      ],
+      "connected_lobbyists": [],
+      "flags": [
+        "terminated",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://globalnews.ca/news/11188089/metrolinx-onxpress-deal-ends-early/"
+    },
+    {
+      "id": "go-fleet-refurb",
+      "name": "GO Fleet Refurbishment (181 coaches)",
+      "amount": 500000000,
+      "sector": "transit-transportation",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Alstom Transport Canada",
+      "recipient_ids": [
+        "alstom"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.railjournal.com/passenger/commuter-rail/metrolinx-awards-fleet-refurb-contract/"
+    },
+    {
+      "id": "go-commuter-coaches",
+      "name": "GO Commuter Coaches (80 buses)",
+      "amount": null,
+      "sector": "transit-transportation",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Motor Coach Industries (MCI)",
+      "recipient_ids": [
+        "motor-coach-industries"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "hazel-mccallion-lrt",
+      "name": "Hazel McCallion LRT (18 km, Mississauga, 30yr DBFOM)",
+      "amount": 4600000000,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Mobilinx (Consortium) + Webuild Group + Hitachi Rail + Transdev Canada + John Laing + Amico Major Projects + Bot Construction Group",
+      "recipient_ids": [
+        "mobilinx",
+        "webuild",
+        "hitachi-rail",
+        "transdev-canada",
+        "john-laing",
+        "amico",
+        "bot-construction"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/news-and-media/news/hurontario-light-rail-transit/contract-awarded-for-hurontario-lrt/"
+    },
+    {
+      "id": "finch-west-lrt",
+      "name": "Finch West LRT (11 km, DBFM)",
+      "amount": 2500000000,
+      "sector": "transit-transportation",
+      "status": "complete",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Mosaic Transit Group (Consortium) + ACS Infrastructure Canada + Aecon Group + Dufferin Construction / CRH Canada",
+      "recipient_ids": [
+        "mosaic-transit-group",
+        "acs-infrastructure",
+        "aecon",
+        "dufferin-crh"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [
+        "john-beck"
+      ],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "ttc-line-2-trains",
+      "name": "TTC Line 2 Trains (70 trainsets, sole-source)",
+      "amount": 2300000000,
+      "sector": "transit-transportation",
+      "status": "announced",
+      "decision_type": "sole-source",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Alstom Transport Canada",
+      "recipient_ids": [
+        "alstom"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [
+        "sole_source",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.cbc.ca/news/canada/toronto/ttc-alstom-train-deal-1.7609756"
+    },
+    {
+      "id": "east-harbour-transit-hub",
+      "name": "East Harbour Transit Hub",
+      "amount": null,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "AtkinsRealis (fka SNC-Lavalin) + Bird Construction + Hatch",
+      "recipient_ids": [
+        "atkinsrealis",
+        "bird-construction",
+        "hatch"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [
+        "todd-smith"
+      ],
+      "connected_lobbyists": [
+        "todd-smith"
+      ],
+      "flags": [
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "pickering-refurbishment",
+      "name": "Pickering Nuclear Refurbishment (4 units)",
+      "amount": 26800000000,
+      "sector": "energy",
+      "status": "definition-phase",
+      "decision_type": "sole-source",
+      "decision_maker": "OPG / Ontario Energy",
+      "recipient": "Ontario Power Generation (OPG) + CanAtom (AtkinsRealis + Aecon JV) + AtkinsRealis (fka SNC-Lavalin) + Aecon Group + Siemens Energy + BWXT Canada",
+      "recipient_ids": [
+        "opg",
+        "canatom",
+        "atkinsrealis",
+        "aecon",
+        "siemens-energy",
+        "bwxt-canada"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [
+        "john-beck",
+        "todd-smith"
+      ],
+      "connected_lobbyists": [
+        "todd-smith"
+      ],
+      "flags": [
+        "sole_source",
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.atkinsrealis.com/en/media/press-releases/2025/2025-01-23"
+    },
+    {
+      "id": "pickering-retube",
+      "name": "Pickering Retube Contract (CanAtom)",
+      "amount": 2100000000,
+      "sector": "energy",
+      "status": "awarded",
+      "decision_type": "competitive",
+      "decision_maker": "OPG / Ontario Energy",
+      "recipient": "CanAtom (AtkinsRealis + Aecon JV) + AtkinsRealis (fka SNC-Lavalin) + Aecon Group",
+      "recipient_ids": [
+        "canatom",
+        "atkinsrealis",
+        "aecon"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [
+        "john-beck",
+        "todd-smith"
+      ],
+      "connected_lobbyists": [
+        "todd-smith"
+      ],
+      "flags": [
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.atkinsrealis.com/en/media/press-releases/2025/2025-01-23"
+    },
+    {
+      "id": "darlington-new-nuclear",
+      "name": "Darlington New Nuclear (4 SMRs)",
+      "amount": 20900000000,
+      "sector": "energy",
+      "status": "under-construction",
+      "decision_type": "sole-source",
+      "decision_maker": "OPG / Ontario Energy",
+      "recipient": "Ontario Power Generation (OPG) + GE Vernova Hitachi Nuclear Energy + Aecon Kiewit Nuclear Partners + Aecon Group + AtkinsRealis (fka SNC-Lavalin)",
+      "recipient_ids": [
+        "opg",
+        "ge-vernova-hitachi",
+        "aecon-kiewit",
+        "aecon",
+        "atkinsrealis"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [
+        "john-beck",
+        "todd-smith"
+      ],
+      "connected_lobbyists": [
+        "todd-smith"
+      ],
+      "flags": [
+        "sole_source",
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.aecon.com/our-expertise/our-projects/current/darlington-new-nuclear-project"
+    },
+    {
+      "id": "darlington-smr-construction",
+      "name": "Darlington SMR Construction Contract",
+      "amount": 1300000000,
+      "sector": "energy",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "OPG / Ontario Energy",
+      "recipient": "Aecon Kiewit Nuclear Partners + Aecon Group",
+      "recipient_ids": [
+        "aecon-kiewit",
+        "aecon"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [
+        "john-beck"
+      ],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.aecon.com/our-expertise/our-projects/current/darlington-new-nuclear-project"
+    },
+    {
+      "id": "darlington-smr-engineering",
+      "name": "Darlington SMR Engineering Contract",
+      "amount": 450000000,
+      "sector": "energy",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "OPG / Ontario Energy",
+      "recipient": "AtkinsRealis (fka SNC-Lavalin)",
+      "recipient_ids": [
+        "atkinsrealis"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [
+        "todd-smith"
+      ],
+      "connected_lobbyists": [
+        "todd-smith"
+      ],
+      "flags": [
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.aecon.com/our-expertise/our-projects/current/darlington-new-nuclear-project"
+    },
+    {
+      "id": "bruce-power-mcr",
+      "name": "Bruce Power Major Component Replacement (6 units)",
+      "amount": 13000000000,
+      "sector": "energy",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "Bruce Power + Shoreline Power Group (Aecon/AtkinsRealis JV) + Aecon Group + AtkinsRealis (fka SNC-Lavalin) + BWXT Canada + ES Fox + Black & McDonald + GE (General Electric)",
+      "recipient_ids": [
+        "bruce-power",
+        "shoreline-power-group",
+        "aecon",
+        "atkinsrealis",
+        "bwxt-canada",
+        "es-fox",
+        "black-and-mcdonald",
+        "ge"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [
+        "chris-froggatt",
+        "john-beck",
+        "todd-smith"
+      ],
+      "connected_lobbyists": [
+        "chris-froggatt",
+        "todd-smith"
+      ],
+      "flags": [
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.brucepower.com/2023/05/11/bruce-power-signs-1-3-billion-fuel-channel-and-feeder-replacement-contract-with-shoreline-power-group-for-remaining-mcr-projects/"
+    },
+    {
+      "id": "bruce-power-fuel-channel",
+      "name": "Bruce Power Fuel Channel & Feeder Replacement (Shoreline)",
+      "amount": 1300000000,
+      "sector": "energy",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "Shoreline Power Group (Aecon/AtkinsRealis JV) + Aecon Group + AtkinsRealis (fka SNC-Lavalin)",
+      "recipient_ids": [
+        "shoreline-power-group",
+        "aecon",
+        "atkinsrealis"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [
+        "john-beck",
+        "todd-smith"
+      ],
+      "connected_lobbyists": [
+        "todd-smith"
+      ],
+      "flags": [
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.brucepower.com/2023/05/11/bruce-power-signs-1-3-billion-fuel-channel-and-feeder-replacement-contract-with-shoreline-power-group-for-remaining-mcr-projects/"
+    },
+    {
+      "id": "darlington-refurbishment",
+      "name": "Darlington Refurbishment (4 units)",
+      "amount": 12800000000,
+      "sector": "energy",
+      "status": "complete",
+      "decision_type": "competitive",
+      "decision_maker": "OPG / Ontario Energy",
+      "recipient": "Ontario Power Generation (OPG) + CanAtom (AtkinsRealis + Aecon JV) + AtkinsRealis (fka SNC-Lavalin) + Aecon Group + BWXT Canada + Black & McDonald + ES Fox + GE (General Electric)",
+      "recipient_ids": [
+        "opg",
+        "canatom",
+        "atkinsrealis",
+        "aecon",
+        "bwxt-canada",
+        "black-and-mcdonald",
+        "es-fox",
+        "ge"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [
+        "john-beck",
+        "todd-smith"
+      ],
+      "connected_lobbyists": [
+        "todd-smith"
+      ],
+      "flags": [
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.opg.com/stories/darlington-refurb-construction-completed-ahead-of-schedule-under-budget/"
+    },
+    {
+      "id": "northern-ontario-hydro",
+      "name": "Northern Ontario Hydroelectric (8 stations)",
+      "amount": 2000000000,
+      "sector": "energy",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "Andritz Hydropower Canada",
+      "recipient_ids": [
+        "andritz-hydropower"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.renewcanada.net/province-invests-2b-to-refurbishment-hydro-stations-in-northern-ontario/"
+    },
+    {
+      "id": "eastern-ontario-hydro",
+      "name": "Eastern Ontario Hydroelectric (8 stations, 45 units)",
+      "amount": 1000000000,
+      "sector": "energy",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "Andritz Hydropower Canada",
+      "recipient_ids": [
+        "andritz-hydropower"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.opg.com/stories/eight-opg-hydro-stations-to-undergo-life-extending-refurbishments-in-eastern-ontario/"
+    },
+    {
+      "id": "rh-saunders-hydro",
+      "name": "R.H. Saunders GS Refurbishment (16 units)",
+      "amount": 600000000,
+      "sector": "energy",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "Unknown",
+      "recipient_ids": [],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "waasigan-transmission",
+      "name": "Waasigan Transmission Line (Thunder Bay-Dryden, 360 km)",
+      "amount": 1200000000,
+      "sector": "energy",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "Hydro One + Valard Construction LP + Forbes Bros.",
+      "recipient_ids": [
+        "hydro-one",
+        "valard-construction",
+        "forbes-bros"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://hydroone.mediaroom.com/2023-05-03-Hydro-One-selects-contractor-to-help-deliver-the-Waasigan-Transmission-Line-project"
+    },
+    {
+      "id": "st-clair-transmission",
+      "name": "St. Clair Transmission Line (Lambton-Chatham-Kent, 64 km)",
+      "amount": 471900000,
+      "sector": "energy",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "Hydro One + Forbes Bros. + Black & McDonald",
+      "recipient_ids": [
+        "hydro-one",
+        "forbes-bros",
+        "black-and-mcdonald"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.ontarioconstructionnews.com/hydro-one-first-nations-mark-groundbreaking-of-471-9m-st-clair-transmission-line"
+    },
+    {
+      "id": "peter-gilgan-mississauga-hospital",
+      "name": "Peter Gilgan Mississauga Hospital",
+      "amount": 13900000000,
+      "sector": "health",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "EllisDon + PCL Construction + Fengate Asset Management + Plenary Americas + Parkin Architects + Adamson Associates",
+      "recipient_ids": [
+        "ellisdon",
+        "pcl-construction",
+        "fengate",
+        "plenary-americas",
+        "parkin-architects",
+        "adamson-associates"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/news-and-media/news/trillium-health-partners-broader-redevelopment-the-peter-gilgan-mississauga-hospital/Contract-Awarded-Trillium-Health-Partners-Peter-Gilgan-Mississauga-Hospital-Shah-Family-Hospital-for-Women-Children/"
+    },
+    {
+      "id": "south-niagara-hospital",
+      "name": "South Niagara Hospital",
+      "amount": 3600000000,
+      "sector": "health",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "EllisDon",
+      "recipient_ids": [
+        "ellisdon"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/news-and-media/news/south-niagara-hospital/contract-awarded-for-south-niagara-hospital-project/"
+    },
+    {
+      "id": "ottawa-hospital-civic",
+      "name": "Ottawa Hospital Civic Campus",
+      "amount": 2800000000,
+      "sector": "health",
+      "status": "development-phase",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "PCL Construction + EllisDon",
+      "recipient_ids": [
+        "pcl-construction",
+        "ellisdon"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "windsor-regional-hospital",
+      "name": "Windsor Regional Hospital (Fancsy Family)",
+      "amount": 2000000000,
+      "sector": "health",
+      "status": "procurement",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "EllisDon",
+      "recipient_ids": [
+        "ellisdon"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "sickkids-project-horizon",
+      "name": "SickKids Project Horizon",
+      "amount": 2400000000,
+      "sector": "health",
+      "status": "planning",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "PCL Construction + Stantec + KPMB Architects",
+      "recipient_ids": [
+        "pcl-construction",
+        "stantec",
+        "kpmb-architects"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "camh-phase-1d",
+      "name": "CAMH Phase 1D Redevelopment",
+      "amount": 1330000000,
+      "sector": "health",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "PCL Construction + Diamond Schmitt Architects",
+      "recipient_ids": [
+        "pcl-construction",
+        "diamond-schmitt"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/news-and-media/news/camh---phase-1d-redevelopment/contract-awarded-for-centre-for-addiction-and-mental-health-phase-1d-redevelopment-project/"
+    },
+    {
+      "id": "cortellucci-vaughan-hospital",
+      "name": "Cortellucci Vaughan Hospital",
+      "amount": 1600000000,
+      "sector": "health",
+      "status": "complete",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "PCL Construction",
+      "recipient_ids": [
+        "pcl-construction"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "peel-memorial-phase-2",
+      "name": "Peel Memorial Phase 2 (Brampton)",
+      "amount": null,
+      "sector": "health",
+      "status": "development-phase",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "Bird Construction + Cannon Design",
+      "recipient_ids": [
+        "bird-construction",
+        "cannon-design"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "highway-413",
+      "name": "Highway 413",
+      "amount": null,
+      "sector": "transit-transportation",
+      "status": "early-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Fermar Paving + Pave-Al",
+      "recipient_ids": [
+        "fermar-paving",
+        "pave-al"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.cbc.ca/news/canada/toronto/highway-413-construction-begins-ontario-doug-ford-1.7618852"
+    },
+    {
+      "id": "bradford-bypass",
+      "name": "Bradford Bypass (16.3 km)",
+      "amount": null,
+      "sector": "transit-transportation",
+      "status": "design-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "AECOM + Miller Group (Colas Canada) + Brennan Construction + WSP Canada + Stantec + Jacobs + Egis + Kodiak Tree Services",
+      "recipient_ids": [
+        "aecom",
+        "miller-group",
+        "brennan-construction",
+        "wsp-canada",
+        "stantec",
+        "jacobs",
+        "egis",
+        "kodiak-tree-services"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://canada.constructconnect.com/dcn/news/projects/2025/11/contracts-awarded-for-bradford-bypass-central-east-sections-and-program-management"
+    },
+    {
+      "id": "garden-city-skyway",
+      "name": "Garden City Skyway (QEW twin bridge)",
+      "amount": 500000000,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Flatiron Dragados Canada + Construction Demathieu & Bard + Green Infrastructure Partners (GIP) + Arcadis + GHD",
+      "recipient_ids": [
+        "flatiron-dragados",
+        "construction-demathieu-bard",
+        "green-infrastructure-partners",
+        "arcadis",
+        "ghd"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/what-we-do/projectssearch/qew-garden-city-skyway--bridge-twinning-project/"
+    },
+    {
+      "id": "hwy-401-mississauga-milton",
+      "name": "Highway 401 Mississauga-Milton Widening (18 km)",
+      "amount": 639800000,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Aecon Group + Parsons + Amico Major Projects",
+      "recipient_ids": [
+        "aecon",
+        "parsons",
+        "amico"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [
+        "john-beck"
+      ],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.infrastructureontario.ca/en/what-we-do/projectssearch/highway-401-expansion-project/"
+    },
+    {
+      "id": "hwy-401-oshawa",
+      "name": "Highway 401 Oshawa Overpass Replacements",
+      "amount": null,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Dufferin Construction / CRH Canada",
+      "recipient_ids": [
+        "dufferin-crh"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "hwy-401-tunnel-study",
+      "name": "Highway 401 Tunnel Feasibility Study",
+      "amount": 9100000,
+      "sector": "transit-transportation",
+      "status": "study",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "WSP Canada",
+      "recipient_ids": [
+        "wsp-canada"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "hwy-404-midblock",
+      "name": "Highway 404 Midblock Crossing",
+      "amount": 114000000,
+      "sector": "transit-transportation",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Brennan Paving & Construction",
+      "recipient_ids": [
+        "brennan-paving"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "hwy-3-widening",
+      "name": "Highway 3 Widening (Essex-Leamington)",
+      "amount": 138600000,
+      "sector": "transit-transportation",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Green Infrastructure Partners (GIP) + Coco Paving + Dillon Consulting + WSP Canada",
+      "recipient_ids": [
+        "green-infrastructure-partners",
+        "coco-paving",
+        "dillon",
+        "wsp-canada"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "hwy-17-kenora",
+      "name": "Highway 17 Kenora-Manitoba Twinning",
+      "amount": 32000000,
+      "sector": "transit-transportation",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Moncrief Construction",
+      "recipient_ids": [
+        "moncrief-construction"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "hwy-69-french-river",
+      "name": "Highway 69 French River-Parry Sound",
+      "amount": 500000000,
+      "sector": "transit-transportation",
+      "status": "not-yet-awarded",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Shwe Miikaan (Indigenous Partnership) + AtkinsRealis (fka SNC-Lavalin)",
+      "recipient_ids": [
+        "shwe-miikaan",
+        "atkinsrealis"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [
+        "todd-smith"
+      ],
+      "connected_lobbyists": [
+        "todd-smith"
+      ],
+      "flags": [
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "hwy-6-bridge-design",
+      "name": "Highway 6 Little Current Bridge Design",
+      "amount": 9000000,
+      "sector": "transit-transportation",
+      "status": "design-phase",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Stantec",
+      "recipient_ids": [
+        "stantec"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "mckinsey-covid-command",
+      "name": "McKinsey COVID-19 Command Structure (sole-source)",
+      "amount": 1600000,
+      "sector": "consulting",
+      "status": "complete",
+      "decision_type": "sole-source",
+      "decision_maker": "Ontario Government",
+      "recipient": "McKinsey & Company",
+      "recipient_ids": [
+        "mckinsey"
+      ],
+      "connection_strength": "weak",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [
+        "ag_flagged",
+        "sole_source"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.consulting.ca/news/2001/auditor-general-criticizes-ontarios-mckinsey-crafted-pandemic-response-structure"
+    },
+    {
+      "id": "mckinsey-school-reopening",
+      "name": "McKinsey COVID-19 School Reopening",
+      "amount": 3200000,
+      "sector": "consulting",
+      "status": "complete",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "McKinsey & Company",
+      "recipient_ids": [
+        "mckinsey"
+      ],
+      "connection_strength": "weak",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "accenture-sdmt",
+      "name": "Accenture SDMT Welfare Payments System",
+      "amount": 206000000,
+      "sector": "consulting",
+      "status": "complete",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "Accenture",
+      "recipient_ids": [
+        "accenture"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "ibm-sams",
+      "name": "IBM SAMS Social Assistance System",
+      "amount": 300000000,
+      "sector": "consulting",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "IBM",
+      "recipient_ids": [
+        "ibm"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [
+        "kory-teneycke"
+      ],
+      "connected_lobbyists": [
+        "kory-teneycke"
+      ],
+      "flags": [
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.cbc.ca/news/canada/ottawa/ibm-it-contract-sams-ontario-1.3560278"
+    },
+    {
+      "id": "ibm-sams-maintenance",
+      "name": "IBM SAMS Maintenance Contract",
+      "amount": 32200000,
+      "sector": "consulting",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "IBM",
+      "recipient_ids": [
+        "ibm"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [
+        "kory-teneycke"
+      ],
+      "connected_lobbyists": [
+        "kory-teneycke"
+      ],
+      "flags": [
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.cbc.ca/news/canada/ottawa/ibm-it-contract-sams-ontario-1.3560278"
+    },
+    {
+      "id": "cgi-ehealth-diabetes",
+      "name": "CGI eHealth Ontario Diabetes Registry",
+      "amount": 46200000,
+      "sector": "consulting",
+      "status": "terminated",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "CGI",
+      "recipient_ids": [
+        "cgi"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [
+        "terminated"
+      ],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "staples-serviceontario",
+      "name": "Staples ServiceOntario Relocation (sole-source)",
+      "amount": 11700000,
+      "sector": "consulting",
+      "status": "active",
+      "decision_type": "sole-source",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "Staples Canada",
+      "recipient_ids": [
+        "staples-canada"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [
+        "sole_source"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.cbc.ca/news/canada/toronto/staples-service-ontario-1.7084062"
+    },
+    {
+      "id": "deloitte-covid-vaccine",
+      "name": "Deloitte COVID Vaccine Contract (sole-source)",
+      "amount": null,
+      "sector": "consulting",
+      "status": "complete",
+      "decision_type": "sole-source",
+      "decision_maker": "Ontario Government",
+      "recipient": "Deloitte",
+      "recipient_ids": [
+        "deloitte"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [
+        "sole_source"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.cbc.ca/news/canada/toronto/ontario-covid-19-vaccine-task-force-deloitte-consulting-1.5909515"
+    },
+    {
+      "id": "sdf-ontario-shipyards",
+      "name": "Skills Development Fund — Ontario Shipyards",
+      "amount": 22400000,
+      "sector": "skills-development",
+      "status": "awarded",
+      "decision_type": "competitive",
+      "decision_maker": "Ministry of Labour",
+      "recipient": "Ontario Shipyards (fka Heddle Marine)",
+      "recipient_ids": [
+        "ontario-shipyards"
+      ],
+      "connection_strength": "very_strong",
+      "connected_people": [
+        "kory-teneycke",
+        "padulo"
+      ],
+      "connected_lobbyists": [
+        "kory-teneycke"
+      ],
+      "flags": [
+        "insider_lobbyist"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.thetrillium.ca/news/the-trillium-investigations/premier-ford-urging-feds-to-give-major-shipbuilding-contract-to-company-his-campaign-managers-firm-lobbies-for-11921305"
+    },
+    {
+      "id": "sdf-liuna-183",
+      "name": "Skills Development Fund — LiUNA Local 183",
+      "amount": 26000000,
+      "sector": "skills-development",
+      "status": "awarded",
+      "decision_type": "competitive",
+      "decision_maker": "Ministry of Labour",
+      "recipient": "LiUNA Local 183",
+      "recipient_ids": [
+        "liuna-local-183"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [
+        "joseph-mancinelli"
+      ],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://ontariopc.ca/2025/01/30/liuna-endorses-doug-ford-and-the-ontario-pcs/"
+    },
+    {
+      "id": "sdf-bayshore",
+      "name": "Skills Development Fund — Bayshore Home Care",
+      "amount": 18600000,
+      "sector": "skills-development",
+      "status": "awarded",
+      "decision_type": "competitive",
+      "decision_maker": "Ministry of Labour",
+      "recipient": "Bayshore HealthCare",
+      "recipient_ids": [
+        "bayshore-healthcare"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://globalnews.ca/news/11481525/bayshore-skills-development-fund/"
+    },
+    {
+      "id": "sdf-scale-hospitality",
+      "name": "Skills Development Fund — Scale Hospitality",
+      "amount": 11000000,
+      "sector": "skills-development",
+      "status": "awarded",
+      "decision_type": "competitive",
+      "decision_maker": "Ministry of Labour",
+      "recipient": "Scale Hospitality",
+      "recipient_ids": [
+        "scale-hospitality"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [
+        "amin-massoudi"
+      ],
+      "connected_lobbyists": [
+        "amin-massoudi"
+      ],
+      "flags": [
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.thetrillium.ca/news/politics/ministers-office-insisted-restaurateurs-be-granted-millions-despite-late-and-low-scoring-application-emails-11194320"
+    },
+    {
+      "id": "sdf-agnico-eagle",
+      "name": "Skills Development Fund — Agnico Eagle Mines",
+      "amount": 10000000,
+      "sector": "skills-development",
+      "status": "awarded",
+      "decision_type": "competitive",
+      "decision_maker": "Ministry of Labour",
+      "recipient": "Agnico Eagle Mines",
+      "recipient_ids": [
+        "agnico-eagle-mines"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.agnicoeagle.com/English/investor-relations/news-and-events/news-releases/news-release-details/2024/AGNICO-EAGLE-AWARDED-10-MILLION-FROM-THE-ONTARIO-SKILLS-DEVELOPMENT-FUND/"
+    },
+    {
+      "id": "sdf-canadian-niagara-hotels",
+      "name": "Skills Development Fund — Canadian Niagara Hotels",
+      "amount": 9000000,
+      "sector": "skills-development",
+      "status": "awarded",
+      "decision_type": "competitive",
+      "decision_maker": "Ministry of Labour",
+      "recipient": "Canadian Niagara Hotels",
+      "recipient_ids": [
+        "canadian-niagara-hotels"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [
+        "dino-dicienzo"
+      ],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.cp24.com/politics/queens-park/2025/10/03/millions-in-skills-development-fund-grants-went-to-ontario-pc-donors-fuelling-claims-its-a-slush-fund/"
+    },
+    {
+      "id": "sdf-keel-digital",
+      "name": "Skills Development Fund — Keel Digital Solutions / Get A-Head",
+      "amount": 7500000,
+      "sector": "skills-development",
+      "status": "fraud-investigation",
+      "decision_type": "competitive",
+      "decision_maker": "Ministry of Labour",
+      "recipient": "Keel Digital Solutions / Get A-Head",
+      "recipient_ids": [
+        "keel-digital-solutions"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [
+        "michael-rudderham"
+      ],
+      "connected_lobbyists": [
+        "michael-rudderham"
+      ],
+      "flags": [
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.cbc.ca/news/canada/toronto/ontario-statement-of-claim-keel-digital-9.7039355"
+    },
+    {
+      "id": "sdf-justice-fund",
+      "name": "Skills Development Fund — The Justice Fund",
+      "amount": 4000000,
+      "sector": "skills-development",
+      "status": "default-judgment",
+      "decision_type": "competitive",
+      "decision_maker": "Ministry of Labour",
+      "recipient": "The Justice Fund",
+      "recipient_ids": [
+        "the-justice-fund"
+      ],
+      "connection_strength": "weak",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.thetrillium.ca/news/politics/ford-government-seeking-money-back-from-defunct-skills-development-fund-recipient-with-ties-to-drake-11335796"
+    },
+    {
+      "id": "sdf-orba",
+      "name": "Skills Development Fund — ORBA (Road Builders)",
+      "amount": 1800000,
+      "sector": "skills-development",
+      "status": "awarded",
+      "decision_type": "competitive",
+      "decision_maker": "Ministry of Labour",
+      "recipient": "ORBA (Ontario Road Builders' Association)",
+      "recipient_ids": [
+        "orba"
+      ],
+      "connection_strength": "moderate",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.thetrillium.ca/news/politics/construction-advocacy-group-led-by-former-staffer-of-ex-labour-minister-given-18m-training-grant-11396194"
+    },
+    {
+      "id": "sdf-merit-ontario",
+      "name": "Skills Development Fund — Merit Ontario",
+      "amount": 23000000,
+      "sector": "skills-development",
+      "status": "awarded",
+      "decision_type": "competitive",
+      "decision_maker": "Ministry of Labour",
+      "recipient": "Merit Ontario",
+      "recipient_ids": [
+        "merit-ontario"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.cbc.ca/news/canada/toronto/ontario-proud-election-advertising-spending-1.4941210"
+    },
+    {
+      "id": "shipbuilding-program",
+      "name": "Ontario Shipbuilding Program",
+      "amount": 215000000,
+      "sector": "manufacturing",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "Ontario Shipyards (fka Heddle Marine)",
+      "recipient_ids": [
+        "ontario-shipyards"
+      ],
+      "connection_strength": "very_strong",
+      "connected_people": [
+        "kory-teneycke",
+        "padulo"
+      ],
+      "connected_lobbyists": [
+        "kory-teneycke"
+      ],
+      "flags": [
+        "insider_lobbyist"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.thetrillium.ca/news/the-trillium-investigations/premier-ford-urging-feds-to-give-major-shipbuilding-contract-to-company-his-campaign-managers-firm-lobbies-for-11921305"
+    },
+    {
+      "id": "honda-ev-subsidy",
+      "name": "Honda EV Plant Subsidy (Alliston)",
+      "amount": 2500000000,
+      "sector": "manufacturing",
+      "status": "delayed",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "Honda Canada",
+      "recipient_ids": [
+        "honda-canada"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://cbc.ca/amp/1.7184495"
+    },
+    {
+      "id": "stellantis-nextstar-subsidy",
+      "name": "Stellantis-NextStar Battery Plant Subsidy (Windsor)",
+      "amount": 5000000000,
+      "sector": "manufacturing",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "Stellantis + LG Energy Solution (NextStar)",
+      "recipient_ids": [
+        "stellantis",
+        "lg-energy"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.cbc.ca/news/canada/windsor/stellantis-nextstar-contracts-federal-government-battery-ev-pdf-9.6956627"
+    },
+    {
+      "id": "volkswagen-powerco-subsidy",
+      "name": "Volkswagen PowerCo Battery Plant (St. Thomas)",
+      "amount": 500000000,
+      "sector": "manufacturing",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "Volkswagen PowerCo",
+      "recipient_ids": [
+        "volkswagen-powerco"
+      ],
+      "connection_strength": "weak",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.thetrillium.ca/news/government-finance-and-the-economy/ontario-giving-at-least-half-a-billion-to-volkswagen-for-battery-plant-6889587"
+    },
+    {
+      "id": "toyota-subsidy",
+      "name": "Toyota Ontario Operations Subsidy",
+      "amount": 110000000,
+      "sector": "manufacturing",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "Toyota",
+      "recipient_ids": [
+        "toyota"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": ""
+    },
+    {
+      "id": "compugen-it-vor",
+      "name": "Compugen End-User Computing VOR (all categories)",
+      "amount": null,
+      "sector": "consulting",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "Compugen Inc.",
+      "recipient_ids": [
+        "compugen"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.newswire.ca/news-releases/new-supply-ontario-agreement-means-simpler-smarter-it-procurement-for-ontario-s-public-sector-862068663.html"
+    },
+    {
+      "id": "ring-of-fire-road",
+      "name": "Ring of Fire Road Infrastructure (451 km)",
+      "amount": 2000000000,
+      "sector": "manufacturing",
+      "status": "planned",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "Unknown",
+      "recipient_ids": [],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.ontario.ca/page/ontarios-ring-fire"
+    },
+    {
+      "id": "greenstone-transmission",
+      "name": "Greenstone Transmission Line (230 km)",
+      "amount": 70000000,
+      "sector": "energy",
+      "status": "early-works",
+      "decision_type": "competitive",
+      "decision_maker": "Ontario Government",
+      "recipient": "Unknown",
+      "recipient_ids": [],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.ontario.ca/page/ontarios-ring-fire"
+    },
+    {
+      "id": "ontario-place-therme",
+      "name": "Therme Spa/Waterpark — Ontario Place (95-year lease)",
+      "amount": 2237000000,
+      "sector": "other",
+      "status": "under-construction",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "Therme Group",
+      "recipient_ids": [
+        "therme-group"
+      ],
+      "connection_strength": "very_strong",
+      "connected_people": [
+        "amir-remtulla",
+        "mark-lawson",
+        "robert-hanea"
+      ],
+      "connected_lobbyists": [
+        "amir-remtulla",
+        "mark-lawson"
+      ],
+      "flags": [
+        "ag_flagged",
+        "insider_lobbyist"
+      ],
+      "ag_finding": "Therme pays $1.96B over 95yrs; taxpayers pay $625M+ in site prep, parking, flood mitigation. 865 trees destroyed Oct 2024.",
+      "source_url": "https://globalnews.ca/news/10898839/auditor-general-ontario-place-2024/"
+    },
+    {
+      "id": "ontario-place-concert-venue",
+      "name": "Live Nation Concert Venue — Ontario Place (30+15yr lease)",
+      "amount": null,
+      "sector": "other",
+      "status": "planning",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "Live Nation",
+      "recipient_ids": [
+        "live-nation"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://www.canadianarchitect.com/live-nation-releases-renderings-of-new-waterfront-venue-proposed-fro-ontario-place/"
+    },
+    {
+      "id": "new-science-centre",
+      "name": "New Ontario Science Centre at Ontario Place ($1.04B DBFM)",
+      "amount": 1040000000,
+      "sector": "other",
+      "status": "awarded",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario",
+      "recipient": "Ontario Science Partners",
+      "recipient_ids": [
+        "ontario-science-partners"
+      ],
+      "connection_strength": "none",
+      "connected_people": [],
+      "connected_lobbyists": [],
+      "flags": [],
+      "ag_finding": null,
+      "source_url": "https://globalnews.ca/news/11708012/ontario-science-centre-new-renders/"
+    },
+    {
+      "id": "billy-bishop-terminal",
+      "name": "Billy Bishop Airport Terminal (Nieuport/J.P. Morgan)",
+      "amount": null,
+      "sector": "transit",
+      "status": "active",
+      "decision_type": "competitive",
+      "decision_maker": "Infrastructure Ontario / Metrolinx",
+      "recipient": "Nieuport Aviation (J.P. Morgan)",
+      "recipient_ids": [
+        "nieuport-aviation"
+      ],
+      "connection_strength": "strong",
+      "connected_people": [
+        "mark-lawson"
+      ],
+      "connected_lobbyists": [
+        "mark-lawson"
+      ],
+      "flags": [
+        "insider_lobbyist",
+        "insider_connected"
+      ],
+      "ag_finding": null,
+      "source_url": "https://www.cbc.ca/news/canada/toronto/ford-billy-bishop-takeover-9.7138456"
+    }
+  ]
+}

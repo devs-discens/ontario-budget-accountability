@@ -1,0 +1,416 @@
+{
+  "total": 232500000000,
+  "year": "2025-26",
+  "notes": "Sector totals from Ontario Budget 2025 Table 3.7. Transit & Transportation is shown separately for clarity but is officially part of Other Programs in the budget. Health subcategories are from 2024-25 MOH Expenditure Estimates (the latest available detailed breakdown). Some subcategories may not sum exactly to sector totals due to year differences and items not separately listed.",
+  "source_url": "https://budget.ontario.ca/2025/chapter-3.html",
+  "sectors": [
+    {
+      "id": "health",
+      "name": "Health",
+      "amount": 91100000000,
+      "color": "#dc2626",
+      "notes": "Official Budget 2025-26 figure. Subcategories below are from 2024-25 MOH Expenditure Estimates and sum to ~$77.2B; the remaining ~$13.9B covers ministry admin, pandemic reserves, capital infrastructure, and programs not separately listed.",
+      "subcategories": [
+        {
+          "id": "hospital-operations",
+          "name": "Hospital Operations",
+          "amount": 25400000000,
+          "contracts": [],
+          "source": "MOH Expenditure Estimates 2024-25"
+        },
+        {
+          "id": "ohip-physician-payments",
+          "name": "OHIP Physician/Practitioner Payments",
+          "amount": 21800000000,
+          "contracts": [],
+          "source": "MOH Expenditure Estimates 2024-25"
+        },
+        {
+          "id": "drug-programs",
+          "name": "Drug Programs (ODB, OHIP+)",
+          "amount": 6200000000,
+          "contracts": [],
+          "source": "MOH Expenditure Estimates 2024-25"
+        },
+        {
+          "id": "long-term-care",
+          "name": "Long-Term Care",
+          "amount": 6000000000,
+          "contracts": [],
+          "source": "Estimated from FAO LTC report; separate ministry"
+        },
+        {
+          "id": "ontario-health-agency",
+          "name": "Ontario Health (Agency)",
+          "amount": 4700000000,
+          "contracts": [],
+          "source": "MOH Expenditure Estimates 2024-25"
+        },
+        {
+          "id": "home-care",
+          "name": "Home Care",
+          "amount": 4300000000,
+          "contracts": [],
+          "source": "MOH Expenditure Estimates 2024-25"
+        },
+        {
+          "id": "hospital-capital",
+          "name": "Hospital Capital",
+          "amount": 2300000000,
+          "contracts": ["mississauga-hospital", "south-niagara-hospital", "ottawa-hospital", "camh-1d", "windsor-hospital", "peel-memorial-phase2", "nygh-patient-tower", "sickkids-project-horizon"],
+          "source": "Budget 2025 infrastructure plan; MOH 2024-25 shows $1.786B for Major Hospital Projects — difference reflects additional capital streams",
+          "needs_verification": true
+        },
+        {
+          "id": "cancer-treatment",
+          "name": "Cancer Treatment",
+          "amount": 1700000000,
+          "contracts": [],
+          "source": "MOH Expenditure Estimates 2024-25"
+        },
+        {
+          "id": "public-health",
+          "name": "Population & Public Health",
+          "amount": 1500000000,
+          "contracts": [],
+          "source": "MOH Expenditure Estimates 2024-25"
+        },
+        {
+          "id": "emergency-health",
+          "name": "Emergency Health Services",
+          "amount": 1400000000,
+          "contracts": [],
+          "source": "MOH Expenditure Estimates 2024-25"
+        },
+        {
+          "id": "community-mental-health",
+          "name": "Community Mental Health",
+          "amount": 1100000000,
+          "contracts": [],
+          "source": "MOH Expenditure Estimates 2024-25"
+        },
+        {
+          "id": "child-youth-mental-health",
+          "name": "Child & Youth Mental Health",
+          "amount": 507000000,
+          "contracts": [],
+          "source": "MOH Expenditure Estimates 2024-25"
+        },
+        {
+          "id": "ornge-air-ambulance",
+          "name": "ORNGE Air Ambulance",
+          "amount": 287000000,
+          "contracts": [],
+          "source": "ORNGE Annual Report 2024-25 ($287.2M provincial funding). Note: MOH 2024-25 Estimates show $269.3M — difference may reflect 2025-26 increase."
+        },
+        {
+          "id": "other-health-programs",
+          "name": "Other Health Programs",
+          "amount": 13906000000,
+          "contracts": [],
+          "source": "Residual: $91.1B sector total minus $77.194B of itemized subcategories. Includes ministry administration, assistive devices ($594M), addiction programs ($368M), capital infrastructure, pandemic reserves, and programs not separately broken out."
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "name": "Education (K-12)",
+      "amount": 41000000000,
+      "color": "#2563eb",
+      "notes": "Official Budget 2025-26 figure for the Education sector (K-12). Postsecondary is a separate $13.0B sector.",
+      "subcategories": [
+        {
+          "id": "k12-core-funding",
+          "name": "K-12 Core Education Funding",
+          "amount": 30300000000,
+          "contracts": [],
+          "source": "Ontario Education Funding 2025-26"
+        },
+        {
+          "id": "student-transportation",
+          "name": "Student Transportation",
+          "amount": 1300000000,
+          "contracts": [],
+          "source": "School Bus Ontario"
+        },
+        {
+          "id": "school-construction",
+          "name": "School Construction & Renewal",
+          "amount": 2000000000,
+          "contracts": [],
+          "source": "Budget 2025"
+        },
+        {
+          "id": "k12-other",
+          "name": "Other K-12 Programs",
+          "amount": 7400000000,
+          "contracts": [],
+          "source": "Residual: $41.0B minus itemized subcategories"
+        }
+      ]
+    },
+    {
+      "id": "postsecondary",
+      "name": "Postsecondary Education",
+      "amount": 13000000000,
+      "color": "#6366f1",
+      "notes": "Official Budget 2025-26 figure. Separate sector from K-12 Education.",
+      "subcategories": [
+        {
+          "id": "postsecondary-operating",
+          "name": "University & College Operating Grants",
+          "amount": 5180000000,
+          "contracts": [],
+          "source": "Ontario Expenditure Estimates 2023-24 (latest available)"
+        },
+        {
+          "id": "osap",
+          "name": "OSAP Student Grants",
+          "amount": 1360000000,
+          "contracts": [],
+          "source": "Ontario Expenditure Estimates 2023-24"
+        },
+        {
+          "id": "postsecondary-other",
+          "name": "Other Postsecondary Programs",
+          "amount": 6460000000,
+          "contracts": [],
+          "source": "Residual: $13.0B minus itemized subcategories"
+        }
+      ]
+    },
+    {
+      "id": "other-programs",
+      "name": "Other Programs",
+      "amount": 29100000000,
+      "color": "#6b7280",
+      "notes": "Official Budget 2025-26 shows $44.1B for Other Programs. We show $29.1B here because Transit & Transportation ($15.0B) is displayed as a separate visual sector for clarity, though it is officially part of Other Programs.",
+      "subcategories": [
+        {
+          "id": "auto-sector-subsidies",
+          "name": "Auto Sector Subsidies (Honda, Stellantis, VW)",
+          "amount": 8100000000,
+          "contracts": ["honda-ev-subsidy", "stellantis-nextstar-subsidy", "volkswagen-powerco-subsidy"],
+          "source": "Estimated from announced provincial shares: Honda ~$2.5B, Stellantis ~$5B, VW ~$500M. Note: these are multi-year commitments, not single-year spend."
+        },
+        {
+          "id": "protecting-ontario-account",
+          "name": "Protecting Ontario Account",
+          "amount": 5000000000,
+          "contracts": [],
+          "source": "Budget 2025. Note: FAO says 'not expected to materially impact budget balance' — may be loan guarantees rather than expenditure."
+        },
+        {
+          "id": "wsib-surplus-rebates",
+          "name": "WSIB Surplus Rebates",
+          "amount": 4000000000,
+          "contracts": [],
+          "source": "WSIB. Note: FAO says 'not expected to materially impact budget balance' — funded from WSIB surplus, not provincial operating budget."
+        },
+        {
+          "id": "skills-development-fund",
+          "name": "Skills Development Fund",
+          "amount": 2500000000,
+          "contracts": ["sdf-ontario-shipyards", "sdf-liuna-183", "sdf-bayshore", "sdf-scale-hospitality", "sdf-agnico-eagle", "sdf-canadian-niagara-hotels", "sdf-keel-digital", "sdf-justice-fund", "sdf-orba", "sdf-merit-ontario"],
+          "source": "Budget 2025. Total program commitment. AG found process 'not fair, transparent or accountable'."
+        },
+        {
+          "id": "ontario-place-redevelopment",
+          "name": "Ontario Place Redevelopment",
+          "amount": 2237000000,
+          "contracts": ["ontario-place-therme", "ontario-place-concert-venue", "new-science-centre"],
+          "source": "Auditor General 2024. Total taxpayer cost rose from $335-424M to $2.237B."
+        },
+        {
+          "id": "municipal-transfers",
+          "name": "Municipal Transfers (OMPF, OCIF, Gas Tax)",
+          "amount": 1380000000,
+          "contracts": [],
+          "source": "Budget 2025. OMPF $600M + OCIF $400M + Gas Tax ~$380M."
+        },
+        {
+          "id": "manufacturing-tax-credit",
+          "name": "Ontario Made Manufacturing Tax Credit",
+          "amount": 433000000,
+          "contracts": [],
+          "source": "Budget 2025. $1.3B over 3 years; ~$433M/year. Fiscal cost, not direct spending."
+        },
+        {
+          "id": "energy-efficiency",
+          "name": "Energy Efficiency Programs",
+          "amount": 908000000,
+          "contracts": [],
+          "source": "Budget 2025. $10.9B over 12 years; ~$908M/year."
+        },
+        {
+          "id": "invest-ontario-fund",
+          "name": "Invest Ontario Fund",
+          "amount": 600000000,
+          "contracts": [],
+          "source": "Budget 2025"
+        },
+        {
+          "id": "critical-minerals-fund",
+          "name": "Critical Minerals Processing Fund",
+          "amount": 500000000,
+          "contracts": [],
+          "source": "Launched Dec 2025"
+        },
+        {
+          "id": "shipbuilding",
+          "name": "Shipbuilding Grants",
+          "amount": 215000000,
+          "contracts": ["shipbuilding-215m"],
+          "source": "Ontario News Release"
+        },
+        {
+          "id": "indigenous-programs",
+          "name": "Indigenous Programs",
+          "amount": 144800000,
+          "contracts": [],
+          "source": "MOI Expenditure Estimates 2025-26"
+        },
+        {
+          "id": "other-programs-misc",
+          "name": "Other Miscellaneous Programs",
+          "amount": 3082200000,
+          "contracts": [],
+          "source": "Residual: $29.1B minus itemized subcategories"
+        }
+      ]
+    },
+    {
+      "id": "children-social-services",
+      "name": "Children, Community & Social Services",
+      "amount": 20400000000,
+      "color": "#7c3aed",
+      "notes": "Official Budget 2025-26 figure.",
+      "subcategories": [
+        {
+          "id": "odsp",
+          "name": "Ontario Disability Support Program (ODSP)",
+          "amount": 6200000000,
+          "contracts": [],
+          "source": "FAO MCCSS 2025 Spending Plan Review"
+        },
+        {
+          "id": "child-care",
+          "name": "Child Care (federal + provincial)",
+          "amount": 6240000000,
+          "contracts": [],
+          "source": "Ontario Early Years Annual Report 2025. Combined federal ($4.56B) + provincial ($1.68B)."
+        },
+        {
+          "id": "ontario-works",
+          "name": "Ontario Works",
+          "amount": 3300000000,
+          "contracts": [],
+          "source": "FAO MCCSS 2025 Spending Plan Review"
+        },
+        {
+          "id": "social-housing",
+          "name": "Social Housing",
+          "amount": 2000000000,
+          "contracts": [],
+          "source": "FAO Subsidized Housing 2026 Report"
+        },
+        {
+          "id": "childrens-aid",
+          "name": "Children's Aid Societies",
+          "amount": 1700000000,
+          "contracts": [],
+          "source": "FAO MCCSS Spending Plan Review"
+        },
+        {
+          "id": "other-social-services",
+          "name": "Other Social Services",
+          "amount": 960000000,
+          "contracts": [],
+          "source": "Residual"
+        }
+      ]
+    },
+    {
+      "id": "interest-on-debt",
+      "name": "Interest on Debt",
+      "amount": 16200000000,
+      "color": "#374151",
+      "notes": "Official Budget 2025-26 figure. Paid to holders of Ontario bonds. Rising at 5.3%/year — fastest-growing line item.",
+      "subcategories": [
+        {
+          "id": "bond-interest",
+          "name": "Bond Interest Payments",
+          "amount": 16200000000,
+          "contracts": [],
+          "source": "Ontario Budget 2025 Chapter 3"
+        }
+      ]
+    },
+    {
+      "id": "transit-transportation",
+      "name": "Transit & Transportation",
+      "amount": 15000000000,
+      "color": "#059669",
+      "notes": "NOT a separate sector in the official budget — officially part of Other Programs ($44.1B). Shown separately here for analytical clarity. The $15.0B is an estimate based on FAO capital plan analysis. The official budget does not break out transit/transportation as a standalone sector.",
+      "subcategories": [
+        {
+          "id": "transit-subway-projects",
+          "name": "Subway & LRT Projects",
+          "amount": 10700000000,
+          "contracts": [
+            "ontario-line-south",
+            "ontario-line-rssom",
+            "ontario-line-pape",
+            "ontario-line-elevated",
+            "sse-tunnel",
+            "sse-srs",
+            "ecwe-tunnel-1",
+            "ecwe-tunnel-2",
+            "ecwe-guideway",
+            "ecwe-srs",
+            "ynse-tunnel",
+            "hazel-mccallion-lrt",
+            "finch-west-lrt",
+            "ttc-line-2-trains"
+          ],
+          "source": "FAO 2025 Capital Plan. $10.7B transit in 2025-26."
+        },
+        {
+          "id": "highway-construction",
+          "name": "Highway Construction",
+          "amount": 4300000000,
+          "contracts": [
+            "highway-413",
+            "bradford-bypass",
+            "garden-city-skyway",
+            "hwy-401-mississauga-milton",
+            "hwy-401-oshawa",
+            "hwy-401-tunnel-study",
+            "hwy-404-midblock",
+            "hwy-3-widening",
+            "hwy-17-kenora",
+            "hwy-69-french-river",
+            "hwy-6-bridge-design"
+          ],
+          "source": "Ontario Budget 2025. $4.3B for highways in 2025-26."
+        }
+      ]
+    },
+    {
+      "id": "justice",
+      "name": "Justice",
+      "amount": 6700000000,
+      "color": "#92400e",
+      "notes": "Official Budget 2025-26 figure.",
+      "subcategories": [
+        {
+          "id": "justice-operations",
+          "name": "Justice Sector Operations",
+          "amount": 6700000000,
+          "contracts": [],
+          "source": "Ontario Budget 2025 Chapter 3"
+        }
+      ]
+    }
+  ]
+}

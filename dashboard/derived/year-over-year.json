@@ -1,0 +1,549 @@
+{
+  "from_year": "2025-26",
+  "to_year": "2025-26",
+  "generated": "2026-03-24",
+  "revenue_changes": [
+    {
+      "old": 57800000000,
+      "new": 57800000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "pit",
+      "name": "Personal Income Tax"
+    },
+    {
+      "old": 40100000000,
+      "new": 40100000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "sales-tax",
+      "name": "Sales Tax"
+    },
+    {
+      "old": 38800000000,
+      "new": 38800000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "federal-transfers",
+      "name": "Federal Transfers"
+    },
+    {
+      "old": 26000000000,
+      "new": 26000000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "corporations-tax",
+      "name": "Corporations Tax"
+    },
+    {
+      "old": 21000000000,
+      "new": 21000000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "other-non-tax-revenue",
+      "name": "Other Non-Tax Revenue"
+    },
+    {
+      "old": 9500000000,
+      "new": 9500000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "employer-health-tax",
+      "name": "Employer Health Tax"
+    },
+    {
+      "old": 7000000000,
+      "new": 7000000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "other-taxes",
+      "name": "Other Taxes"
+    },
+    {
+      "old": 6300000000,
+      "new": 6300000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "government-business-enterprises",
+      "name": "Government Business Enterprises"
+    },
+    {
+      "old": 5900000000,
+      "new": 5900000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "education-property-tax",
+      "name": "Education Property Tax"
+    },
+    {
+      "old": 5400000000,
+      "new": 5400000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "ontario-health-premium",
+      "name": "Ontario Health Premium"
+    },
+    {
+      "old": 2100000000,
+      "new": 2100000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "other-revenue-rounding",
+      "name": "Other Revenue / Rounding"
+    }
+  ],
+  "expense_changes": [
+    {
+      "old": 91100000000,
+      "new": 91100000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "health",
+      "name": "Health",
+      "subcategory_changes": [
+        {
+          "old": 25400000000,
+          "new": 25400000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "hospital-ops",
+          "name": "Hospital Operations"
+        },
+        {
+          "old": 21800000000,
+          "new": 21800000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "ohip-physician-payments",
+          "name": "OHIP Physician/Practitioner Payments"
+        },
+        {
+          "old": 6200000000,
+          "new": 6200000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "drug-programs",
+          "name": "Drug Programs (ODB, OHIP+)"
+        },
+        {
+          "old": 6000000000,
+          "new": 6000000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "long-term-care",
+          "name": "Long-Term Care"
+        },
+        {
+          "old": 4700000000,
+          "new": 4700000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "ontario-health-agency",
+          "name": "Ontario Health (Agency)"
+        },
+        {
+          "old": 4300000000,
+          "new": 4300000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "home-care",
+          "name": "Home Care"
+        },
+        {
+          "old": 2300000000,
+          "new": 2300000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "hospital-capital",
+          "name": "Hospital Capital"
+        },
+        {
+          "old": 1700000000,
+          "new": 1700000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "cancer-treatment",
+          "name": "Cancer Treatment"
+        },
+        {
+          "old": 1500000000,
+          "new": 1500000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "public-health",
+          "name": "Population & Public Health"
+        },
+        {
+          "old": 1400000000,
+          "new": 1400000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "emergency-health",
+          "name": "Emergency Health Services"
+        },
+        {
+          "old": 1100000000,
+          "new": 1100000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "community-mental-health",
+          "name": "Community Mental Health"
+        },
+        {
+          "old": 507000000,
+          "new": 507000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "child-youth-mental-health",
+          "name": "Child & Youth Mental Health"
+        },
+        {
+          "old": 287000000,
+          "new": 287000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "ornge-air-ambulance",
+          "name": "ORNGE Air Ambulance"
+        },
+        {
+          "old": 13906000000,
+          "new": 13906000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "other-health-programs",
+          "name": "Other Health Programs"
+        }
+      ]
+    },
+    {
+      "old": 41000000000,
+      "new": 41000000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "education",
+      "name": "Education (K-12)",
+      "subcategory_changes": [
+        {
+          "old": 30300000000,
+          "new": 30300000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "k12-core-funding",
+          "name": "K-12 Core Education Funding"
+        },
+        {
+          "old": 1300000000,
+          "new": 1300000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "student-transportation",
+          "name": "Student Transportation"
+        },
+        {
+          "old": 2000000000,
+          "new": 2000000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "school-construction",
+          "name": "School Construction & Renewal"
+        },
+        {
+          "old": 7400000000,
+          "new": 7400000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "k12-other",
+          "name": "Other K-12 Programs"
+        }
+      ]
+    },
+    {
+      "old": 13000000000,
+      "new": 13000000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "postsecondary",
+      "name": "Postsecondary Education",
+      "subcategory_changes": [
+        {
+          "old": 5180000000,
+          "new": 5180000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "postsecondary-operating",
+          "name": "University & College Operating Grants"
+        },
+        {
+          "old": 1360000000,
+          "new": 1360000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "osap",
+          "name": "OSAP Student Grants"
+        },
+        {
+          "old": 6460000000,
+          "new": 6460000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "postsecondary-other",
+          "name": "Other Postsecondary Programs"
+        }
+      ]
+    },
+    {
+      "old": 20400000000,
+      "new": 20400000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "children-social-services",
+      "name": "Children, Community & Social Services",
+      "subcategory_changes": [
+        {
+          "old": 6200000000,
+          "new": 6200000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "odsp",
+          "name": "Ontario Disability Support Program (ODSP)"
+        },
+        {
+          "old": 6240000000,
+          "new": 6240000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "child-care",
+          "name": "Child Care (federal + provincial)"
+        },
+        {
+          "old": 3300000000,
+          "new": 3300000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "ontario-works",
+          "name": "Ontario Works"
+        },
+        {
+          "old": 2000000000,
+          "new": 2000000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "social-housing",
+          "name": "Social Housing"
+        },
+        {
+          "old": 1700000000,
+          "new": 1700000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "childrens-aid",
+          "name": "Children's Aid Societies"
+        },
+        {
+          "old": 960000000,
+          "new": 960000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "other-social-services",
+          "name": "Other Social Services"
+        }
+      ]
+    },
+    {
+      "old": 16200000000,
+      "new": 16200000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "interest-on-debt",
+      "name": "Interest on Debt",
+      "subcategory_changes": [
+        {
+          "old": 16200000000,
+          "new": 16200000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "bond-interest",
+          "name": "Bond Interest Payments"
+        }
+      ]
+    },
+    {
+      "old": 15000000000,
+      "new": 15000000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "transit-transportation",
+      "name": "Transit & Transportation",
+      "subcategory_changes": [
+        {
+          "old": 10700000000,
+          "new": 10700000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "transit-subway-projects",
+          "name": "Subway & LRT Projects"
+        },
+        {
+          "old": 4300000000,
+          "new": 4300000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "highway-construction",
+          "name": "Highway Construction"
+        }
+      ]
+    },
+    {
+      "old": 29100000000,
+      "new": 29100000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "other-programs",
+      "name": "Other Programs",
+      "subcategory_changes": [
+        {
+          "old": 8100000000,
+          "new": 8100000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "auto-sector-subsidies",
+          "name": "Auto Sector Subsidies (Honda, Stellantis, VW)"
+        },
+        {
+          "old": 5000000000,
+          "new": 5000000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "protecting-ontario-account",
+          "name": "Protecting Ontario Account"
+        },
+        {
+          "old": 4000000000,
+          "new": 4000000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "wsib-surplus-rebates",
+          "name": "WSIB Surplus Rebates"
+        },
+        {
+          "old": 2500000000,
+          "new": 2500000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "skills-development-fund",
+          "name": "Skills Development Fund"
+        },
+        {
+          "old": 2237000000,
+          "new": 2237000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "ontario-place-redevelopment",
+          "name": "Ontario Place Redevelopment"
+        },
+        {
+          "old": 1380000000,
+          "new": 1380000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "municipal-transfers",
+          "name": "Municipal Transfers (OMPF, OCIF, Gas Tax)"
+        },
+        {
+          "old": 908000000,
+          "new": 908000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "energy-efficiency",
+          "name": "Energy Efficiency Programs"
+        },
+        {
+          "old": 600000000,
+          "new": 600000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "invest-ontario-fund",
+          "name": "Invest Ontario Fund"
+        },
+        {
+          "old": 500000000,
+          "new": 500000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "critical-minerals-fund",
+          "name": "Critical Minerals Processing Fund"
+        },
+        {
+          "old": 433000000,
+          "new": 433000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "manufacturing-tax-credit",
+          "name": "Ontario Made Manufacturing Tax Credit"
+        },
+        {
+          "old": 215000000,
+          "new": 215000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "shipbuilding",
+          "name": "Shipbuilding Grants"
+        },
+        {
+          "old": 144800000,
+          "new": 144800000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "indigenous-programs",
+          "name": "Indigenous Programs"
+        },
+        {
+          "old": 3082200000,
+          "new": 3082200000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "other-programs-misc",
+          "name": "Other Miscellaneous Programs"
+        }
+      ]
+    },
+    {
+      "old": 6700000000,
+      "new": 6700000000,
+      "change": 0,
+      "change_pct": 0.0,
+      "id": "justice",
+      "name": "Justice",
+      "subcategory_changes": [
+        {
+          "old": 6700000000,
+          "new": 6700000000,
+          "change": 0,
+          "change_pct": 0.0,
+          "id": "justice-operations",
+          "name": "Justice Sector Operations"
+        }
+      ]
+    }
+  ],
+  "new_items": [],
+  "removed_items": [],
+  "total_revenue_change": {
+    "old": 219900000000,
+    "new": 219900000000,
+    "change": 0,
+    "change_pct": 0.0
+  },
+  "total_expense_change": {
+    "old": 232500000000,
+    "new": 232500000000,
+    "change": 0,
+    "change_pct": 0.0
+  },
+  "deficit_change": {
+    "old": 12600000000,
+    "new": 12600000000,
+    "change": 0,
+    "change_pct": 0.0
+  }
+}

@@ -1,0 +1,5417 @@
+{
+  "companies": [
+    {
+      "id": "aecon",
+      "name": "Aecon Group",
+      "contracts": [
+        "ontario-line-south",
+        "ecwe-tunnel-1",
+        "ecwe-guideway",
+        "sse-srs",
+        "ynse-tunnel",
+        "go-oncorridor",
+        "finch-west-lrt",
+        "hwy-401-mississauga-milton",
+        "pickering-retube",
+        "darlington-new-nuclear",
+        "darlington-smr-construction",
+        "bruce-power-mcr",
+        "darlington-refurbishment",
+        "bruce-power-fuel-channel"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": [],
+      "notes": "Involved in 14 contracts across transit, nuclear, and highways totalling $70.3B in combined contract value. Actual Aecon share is a fraction of this — they are one of multiple consortium members on every contract. Known specific amounts: ~$1.3B (Darlington SMR construction share), $1.3B (55% of Shoreline Power $1.3B fuel channel contract).",
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Tausha Michaud",
+          "firm": "McMillan Vantage",
+          "status": "Active",
+          "registration_no": "CL4682-20250516034143"
+        },
+        {
+          "lobbyist": "Mark Olsheski",
+          "firm": "Sussex Strategy Group",
+          "status": "Active",
+          "registration_no": "CL3947-20181221021997"
+        },
+        {
+          "lobbyist": "Ashley Millman",
+          "firm": "McMillan Vantage",
+          "status": "Active",
+          "registration_no": "CL10860-20251001035220"
+        },
+        {
+          "lobbyist": "Ken Cain",
+          "firm": "Sussex Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL10044-20251210035745"
+        },
+        {
+          "lobbyist": "Chris Benedetti",
+          "firm": "Sussex Strategy Group",
+          "status": "Active",
+          "registration_no": "CL0674-20181213021943"
+        },
+        {
+          "lobbyist": "Sadaf Abbasi",
+          "firm": "Sussex Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL9913-20211209027555"
+        },
+        {
+          "lobbyist": "Giancarlo Drennan",
+          "firm": "Sussex Strategy Group",
+          "status": "Active",
+          "registration_no": "CL3248-20251010035276"
+        },
+        {
+          "lobbyist": "Jessica Georgakopoulos",
+          "firm": "Sussex Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL10443-20240822032683"
+        },
+        {
+          "lobbyist": "Brian Zeiler-Kligman",
+          "firm": "Sussex Strategy Group Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4144-20181211021929"
+        },
+        {
+          "lobbyist": "Matthew Gibson",
+          "firm": "Sussex Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL4406-20181211021921"
+        }
+      ],
+      "lobbyist_firms": [
+        "McMillan Vantage",
+        "Sussex Strategy Group"
+      ],
+      "evidence_sources": [
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "atkinsrealis",
+      "name": "AtkinsRealis (fka SNC-Lavalin)",
+      "contracts": [
+        "pickering-refurbishment",
+        "pickering-retube",
+        "darlington-new-nuclear",
+        "darlington-smr-engineering",
+        "bruce-power-mcr",
+        "bruce-power-fuel-channel",
+        "darlington-refurbishment",
+        "hwy-69-french-river",
+        "east-harbour-transit-hub"
+      ],
+      "total_gov_value": 5000000000,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": [
+        "todd-smith"
+      ],
+      "public_accounts_total": 1948256,
+      "public_accounts_years": {
+        "2023-24": 1948256
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 1948256
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "alstom",
+      "name": "Alstom Transport Canada",
+      "contracts": [
+        "go-oncorridor",
+        "go-fleet-refurb",
+        "ttc-line-2-trains",
+        "alstom-ttc-sole-source"
+      ],
+      "total_gov_value": 5100000000,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": [],
+      "public_accounts_total": 6652151,
+      "public_accounts_years": {
+        "2024-25": 63629,
+        "2023-24": 6588522
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        },
+        {
+          "ministry": "Ministry Of Natural Resources And Forestry",
+          "total": 121673
+        }
+      ],
+      "lobbyist_count": 4,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Adwet Sharma",
+          "firm": "Edelman (formerly Edelman Global Advisory)",
+          "status": "Inactive",
+          "registration_no": "CL9953-20230213029701"
+        },
+        {
+          "lobbyist": "Darcy Walsh",
+          "firm": "Edelman",
+          "status": "Inactive",
+          "registration_no": "CL5001-20210211026315"
+        },
+        {
+          "lobbyist": "Jeremy Wittet",
+          "firm": "Edelman Global Advisory",
+          "status": "Inactive",
+          "registration_no": "CL4530-20210211026325"
+        },
+        {
+          "lobbyist": "Victoria Jordan",
+          "firm": "Edelman",
+          "status": "Inactive",
+          "registration_no": "CL5059-20210609026970"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "ellisdon",
+      "name": "EllisDon",
+      "contracts": [
+        "peter-gilgan-mississauga-hospital",
+        "south-niagara-hospital",
+        "ottawa-hospital-civic",
+        "windsor-regional-hospital"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Lead builder (with PCL) on 4 Ontario hospital projects totalling $22.3B in contract value. Actual EllisDon share not publicly disclosed — contracts are JVs with PCL and other partners. EllisDon is likely receiving 40-50% of the construction portion.",
+      "public_accounts_total": 358700,
+      "public_accounts_years": {
+        "2024-25": 144000,
+        "2023-24": 214700
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 358700
+        }
+      ],
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Alexandra Rodgers",
+          "firm": "Policy Concepts Inc.",
+          "status": "Active",
+          "registration_no": "CL10416-20240212031622"
+        },
+        {
+          "lobbyist": "Jonathan Sampson",
+          "firm": "Enterprise Canada",
+          "status": "Active",
+          "registration_no": "CL4614-20260225036179"
+        },
+        {
+          "lobbyist": "Andrew Boddington",
+          "firm": "Policy Concepts Inc.",
+          "status": "Active",
+          "registration_no": "CL3417-20210908027379"
+        },
+        {
+          "lobbyist": "Lee Greenberg",
+          "firm": "Policy Concepts Inc",
+          "status": "Active",
+          "registration_no": "CL5063-20210803027220"
+        },
+        {
+          "lobbyist": "David Lu",
+          "firm": "Policy Concepts Inc.",
+          "status": "Active",
+          "registration_no": "CL10816-20250807034815"
+        },
+        {
+          "lobbyist": "Amy Boddington",
+          "firm": "Policy Concepts Inc.",
+          "status": "Active",
+          "registration_no": "CL4135-20220305028009"
+        },
+        {
+          "lobbyist": "Frank Klees",
+          "firm": "Klees & Associates Ltd.",
+          "status": "Inactive",
+          "registration_no": "CL3365-20180916021136"
+        },
+        {
+          "lobbyist": "Caroline Pinto",
+          "firm": "Counsel Public Affairs Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0619-20151123016618"
+        },
+        {
+          "lobbyist": "Carly Luis",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL1625-20131003151022"
+        },
+        {
+          "lobbyist": "Imran Amin",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL1650-20130930140909"
+        }
+      ],
+      "lobbyist_firms": [
+        "Policy Concepts Inc",
+        "Enterprise Canada",
+        "Policy Concepts Inc."
+      ],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "pcl-construction",
+      "name": "PCL Construction",
+      "contracts": [
+        "peter-gilgan-mississauga-hospital",
+        "ottawa-hospital-civic",
+        "camh-phase-1d",
+        "sickkids-project-horizon",
+        "cortellucci-vaughan-hospital"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Lead builder (with EllisDon) on 5 Ontario hospital projects totalling $22.0B in contract value. Actual PCL share not publicly disclosed — contracts are JVs with EllisDon and other partners.",
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "webuild",
+      "name": "Webuild Group",
+      "contracts": [
+        "ontario-line-rssom",
+        "ontario-line-pape",
+        "hazel-mccallion-lrt"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Member of Connect 6ix ($9B Ontario Line RSSOM), Mobilinx ($4.6B Hazel McCallion LRT), and Pape North Connect (Ontario Line Pape). Actual shares not publicly disclosed.",
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "hitachi-rail",
+      "name": "Hitachi Rail",
+      "contracts": [
+        "ontario-line-rssom",
+        "hazel-mccallion-lrt"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Member of Connect 6ix ($9B Ontario Line RSSOM) and Mobilinx ($4.6B Hazel McCallion LRT). Actual share of each consortium not publicly disclosed.",
+      "lobbyist_count": 2,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Rick Roth",
+          "firm": "Global Public Affairs",
+          "status": "Active",
+          "registration_no": "CL4649-20250611034375"
+        },
+        {
+          "lobbyist": "Ellen Chin",
+          "firm": "Global Public Affairs",
+          "status": "Active",
+          "registration_no": "CL10651-20250527034218"
+        }
+      ],
+      "lobbyist_firms": [
+        "Global Public Affairs"
+      ],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "ferrovial",
+      "name": "Ferrovial Construction Canada",
+      "contracts": [
+        "ontario-line-south"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Lead construction partner in Ontario Transit Group ($6B Ontario Line South). Actual share not publicly disclosed.",
+      "public_accounts_total": 6594533,
+      "public_accounts_years": {
+        "2023-24": 6594533
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        },
+        {
+          "ministry": "Ministry Of Solicitor General",
+          "total": 64055
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "vinci-construction",
+      "name": "VINCI Construction",
+      "contracts": [
+        "ontario-line-south"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Partner in Ontario Transit Group ($6B Ontario Line South) via VINCI Construction Grands Projets. Actual share not publicly disclosed.",
+      "public_accounts_total": 14190343,
+      "public_accounts_years": {
+        "2024-25": 6377631,
+        "2023-24": 7812712
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+          "total": 10188541
+        },
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 1659110
+        },
+        {
+          "ministry": "Ministry Of Indigenous Affairs",
+          "total": 1543360
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "fcc-canada",
+      "name": "FCC Canada (FCC Construccion)",
+      "contracts": [
+        "ontario-line-pape",
+        "sse-srs",
+        "ynse-tunnel",
+        "go-oncorridor"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Member of multiple transit consortia: Scarborough Transit Connect ($5.7B SRS), North End Connectors ($1.4B YNSE), GO ONxpress ($1.6B terminated). Actual shares not publicly disclosed.",
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "strabag",
+      "name": "Strabag Inc.",
+      "contracts": [
+        "sse-tunnel",
+        "ecwe-tunnel-2"
+      ],
+      "total_gov_value": 1012000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "dragados",
+      "name": "Dragados Canada",
+      "contracts": [
+        "ecwe-tunnel-1"
+      ],
+      "total_gov_value": 729000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 7,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Leslie Noble",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0058-20130724090723"
+        },
+        {
+          "lobbyist": "John Duffy",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0059-20130719160739"
+        },
+        {
+          "lobbyist": "Kelly Baker",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL3410-20160928017965"
+        },
+        {
+          "lobbyist": "Martin Green",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL1372-20130724090751"
+        },
+        {
+          "lobbyist": "David MacNaughton",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0790-20130724090723"
+        },
+        {
+          "lobbyist": "Amber Crawford",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL1624-20140219150229"
+        },
+        {
+          "lobbyist": "Joseph Pickerill",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL1431-20130724090738"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "ghella",
+      "name": "Ghella Canada",
+      "contracts": [
+        "ecwe-tunnel-1",
+        "ynse-tunnel"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Italian tunnelling specialist. Member of West End Connectors (20% share of $729M ECWE tunnel) and North End Connectors (share of $1.4B YNSE tunnel). Actual Ghella share not publicly disclosed. No political connections found — won contracts through competitive IO/Metrolinx procurement.",
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "acciona",
+      "name": "Acciona Infrastructure Canada",
+      "contracts": [
+        "ontario-line-elevated",
+        "ecwe-srs"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "amico",
+      "name": "Amico Major Projects",
+      "contracts": [
+        "ontario-line-elevated",
+        "ecwe-srs",
+        "hazel-mccallion-lrt",
+        "hwy-401-mississauga-milton"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "wsp-canada",
+      "name": "WSP Canada",
+      "contracts": [
+        "ontario-line-elevated",
+        "ecwe-tunnel-2",
+        "ecwe-srs",
+        "bradford-bypass",
+        "hwy-3-widening",
+        "hwy-401-tunnel-study"
+      ],
+      "total_gov_value": 500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 107319338,
+      "public_accounts_years": {
+        "2024-25": 58455312,
+        "2023-24": 48864026
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 98781537
+        },
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        },
+        {
+          "ministry": "Ministry Of Natural Resources And Forestry",
+          "total": 1413337
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "transdev-canada",
+      "name": "Transdev Canada",
+      "contracts": [
+        "ontario-line-rssom",
+        "hazel-mccallion-lrt"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Will operate Ontario Line for 30 years as part of Connect 6ix ($9B). Also in Mobilinx consortium ($4.6B). Actual share not publicly disclosed.",
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 1,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Monika Bujalska",
+          "firm": "Sutherland Corporation Ltd.",
+          "status": "Inactive",
+          "registration_no": "CL4504-20220324028120"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "plenary-americas",
+      "name": "Plenary Americas",
+      "contracts": [
+        "ontario-line-rssom",
+        "peter-gilgan-mississauga-hospital"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Equity provider in multiple P3 consortia (Mississauga Hospital $13.9B, Ontario Line $9B). Does not receive full contract values — provides financing capital.",
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "ontario-shipyards",
+      "name": "Ontario Shipyards (fka Heddle Marine)",
+      "contracts": [
+        "sdf-ontario-shipyards",
+        "shipbuilding-program"
+      ],
+      "total_gov_value": 237400000,
+      "donations_pc": 35000,
+      "connection_strength": "very_strong",
+      "lobbyists": [
+        "kory-teneycke"
+      ],
+      "public_accounts_total": 15966697,
+      "public_accounts_years": {
+        "2024-25": 10505748,
+        "2023-24": 5460949
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+          "total": 12653387
+        },
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 2413081
+        },
+        {
+          "ministry": "Ministry Of Economic Development, Job Creation And Trade",
+          "total": 582230
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "elections_ontario",
+        "political_connections"
+      ],
+      "evidence_count": 4
+    },
+    {
+      "id": "merit-ontario",
+      "name": "Merit Ontario",
+      "contracts": [
+        "sdf-merit-ontario"
+      ],
+      "total_gov_value": 23000000,
+      "donations_pc": 90000,
+      "connection_strength": "strong",
+      "lobbyists": [],
+      "public_accounts_total": 11049869,
+      "public_accounts_years": {
+        "2024-25": 5873983,
+        "2023-24": 5175886
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+          "total": 11049869
+        }
+      ],
+      "lobbyist_count": 5,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Ujwal Ganguly",
+          "firm": "Temple Scott Associates Inc.",
+          "status": "Inactive",
+          "registration_no": "CL5042-20220930028885"
+        },
+        {
+          "lobbyist": "Ryan Singh",
+          "firm": "Temple Scott Associates Inc.",
+          "status": "Inactive",
+          "registration_no": "CL3540-20220901028704"
+        },
+        {
+          "lobbyist": "Scott Munnoch",
+          "firm": "Temple Scott Associates",
+          "status": "Inactive",
+          "registration_no": "CL3544-20180807020711"
+        },
+        {
+          "lobbyist": "Ryan Singh",
+          "firm": "Temple Scott Associates Inc.",
+          "status": "Inactive",
+          "registration_no": "CL3540-20180801020672"
+        },
+        {
+          "lobbyist": "Robert Elliott",
+          "firm": "Temple Scott Associates",
+          "status": "Inactive",
+          "registration_no": "CL4420-20180914021095"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "elections_ontario",
+        "political_connections"
+      ],
+      "evidence_count": 4
+    },
+    {
+      "id": "liuna-local-183",
+      "name": "LiUNA Local 183",
+      "contracts": [
+        "sdf-liuna-183"
+      ],
+      "total_gov_value": 26000000,
+      "donations_pc": 74070,
+      "connection_strength": "strong",
+      "lobbyists": [],
+      "public_accounts_total": 8922265,
+      "public_accounts_years": {
+        "2024-25": 1167921,
+        "2023-24": 7754344
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        },
+        {
+          "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+          "total": 2391787
+        }
+      ],
+      "lobbyist_count": 8,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Jonathan Lee",
+          "firm": "Daisy Consulting Group",
+          "status": "Inactive",
+          "registration_no": "CL4790-20210716027160"
+        },
+        {
+          "lobbyist": "Tom Henheffer",
+          "firm": "Daisy Consulting Group",
+          "status": "Inactive",
+          "registration_no": "CL4493-20181128021816"
+        },
+        {
+          "lobbyist": "Logan Ross",
+          "firm": "Daisy Consulting Group",
+          "status": "Inactive",
+          "registration_no": "CL4476-20181113021692"
+        },
+        {
+          "lobbyist": "Logan Ross",
+          "firm": "Daisy Consulting Group",
+          "status": "Inactive",
+          "registration_no": "CL4476-20181113021692"
+        },
+        {
+          "lobbyist": "Raphael Brass",
+          "firm": "Bluesky Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL4113-20190130022182"
+        },
+        {
+          "lobbyist": "Rob Gilmour",
+          "firm": "The Daisy Group",
+          "status": "Inactive",
+          "registration_no": "CL4402-20180906020978"
+        },
+        {
+          "lobbyist": "Lisa Kinsella",
+          "firm": "Daisy Consulting Group",
+          "status": "Inactive",
+          "registration_no": "CL1556-20180907020998"
+        },
+        {
+          "lobbyist": "Anne Creighton",
+          "firm": "Creighton Consulting",
+          "status": "Inactive",
+          "registration_no": "CL1478-20121009151033"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "elections_ontario",
+        "political_connections"
+      ],
+      "evidence_count": 4
+    },
+    {
+      "id": "bayshore-healthcare",
+      "name": "Bayshore HealthCare",
+      "contracts": [
+        "sdf-bayshore"
+      ],
+      "total_gov_value": 18600000,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": [],
+      "public_accounts_total": 10877501,
+      "public_accounts_years": {
+        "2024-25": 2028630,
+        "2023-24": 8848871
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6722126
+        },
+        {
+          "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+          "total": 3094932
+        },
+        {
+          "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+          "total": 355950
+        }
+      ],
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Christopher Chapin",
+          "firm": "Upstream Strategy Group",
+          "status": "Active",
+          "registration_no": "CL4350-20180801020673"
+        },
+        {
+          "lobbyist": "Connor Lund",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL10397-20231031031080"
+        },
+        {
+          "lobbyist": "Christina Mitas",
+          "firm": "Upstream Strategy",
+          "status": "Inactive",
+          "registration_no": "CL10052-20220727028516"
+        },
+        {
+          "lobbyist": "Michael Diamond",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL3922-20220822028652"
+        },
+        {
+          "lobbyist": "Isabel Metcalfe",
+          "firm": "Public Affairs Counsel",
+          "status": "Inactive",
+          "registration_no": "CL1016-20210304026461"
+        },
+        {
+          "lobbyist": "Michael Diamond",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL3922-20180801020671"
+        },
+        {
+          "lobbyist": "Bradley Metlin",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL4926-20201029025714"
+        },
+        {
+          "lobbyist": "Andrew Boddington",
+          "firm": "Policy Concepts Inc.",
+          "status": "Inactive",
+          "registration_no": "CL3417-20180704020463"
+        },
+        {
+          "lobbyist": "Jonathan Rose",
+          "firm": "Policy Concepts",
+          "status": "Inactive",
+          "registration_no": "CL3925-20180313020151"
+        },
+        {
+          "lobbyist": "Amy Boddington",
+          "firm": "Policy Concepts Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4135-20180704020467"
+        }
+      ],
+      "lobbyist_firms": [
+        "Upstream Strategy Group"
+      ],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "scale-hospitality",
+      "name": "Scale Hospitality",
+      "contracts": [
+        "sdf-scale-hospitality"
+      ],
+      "total_gov_value": 11000000,
+      "donations_pc": 10000,
+      "connection_strength": "strong",
+      "lobbyists": [
+        "amin-massoudi"
+      ],
+      "public_accounts_total": 18275497,
+      "public_accounts_years": {
+        "2024-25": 5751019,
+        "2023-24": 12524478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+          "total": 11745019
+        },
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 1,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Cody Mallette",
+          "firm": "Atlas Strategic Advisors Inc.",
+          "status": "Inactive",
+          "registration_no": "CL10137-20221116029155"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "elections_ontario",
+        "political_connections"
+      ],
+      "evidence_count": 4
+    },
+    {
+      "id": "agnico-eagle-mines",
+      "name": "Agnico Eagle Mines",
+      "contracts": [
+        "sdf-agnico-eagle"
+      ],
+      "total_gov_value": 10000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 26978938,
+      "public_accounts_years": {
+        "2024-25": 26978938
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Northern Development ",
+          "total": 18478938
+        },
+        {
+          "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+          "total": 8500000
+        }
+      ],
+      "lobbyist_count": 5,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Chris Benedetti",
+          "firm": "Sussex Strategy Group",
+          "status": "Active",
+          "registration_no": "CL0674-20200325024455"
+        },
+        {
+          "lobbyist": "Joyce Mankarios",
+          "firm": "Sussex Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL10109-20240424032084"
+        },
+        {
+          "lobbyist": "Neil Brodie",
+          "firm": "Bluesky Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL4819-20210224026396"
+        },
+        {
+          "lobbyist": "Geoff Turner",
+          "firm": "Bluesky Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL4328-20210329026600"
+        },
+        {
+          "lobbyist": "Cameron Holmstrom",
+          "firm": "Bluesky Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL5023-20210316026537"
+        }
+      ],
+      "lobbyist_firms": [
+        "Sussex Strategy Group"
+      ],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "canadian-niagara-hotels",
+      "name": "Canadian Niagara Hotels",
+      "contracts": [
+        "sdf-canadian-niagara-hotels"
+      ],
+      "total_gov_value": 9000000,
+      "donations_pc": 7000,
+      "connection_strength": "moderate",
+      "lobbyists": [],
+      "public_accounts_total": 10925471,
+      "public_accounts_years": {
+        "2024-25": 2272686,
+        "2023-24": 8652785
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        },
+        {
+          "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+          "total": 3586058
+        },
+        {
+          "ministry": "Ministry Of The Attorney General",
+          "total": 808935
+        }
+      ],
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Jan O'Driscoll",
+          "firm": "Rubicon Strategy",
+          "status": "Inactive",
+          "registration_no": "CL4775-20200522024823"
+        },
+        {
+          "lobbyist": "Daniel Pascucci",
+          "firm": "Rubicon Strategy",
+          "status": "Inactive",
+          "registration_no": "CL9951-20230926030897"
+        },
+        {
+          "lobbyist": "Patrick Harris",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Active",
+          "registration_no": "CL4382-20181102021576"
+        },
+        {
+          "lobbyist": "Vladislav Yakovlyev",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive",
+          "registration_no": "CL10295-20241126033172"
+        },
+        {
+          "lobbyist": "Sarah Letersky",
+          "firm": "Rubicon Strategy",
+          "status": "Inactive",
+          "registration_no": "CL4899-20201112025783"
+        },
+        {
+          "lobbyist": "Christine Simundson",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4371-20181102021577"
+        },
+        {
+          "lobbyist": "James Warren",
+          "firm": "Riseley Strategies Inc.",
+          "status": "Inactive",
+          "registration_no": "CL1030-20130409110422"
+        },
+        {
+          "lobbyist": "Bob Lopinski",
+          "firm": "Counsel Public Affairs Inc.",
+          "status": "Inactive",
+          "registration_no": "CL1132-20090105100101"
+        },
+        {
+          "lobbyist": "James Warren",
+          "firm": "Riseley Strategies Inc.",
+          "status": "Inactive",
+          "registration_no": "CL1030-20090204080220"
+        },
+        {
+          "lobbyist": "David Angus",
+          "firm": "The Capital Hill Group Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0083-20021126081122"
+        }
+      ],
+      "lobbyist_firms": [
+        "Rubicon Strategy Inc."
+      ],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "elections_ontario",
+        "political_connections"
+      ],
+      "evidence_count": 4
+    },
+    {
+      "id": "keel-digital-solutions",
+      "name": "Keel Digital Solutions / Get A-Head",
+      "contracts": [
+        "sdf-keel-digital"
+      ],
+      "total_gov_value": 7500000,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": [
+        "michael-rudderham"
+      ],
+      "public_accounts_total": 27912805,
+      "public_accounts_years": {
+        "2024-25": 16912805,
+        "2023-24": 11000000
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Colleges And Universities",
+          "total": 12750000
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities ",
+          "total": 11000000
+        },
+        {
+          "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+          "total": 2314805
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "the-justice-fund",
+      "name": "The Justice Fund",
+      "contracts": [
+        "sdf-justice-fund"
+      ],
+      "total_gov_value": 4000000,
+      "donations_pc": null,
+      "connection_strength": "weak",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "orba",
+      "name": "ORBA (Ontario Road Builders' Association)",
+      "contracts": [
+        "sdf-orba"
+      ],
+      "total_gov_value": 1800000,
+      "donations_pc": 100000,
+      "connection_strength": "moderate",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry",
+        "elections_ontario",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "tacc-de-gasperis",
+      "name": "TACC / De Gasperis Family (Nashville Developments)",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": 294000,
+      "connection_strength": "very_strong",
+      "lobbyists": [
+        "peter-van-loan",
+        "frank-klees",
+        "amir-remtulla"
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry",
+        "elections_ontario",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "flato-developments",
+      "name": "Flato Developments (Shakir Rehmatullah)",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "mattamy-homes",
+      "name": "Mattamy Homes (Peter Gilgan)",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": 61000,
+      "connection_strength": "strong",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry",
+        "elections_ontario",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "cortellucci-family",
+      "name": "Cortellucci Family",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": 12000,
+      "connection_strength": "moderate",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry",
+        "elections_ontario",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "extendicare",
+      "name": "Extendicare (+ ParaMed)",
+      "contracts": [],
+      "total_gov_value": 1350000000,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": [
+        "melissa-lantsman"
+      ],
+      "public_accounts_total": 6805478,
+      "public_accounts_years": {
+        "2024-25": 136500,
+        "2023-24": 6668978
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        },
+        {
+          "ministry": "Ministry Of Health",
+          "total": 275000
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "chartwell",
+      "name": "Chartwell Retirement Residences",
+      "contracts": [],
+      "total_gov_value": 690000000,
+      "donations_pc": null,
+      "connection_strength": "very_strong",
+      "lobbyists": [
+        "leslie-noble"
+      ],
+      "lobbyist_count": 1,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Leslie Noble",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0058-20200331024492"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "sienna-senior-living",
+      "name": "Sienna Senior Living",
+      "contracts": [],
+      "total_gov_value": 930000000,
+      "donations_pc": null,
+      "connection_strength": "weak",
+      "lobbyists": [],
+      "lobbyist_count": 9,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Clare Michaels",
+          "firm": "Navigator Ltd.",
+          "status": "Inactive",
+          "registration_no": "CL5095-20231214031335"
+        },
+        {
+          "lobbyist": "Stephanie DiNucci",
+          "firm": "Atlas Strategic Advisors Inc.",
+          "status": "Inactive",
+          "registration_no": "CL10214-20230224029771"
+        },
+        {
+          "lobbyist": "Cody Mallette",
+          "firm": "Atlas Strategic Advisors Inc.",
+          "status": "Inactive",
+          "registration_no": "CL10137-20221103029067"
+        },
+        {
+          "lobbyist": "Patrick Harris",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4382-20211013027255"
+        },
+        {
+          "lobbyist": "Tim Smitheman",
+          "firm": "Rubicon Strategy",
+          "status": "Inactive",
+          "registration_no": "CL5107-20211001027202"
+        },
+        {
+          "lobbyist": "Sarah Letersky",
+          "firm": "Rubicon Strategy",
+          "status": "Inactive",
+          "registration_no": "CL4899-20210924027163"
+        },
+        {
+          "lobbyist": "Brayden Akers",
+          "firm": "Navigator LTD",
+          "status": "Inactive",
+          "registration_no": "CL4639-20200601024900"
+        },
+        {
+          "lobbyist": "Michelle Roth",
+          "firm": "Goodmans LLP",
+          "status": "Inactive",
+          "registration_no": "CL4833-20200529024865"
+        },
+        {
+          "lobbyist": "Michael Wilson",
+          "firm": "Goodmans LLP",
+          "status": "Inactive",
+          "registration_no": "CL4803-20200528024856"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "revera",
+      "name": "Revera",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": [
+        "lauren-mcdonald",
+        "michael-wilson-lobbyist",
+        "amir-remtulla"
+      ],
+      "public_accounts_total": 461343071,
+      "public_accounts_years": {
+        "2024-25": 236438379,
+        "2023-24": 224904692
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Long-Term Care",
+          "total": 460496453
+        },
+        {
+          "ministry": "Ministry Of Health",
+          "total": 846618
+        }
+      ],
+      "lobbyist_count": 9,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Samuel Duncan",
+          "firm": "Wellington Advocacy",
+          "status": "Inactive",
+          "registration_no": "CL4841-20220718028437"
+        },
+        {
+          "lobbyist": "Amir Remtulla",
+          "firm": "Amir Remtulla Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4155-20201106025742"
+        },
+        {
+          "lobbyist": "Greg Kalil",
+          "firm": "Stormont Partners Advisory Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4975-20201217026034"
+        },
+        {
+          "lobbyist": "Lauren McDonald",
+          "firm": "Proof Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4710-20200507024760"
+        },
+        {
+          "lobbyist": "Michelle Roth",
+          "firm": "Goodmans LLP",
+          "status": "Inactive",
+          "registration_no": "CL4833-20200501024732"
+        },
+        {
+          "lobbyist": "Michelle Roth",
+          "firm": "Goodmans LLP",
+          "status": "Inactive",
+          "registration_no": "CL4833-20200501024732"
+        },
+        {
+          "lobbyist": "Michael Wilson",
+          "firm": "Goodmans LLP",
+          "status": "Inactive",
+          "registration_no": "CL4803-20200505024744"
+        },
+        {
+          "lobbyist": "Andrew Boddington",
+          "firm": "Policy Concepts Inc.",
+          "status": "Inactive",
+          "registration_no": "CL1195-20110917080958"
+        },
+        {
+          "lobbyist": "Arthur Lofsky",
+          "firm": "Arthur Lofsky",
+          "status": "Inactive",
+          "registration_no": "CL1153-20110516150501"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "oltca",
+      "name": "OLTCA (Ontario Long Term Care Association)",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": [
+        "leslie-noble",
+        "andrew-brander"
+      ],
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "bruce-power",
+      "name": "Bruce Power",
+      "contracts": [
+        "bruce-power-mcr",
+        "bruce-power-fuel-channel"
+      ],
+      "total_gov_value": 13000000000,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": [
+        "chris-froggatt"
+      ],
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Mark Olsheski",
+          "firm": "Sussex Strategy Group",
+          "status": "Active",
+          "registration_no": "CL3947-20230310029867"
+        },
+        {
+          "lobbyist": "Patrick Harris",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Active",
+          "registration_no": "CL4382-20230321029908"
+        },
+        {
+          "lobbyist": "Chris Benedetti",
+          "firm": "Sussex Strategy Group",
+          "status": "Active",
+          "registration_no": "CL0674-20230316029900"
+        },
+        {
+          "lobbyist": "Ramiro Mora",
+          "firm": "CWell Consulting Inc.",
+          "status": "Active",
+          "registration_no": "CL3482-20150306015799"
+        },
+        {
+          "lobbyist": "Daniel Pascucci",
+          "firm": "Rubicon Strategy",
+          "status": "Active",
+          "registration_no": "CL9951-20251211035762"
+        },
+        {
+          "lobbyist": "Tim Smitheman",
+          "firm": "Rubicon Strategy",
+          "status": "Active",
+          "registration_no": "CL5107-20230303029826"
+        },
+        {
+          "lobbyist": "MacKenzie Collings",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Active",
+          "registration_no": "CL10567-20241209033253"
+        },
+        {
+          "lobbyist": "Daniel Levitan",
+          "firm": "Rubicon Strategy",
+          "status": "Active",
+          "registration_no": "CL10560-20240530032272"
+        },
+        {
+          "lobbyist": "Vladislav Yakovlyev",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Active",
+          "registration_no": "CL10295-20230913030811"
+        },
+        {
+          "lobbyist": "Christine Simundson",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4371-20221026029017"
+        }
+      ],
+      "lobbyist_firms": [
+        "Rubicon Strategy",
+        "Rubicon Strategy Inc.",
+        "CWell Consulting Inc.",
+        "Sussex Strategy Group"
+      ],
+      "evidence_sources": [
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "contracts": [
+        "ibm-sams",
+        "ibm-sams-maintenance"
+      ],
+      "total_gov_value": 332200000,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": [
+        "kory-teneycke"
+      ],
+      "public_accounts_total": 114186540,
+      "public_accounts_years": {
+        "2024-25": 54756946,
+        "2023-24": 59429594
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Children, Community And Social Services",
+          "total": 55478376
+        },
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 42099987
+        },
+        {
+          "ministry": "Ministry Of Health",
+          "total": 8764637
+        }
+      ],
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Benjamin Menka",
+          "firm": "Capital Hill Group",
+          "status": "Active",
+          "registration_no": "CL9886-20221108029094"
+        },
+        {
+          "lobbyist": "Benjamin Menka",
+          "firm": "Capital Hill Group",
+          "status": "Active",
+          "registration_no": "CL9886-20221102029065"
+        },
+        {
+          "lobbyist": "Tavis Nembhard",
+          "firm": "Syntax Strategic",
+          "status": "Inactive",
+          "registration_no": "CL10688-20250203033499"
+        },
+        {
+          "lobbyist": "Takdeer Brar",
+          "firm": "Crestview Strategy",
+          "status": "Inactive",
+          "registration_no": "CL10483-20240608032306"
+        },
+        {
+          "lobbyist": "Alex Chreston",
+          "firm": "Crestview Strategy",
+          "status": "Inactive",
+          "registration_no": "CL4047-20240614032345"
+        },
+        {
+          "lobbyist": "Aaron Scheewe",
+          "firm": "The Capital Hill Group",
+          "status": "Active",
+          "registration_no": "CL4447-20210506026789"
+        },
+        {
+          "lobbyist": "David Angus",
+          "firm": "The Capital Hill Group Inc.",
+          "status": "Active",
+          "registration_no": "CL0083-20210506026782"
+        },
+        {
+          "lobbyist": "Michaela Nudo",
+          "firm": "Capital Hill Group",
+          "status": "Inactive",
+          "registration_no": "CL10473-20240206031580"
+        },
+        {
+          "lobbyist": "Kema Joseph",
+          "firm": "Crestview Strategy",
+          "status": "Inactive",
+          "registration_no": "CL5057-20230830030723"
+        },
+        {
+          "lobbyist": "Maddy Stieva",
+          "firm": "The Capital Hill Group",
+          "status": "Inactive",
+          "registration_no": "CL4658-20210506026788"
+        }
+      ],
+      "lobbyist_firms": [
+        "Capital Hill Group",
+        "The Capital Hill Group Inc.",
+        "The Capital Hill Group"
+      ],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "mckinsey",
+      "name": "McKinsey & Company",
+      "contracts": [
+        "mckinsey-covid-command",
+        "mckinsey-school-reopening"
+      ],
+      "total_gov_value": 4800000,
+      "donations_pc": null,
+      "connection_strength": "weak",
+      "lobbyists": [],
+      "public_accounts_total": 791000,
+      "public_accounts_years": {
+        "2024-25": 791000
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 791000
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "accenture",
+      "name": "Accenture",
+      "contracts": [
+        "accenture-sdmt"
+      ],
+      "total_gov_value": 206000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 5220687,
+      "public_accounts_years": {
+        "2024-25": 1516912,
+        "2023-24": 3703775
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Health",
+          "total": 3618912
+        },
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 1379165
+        },
+        {
+          "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+          "total": 222610
+        }
+      ],
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "William Pristanski",
+          "firm": "Prospectus Associates",
+          "status": "Active",
+          "registration_no": "CL1713-20200706025114"
+        },
+        {
+          "lobbyist": "Chris Benedetti",
+          "firm": "Sussex Strategy Group",
+          "status": "Active",
+          "registration_no": "CL0674-20241201033201"
+        },
+        {
+          "lobbyist": "Helene Lavictoire",
+          "firm": "Lavictoire Consulting Inc.",
+          "status": "Active",
+          "registration_no": "CL10371-20230928030921"
+        },
+        {
+          "lobbyist": "Carlo Oliviero",
+          "firm": "Edelman (formerly Edelman Global Advisory)",
+          "status": "Active",
+          "registration_no": "CL10202-20250818034901"
+        },
+        {
+          "lobbyist": "Dan Mader",
+          "firm": "Loyalist Public Affairs",
+          "status": "Inactive",
+          "registration_no": "CL4388-20210927027175"
+        },
+        {
+          "lobbyist": "Alexandra Hoene",
+          "firm": "Loyalist Public Affairs",
+          "status": "Inactive",
+          "registration_no": "CL10597-20240704032436"
+        },
+        {
+          "lobbyist": "Jared Burke",
+          "firm": "Loyalist Public Affairs",
+          "status": "Inactive",
+          "registration_no": "CL4616-20190607023053"
+        },
+        {
+          "lobbyist": "Christopher Froggatt",
+          "firm": "Loyalist Public Affairs",
+          "status": "Inactive",
+          "registration_no": "CL4816-20230524030242"
+        },
+        {
+          "lobbyist": "Kenzie McKeegan",
+          "firm": "Loyalist Public Affairs",
+          "status": "Inactive",
+          "registration_no": "CL10195-20240222031684"
+        },
+        {
+          "lobbyist": "Kris Barnier",
+          "firm": "Loyalist Public Affairs",
+          "status": "Inactive",
+          "registration_no": "CL10102-20220920028807"
+        }
+      ],
+      "lobbyist_firms": [
+        "Lavictoire Consulting Inc.",
+        "Edelman (formerly Edelman Global Advisory)",
+        "Prospectus Associates",
+        "Sussex Strategy Group"
+      ],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "deloitte",
+      "name": "Deloitte",
+      "contracts": [
+        "deloitte-covid-vaccine"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 66971650,
+      "public_accounts_years": {
+        "2024-25": 36283407,
+        "2023-24": 30688243
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of The Attorney General",
+          "total": 29865801
+        },
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 14022678
+        },
+        {
+          "ministry": "Ministry Of Health",
+          "total": 7579159
+        }
+      ],
+      "lobbyist_count": 8,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Andrea Laing",
+          "firm": "Blake Cassels & Graydon LLP",
+          "status": "Inactive",
+          "registration_no": "CL4549-20190207022246"
+        },
+        {
+          "lobbyist": "John Capobianco",
+          "firm": "Hill & Knowlton Canada Ltd.",
+          "status": "Inactive",
+          "registration_no": "CL0404-20030911130901"
+        },
+        {
+          "lobbyist": "Harvey Nightingale",
+          "firm": "Hill & Knowlton Canada Ltd.",
+          "status": "Inactive",
+          "registration_no": "CL0149-20030905160911"
+        },
+        {
+          "lobbyist": "Michael Ras",
+          "firm": "Hill & Knowlton Canada Ltd.",
+          "status": "Inactive",
+          "registration_no": "CL0260-20030905160905"
+        },
+        {
+          "lobbyist": "Chuck Rachlis",
+          "firm": "SAMCI",
+          "status": "Inactive",
+          "registration_no": "CL0009-20020617090635"
+        },
+        {
+          "lobbyist": "Ted Wigdor",
+          "firm": "SAMCI",
+          "status": "Inactive",
+          "registration_no": "CL0008-20000118144042"
+        },
+        {
+          "lobbyist": "Bridget Munnoch",
+          "firm": "SAMCI",
+          "status": "Inactive",
+          "registration_no": "CL0010-19991012133903"
+        },
+        {
+          "lobbyist": "Harvey Nightingale",
+          "firm": "Hill & Knowlton Canada Ltd.",
+          "status": "Inactive",
+          "registration_no": "CL0149-19990909115929"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "cgi",
+      "name": "CGI",
+      "contracts": [
+        "cgi-ehealth-diabetes"
+      ],
+      "total_gov_value": 46200000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Sadaf Rostami",
+          "firm": "Jenni Byrne + Associates",
+          "status": "Active",
+          "registration_no": "CL10472-20240207031589"
+        },
+        {
+          "lobbyist": "Michaela Johnson",
+          "firm": "Jenni Byrne and Associates",
+          "status": "Active",
+          "registration_no": "CL10134-20240206031585"
+        },
+        {
+          "lobbyist": "Davin Shinedling",
+          "firm": "Jenni Byrne + Associates",
+          "status": "Active",
+          "registration_no": "CL5108-20240205031563"
+        },
+        {
+          "lobbyist": "Claudia Gallant",
+          "firm": "Jenni Byrne + Associates",
+          "status": "Inactive",
+          "registration_no": "CL10350-20240206031586"
+        },
+        {
+          "lobbyist": "Simon Jefferies",
+          "firm": "Jenni Byrne + Associates",
+          "status": "Active",
+          "registration_no": "CL4818-20250821034931"
+        },
+        {
+          "lobbyist": "Sadaf Rostami",
+          "firm": "Jenni Byrne + Associates",
+          "status": "Active",
+          "registration_no": "CL10472-20250731034764"
+        },
+        {
+          "lobbyist": "Chad Hallman",
+          "firm": "Jenni Byrne & Associates",
+          "status": "Active",
+          "registration_no": "CL10748-20250529034251"
+        },
+        {
+          "lobbyist": "Simon Jefferies",
+          "firm": "Jenni Byrne + Associates",
+          "status": "Inactive",
+          "registration_no": "CL4818-20240321031893"
+        },
+        {
+          "lobbyist": "Davin Shinedling",
+          "firm": "Jenni Byrne + Associates",
+          "status": "Inactive",
+          "registration_no": "CL5108-20230213029680"
+        },
+        {
+          "lobbyist": "Jonathan Lesarge",
+          "firm": "Jenni Byrne + Associates",
+          "status": "Inactive",
+          "registration_no": "CL10135-20230216029724"
+        }
+      ],
+      "lobbyist_firms": [
+        "Jenni Byrne + Associates",
+        "Jenni Byrne and Associates",
+        "Jenni Byrne & Associates"
+      ],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "staples-canada",
+      "name": "Staples Canada",
+      "contracts": [
+        "staples-serviceontario"
+      ],
+      "total_gov_value": 11700000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 15776086,
+      "public_accounts_years": {
+        "2024-25": 5239130,
+        "2023-24": 10536956
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 12903436
+        },
+        {
+          "ministry": "Ministry Of Solicitor General",
+          "total": 1326328
+        },
+        {
+          "ministry": "Ministry Of The Attorney General",
+          "total": 530529
+        }
+      ],
+      "lobbyist_count": 5,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Paul Brown",
+          "firm": "Campbell Strategies Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0804-20200318024419"
+        },
+        {
+          "lobbyist": "Natalie Dash",
+          "firm": "Campbell Strategies",
+          "status": "Inactive",
+          "registration_no": "CL1532-20200317024413"
+        },
+        {
+          "lobbyist": "Barry Campbell",
+          "firm": "Campbell Strategies Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0505-20200318024420"
+        },
+        {
+          "lobbyist": "Paul Brown",
+          "firm": "Campbell Strategies",
+          "status": "Inactive",
+          "registration_no": "CL0804-20200504024737"
+        },
+        {
+          "lobbyist": "Gayle Nathanson",
+          "firm": "Campbell Strategies Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0514-20210629027068"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "compugen",
+      "name": "Compugen Inc.",
+      "contracts": [
+        "compugen-it-vor"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 33375824,
+      "public_accounts_years": {
+        "2024-25": 23606519,
+        "2023-24": 9769305
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Office Of The Chief Electoral Officer",
+          "total": 19759390
+        },
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 12750658
+        },
+        {
+          "ministry": "Ministry Of Solicitor General",
+          "total": 364629
+        }
+      ],
+      "lobbyist_count": 1,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Chuck Rachlis",
+          "firm": "SAMCI",
+          "status": "Inactive",
+          "registration_no": "CL0009-20020918090931"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "d2l",
+      "name": "D2L (Brightspace)",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 139301,
+      "public_accounts_years": {
+        "2024-25": 65053,
+        "2023-24": 74248
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Office Of The Chief Electoral Officer",
+          "total": 139301
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "honda-canada",
+      "name": "Honda Canada",
+      "contracts": [
+        "honda-ev-subsidy"
+      ],
+      "total_gov_value": 2500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 50291628,
+      "public_accounts_years": {
+        "2024-25": 23921150,
+        "2023-24": 26370478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Economic Development,Job Creation And Trade",
+          "total": 23921150
+        },
+        {
+          "ministry": "Ministry Of Economic Development, Job Creation And Trade",
+          "total": 19840000
+        },
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Philip Baldwin",
+          "firm": "Tactix Government Relations and Public Affairs",
+          "status": "Active",
+          "registration_no": "CL5084-20210707027107"
+        },
+        {
+          "lobbyist": "Alan Young",
+          "firm": "TACTIX Government Relations  and Public Affairs Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0490-20131016121019"
+        },
+        {
+          "lobbyist": "Jean-Michel Laurin",
+          "firm": "TACTIX Government Relations & Public Affairs Inc.",
+          "status": "Active",
+          "registration_no": "CL10486-20251002035230"
+        },
+        {
+          "lobbyist": "Regan Watts",
+          "firm": "Fratton Park Inc.",
+          "status": "Active",
+          "registration_no": "CL4725-20250604034312"
+        },
+        {
+          "lobbyist": "Denise Siele",
+          "firm": "TACTIX Government Relations and Public Affairs Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4603-20190530023020"
+        },
+        {
+          "lobbyist": "Courtney Lockhart",
+          "firm": "TACTIX Government Relations and Public Affairs Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4101-20180830020914"
+        },
+        {
+          "lobbyist": "Daniel Brock",
+          "firm": "Fasken Martineau DuMoulin LLP",
+          "status": "Inactive",
+          "registration_no": "CL0716-20161113018133"
+        },
+        {
+          "lobbyist": "Derrick Raphael",
+          "firm": "Fasken Martineau DuMoulin LLP",
+          "status": "Inactive",
+          "registration_no": "CL4432-20181002021311"
+        },
+        {
+          "lobbyist": "Bob Oliver",
+          "firm": "Tech-K.O., Inc.",
+          "status": "Inactive",
+          "registration_no": "CL3974-20181122021767"
+        },
+        {
+          "lobbyist": "Paul Burbank",
+          "firm": "Fasken Martineau DuMoulin LLP",
+          "status": "Inactive",
+          "registration_no": "CL4417-20180920021204"
+        }
+      ],
+      "lobbyist_firms": [
+        "TACTIX Government Relations & Public Affairs Inc.",
+        "Tactix Government Relations and Public Affairs",
+        "Fratton Park Inc."
+      ],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "stellantis",
+      "name": "Stellantis",
+      "contracts": [
+        "stellantis-nextstar-subsidy"
+      ],
+      "total_gov_value": 5000000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "lg-energy",
+      "name": "LG Energy Solution (NextStar)",
+      "contracts": [
+        "stellantis-nextstar-subsidy"
+      ],
+      "total_gov_value": 5000000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 293968316,
+      "public_accounts_years": {
+        "2024-25": 293968316
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Economic Development,Job Creation And Trade",
+          "total": 293968316
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "volkswagen-powerco",
+      "name": "Volkswagen PowerCo",
+      "contracts": [
+        "volkswagen-powerco-subsidy"
+      ],
+      "total_gov_value": 500000000,
+      "donations_pc": null,
+      "connection_strength": "weak",
+      "lobbyists": [],
+      "public_accounts_total": 1456872,
+      "public_accounts_years": {
+        "2024-25": 213750,
+        "2023-24": 1243122
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+          "total": 1456872
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "toyota",
+      "name": "Toyota",
+      "contracts": [
+        "toyota-subsidy"
+      ],
+      "total_gov_value": 110000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 36247300,
+      "public_accounts_years": {
+        "2024-25": 6080838,
+        "2023-24": 30166462
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Economic Development, Job Creation And Trade",
+          "total": 28000000
+        },
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 8014300
+        },
+        {
+          "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+          "total": 233000
+        }
+      ],
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Shawn Cruz",
+          "firm": "Counsel Public Affairs",
+          "status": "Active",
+          "registration_no": "CL9976-20240410031997"
+        },
+        {
+          "lobbyist": "Kayla Mouzos",
+          "firm": "Counsel Public Affairs",
+          "status": "Active",
+          "registration_no": "CL11029-20260313036324"
+        },
+        {
+          "lobbyist": "Rob Elliott",
+          "firm": "Counsel Public Affairs Inc.",
+          "status": "Active",
+          "registration_no": "CL10449-20250312033645"
+        },
+        {
+          "lobbyist": "Jessica McDougall",
+          "firm": "Counsel Public Affairs Inc",
+          "status": "Active",
+          "registration_no": "CL10808-20260112035873"
+        },
+        {
+          "lobbyist": "Caroline Pinto",
+          "firm": "Counsel Public Affairs Inc.",
+          "status": "Active",
+          "registration_no": "CL0619-20171020019501"
+        },
+        {
+          "lobbyist": "Philip Dewan",
+          "firm": "Counsel Public Affairs Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0705-20170630019075"
+        },
+        {
+          "lobbyist": "Michael Ras",
+          "firm": "Counsel Public Affairs Inc.",
+          "status": "Inactive",
+          "registration_no": "CL9943-20231128031238"
+        },
+        {
+          "lobbyist": "Rob Elliott",
+          "firm": "Counsel Public Affairs Inc.",
+          "status": "Inactive",
+          "registration_no": "CL10449-20240130031525"
+        },
+        {
+          "lobbyist": "Brad Lavigne",
+          "firm": "Counsel Public Affairs Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4195-20220308028020"
+        },
+        {
+          "lobbyist": "Stephanie Gawur",
+          "firm": "Counsel Public Affairs Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4334-20180718020558"
+        }
+      ],
+      "lobbyist_firms": [
+        "Counsel Public Affairs Inc",
+        "Counsel Public Affairs Inc.",
+        "Counsel Public Affairs"
+      ],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "dufferin-crh",
+      "name": "Dufferin Construction / CRH Canada",
+      "contracts": [
+        "finch-west-lrt",
+        "hwy-401-oshawa"
+      ],
+      "total_gov_value": 2500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 2626199018,
+      "public_accounts_years": {
+        "2024-25": 1335291288,
+        "2023-24": 1290907730
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Education",
+          "total": 1777434106
+        },
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 665636204
+        },
+        {
+          "ministry": "Ministry Of Children, Community And Social Services",
+          "total": 70798343
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "green-infrastructure-partners",
+      "name": "Green Infrastructure Partners (GIP)",
+      "contracts": [
+        "garden-city-skyway",
+        "hwy-3-widening"
+      ],
+      "total_gov_value": 638600000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 374951,
+      "public_accounts_years": {
+        "2024-25": 147445,
+        "2023-24": 227506
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Natural Resources And Forestry",
+          "total": 374951
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "fermar-paving",
+      "name": "Fermar Paving",
+      "contracts": [
+        "highway-413"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 69251835,
+      "public_accounts_years": {
+        "2024-25": 31932646,
+        "2023-24": 37319189
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 69251835
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "flatiron-dragados",
+      "name": "Flatiron Dragados Canada",
+      "contracts": [
+        "garden-city-skyway"
+      ],
+      "total_gov_value": 500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "miller-group",
+      "name": "Miller Group (Colas Canada)",
+      "contracts": [
+        "bradford-bypass"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 6868333,
+      "public_accounts_years": {
+        "2024-25": 280000,
+        "2023-24": 6588333
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        },
+        {
+          "ministry": "Ministry Of The Attorney General",
+          "total": 217855
+        },
+        {
+          "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+          "total": 120000
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "brennan-construction",
+      "name": "Brennan Construction",
+      "contracts": [
+        "bradford-bypass"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 420103728,
+      "public_accounts_years": {
+        "2024-25": 186122701,
+        "2023-24": 233981027
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 420090327
+        },
+        {
+          "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+          "total": 13401
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "brennan-paving",
+      "name": "Brennan Paving & Construction",
+      "contracts": [
+        "hwy-404-midblock"
+      ],
+      "total_gov_value": 114000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 420090327,
+      "public_accounts_years": {
+        "2024-25": 186122701,
+        "2023-24": 233967626
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 420090327
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "stantec",
+      "name": "Stantec",
+      "contracts": [
+        "bradford-bypass",
+        "hwy-6-bridge-design",
+        "sickkids-project-horizon"
+      ],
+      "total_gov_value": 9000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 38101833,
+      "public_accounts_years": {
+        "2024-25": 25246034,
+        "2023-24": 12855799
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 37954011
+        },
+        {
+          "ministry": "Ministry Of Environment, Conservation And Parks",
+          "total": 93872
+        },
+        {
+          "ministry": "Ministry Of The Environment, Conservation And Parks",
+          "total": 53950
+        }
+      ],
+      "lobbyist_count": 1,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Jeffery Lyons",
+          "firm": "Lyons Group",
+          "status": "Inactive",
+          "registration_no": "CL0375-20010607101016"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "moncrief-construction",
+      "name": "Moncrief Construction",
+      "contracts": [
+        "hwy-17-kenora"
+      ],
+      "total_gov_value": 32000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 29659050,
+      "public_accounts_years": {
+        "2024-25": 13289380,
+        "2023-24": 16369670
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 29659050
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "coco-paving",
+      "name": "Coco Paving",
+      "contracts": [
+        "hwy-3-widening"
+      ],
+      "total_gov_value": 138600000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "pave-al",
+      "name": "Pave-Al",
+      "contracts": [
+        "highway-413"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 1328300,
+      "public_accounts_years": {
+        "2024-25": 65055,
+        "2023-24": 1263245
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 1328300
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "andritz-hydropower",
+      "name": "Andritz Hydropower Canada",
+      "contracts": [
+        "northern-ontario-hydro",
+        "eastern-ontario-hydro"
+      ],
+      "total_gov_value": 2500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "valard-construction",
+      "name": "Valard Construction LP",
+      "contracts": [
+        "waasigan-transmission"
+      ],
+      "total_gov_value": 1200000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "forbes-bros",
+      "name": "Forbes Bros.",
+      "contracts": [
+        "waasigan-transmission",
+        "st-clair-transmission"
+      ],
+      "total_gov_value": 1671900000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "hydro-one",
+      "name": "Hydro One",
+      "contracts": [
+        "waasigan-transmission",
+        "st-clair-transmission"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": [],
+      "public_accounts_total": 244788229,
+      "public_accounts_years": {
+        "2024-25": 142104799,
+        "2023-24": 102683430
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Economic Development, Job Creation And Trade",
+          "total": 79179100
+        },
+        {
+          "ministry": "Ministry Of Economic Development,Job Creation And Trade",
+          "total": 69159219
+        },
+        {
+          "ministry": "Ministry Of Infrastructure",
+          "total": 57279968
+        }
+      ],
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Andrew Teliszewsky",
+          "firm": "GT & Company",
+          "status": "Active",
+          "registration_no": "CL10248-20240210031617"
+        },
+        {
+          "lobbyist": "MacKenzie Collings",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Active",
+          "registration_no": "CL10567-20250923035160"
+        },
+        {
+          "lobbyist": "Daniel Pascucci",
+          "firm": "Rubicon Strategy",
+          "status": "Inactive",
+          "registration_no": "CL9951-20230605030286"
+        },
+        {
+          "lobbyist": "Patrick Harris",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Active",
+          "registration_no": "CL4382-20230905030749"
+        },
+        {
+          "lobbyist": "Tim Smitheman",
+          "firm": "Rubicon Strategy",
+          "status": "Active",
+          "registration_no": "CL5107-20230530030261"
+        },
+        {
+          "lobbyist": "Daniel Levitan",
+          "firm": "Rubicon Strategy",
+          "status": "Active",
+          "registration_no": "CL10560-20250505034008"
+        },
+        {
+          "lobbyist": "Utilia Amaral",
+          "firm": "Utilia Amaral/MarketStep Inc. (formerly Utilia Amaral/MarketStep Consulting)",
+          "status": "Active",
+          "registration_no": "CL3764-20250513034108"
+        },
+        {
+          "lobbyist": "Mustapha Khamissa",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive",
+          "registration_no": "CL10197-20230822030693"
+        },
+        {
+          "lobbyist": "Steve Coupland",
+          "firm": "SGC Research",
+          "status": "Inactive",
+          "registration_no": "CL10204-20230601030275"
+        },
+        {
+          "lobbyist": "David Campbell",
+          "firm": "GT & Company Executive Advisors",
+          "status": "Active",
+          "registration_no": "CL10796-20250514034117"
+        }
+      ],
+      "lobbyist_firms": [
+        "GT & Company",
+        "Utilia Amaral/MarketStep Inc. (formerly Utilia Amaral/MarketStep Consulting)",
+        "GT & Company Executive Advisors",
+        "Rubicon Strategy Inc.",
+        "Rubicon Strategy"
+      ],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "opg",
+      "name": "Ontario Power Generation (OPG)",
+      "contracts": [
+        "pickering-refurbishment",
+        "darlington-new-nuclear",
+        "darlington-refurbishment",
+        "northern-ontario-hydro",
+        "eastern-ontario-hydro"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": [],
+      "public_accounts_total": 13407309,
+      "public_accounts_years": {
+        "2024-25": 1859056,
+        "2023-24": 11548253
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 12550913
+        },
+        {
+          "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+          "total": 856396
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "ge-vernova-hitachi",
+      "name": "GE Vernova Hitachi Nuclear Energy",
+      "contracts": [
+        "darlington-new-nuclear"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Reactor technology vendor for Darlington SMR ($20.9B total project). Provides BWRX-300 reactor design and key components. Does not receive the full $20.9B — that covers construction, engineering, financing, and contingency across multiple contractors.",
+      "public_accounts_total": 26603894,
+      "public_accounts_years": {
+        "2024-25": 13823164,
+        "2023-24": 12780730
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 26603894
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "bwxt-canada",
+      "name": "BWXT Canada",
+      "contracts": [
+        "pickering-refurbishment",
+        "bruce-power-mcr",
+        "darlington-refurbishment"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 5,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Kristina Matovich",
+          "firm": "Sussex Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL10211-20251117035579"
+        },
+        {
+          "lobbyist": "Mark Olsheski",
+          "firm": "Sussex Strategy Group",
+          "status": "Active",
+          "registration_no": "CL3947-20170611018993"
+        },
+        {
+          "lobbyist": "Chris Benedetti",
+          "firm": "Sussex Strategy Group",
+          "status": "Active",
+          "registration_no": "CL0674-20211113027438"
+        },
+        {
+          "lobbyist": "Chris Benedetti",
+          "firm": "Sussex Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL0674-20160302017028"
+        },
+        {
+          "lobbyist": "David Timm",
+          "firm": "Sussex Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL1699-20151207016688"
+        }
+      ],
+      "lobbyist_firms": [
+        "Sussex Strategy Group"
+      ],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "siemens-energy",
+      "name": "Siemens Energy",
+      "contracts": [
+        "pickering-refurbishment"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 1,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Andrew Brander",
+          "firm": "Crestview Strategy",
+          "status": "Inactive",
+          "registration_no": "CL4669-20230622030393"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "black-and-mcdonald",
+      "name": "Black & McDonald",
+      "contracts": [
+        "bruce-power-mcr",
+        "darlington-refurbishment",
+        "st-clair-transmission"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 20129615,
+      "public_accounts_years": {
+        "2024-25": 8737917,
+        "2023-24": 11391698
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 20129615
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "es-fox",
+      "name": "ES Fox",
+      "contracts": [
+        "bruce-power-mcr",
+        "darlington-refurbishment"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "bird-construction",
+      "name": "Bird Construction",
+      "contracts": [
+        "east-harbour-transit-hub",
+        "peel-memorial-phase-2"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "se-health",
+      "name": "SE Health (Saint Elizabeth)",
+      "contracts": [],
+      "total_gov_value": 1300000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "carepartners",
+      "name": "CarePartners",
+      "contracts": [],
+      "total_gov_value": 140000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 51059922,
+      "public_accounts_years": {
+        "2024-25": 23242935,
+        "2023-24": 27816987
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Long-Term Care",
+          "total": 44529444
+        },
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "noront-resources",
+      "name": "Noront Resources (Wyloo Metals)",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 375923,
+      "public_accounts_years": {
+        "2024-25": 204879,
+        "2023-24": 171044
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Solicitor General",
+          "total": 254250
+        },
+        {
+          "ministry": "Ministry Of Natural Resources And Forestry",
+          "total": 121673
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "ontario-transit-group",
+      "name": "Ontario Transit Group (Consortium)",
+      "contracts": [
+        "ontario-line-south"
+      ],
+      "total_gov_value": 6000000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Consortium entity for Ontario Line South Civil package.",
+      "public_accounts_total": 62826152,
+      "public_accounts_years": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Education",
+          "total": 29982193
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities ",
+          "total": 20514282
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities",
+          "total": 11717565
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "connect-6ix",
+      "name": "Connect 6ix (Consortium)",
+      "contracts": [
+        "ontario-line-rssom"
+      ],
+      "total_gov_value": 9000000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Consortium entity for Ontario Line RSSOM. $9B shared among Hitachi Rail, Webuild, Plenary Americas, Transdev.",
+      "public_accounts_total": 62826152,
+      "public_accounts_years": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Education",
+          "total": 29982193
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities ",
+          "total": 20514282
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities",
+          "total": 11717565
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "pape-north-connect",
+      "name": "Pape North Connect (Consortium)",
+      "contracts": [
+        "ontario-line-pape"
+      ],
+      "total_gov_value": 2500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 62826152,
+      "public_accounts_years": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Education",
+          "total": 29982193
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities ",
+          "total": 20514282
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities",
+          "total": 11717565
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "trillium-guideway-partners",
+      "name": "Trillium Guideway Partners (Consortium)",
+      "contracts": [
+        "ontario-line-elevated"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 114445088,
+      "public_accounts_years": {
+        "2024-25": 56228101,
+        "2023-24": 58216987
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Health",
+          "total": 51618936
+        },
+        {
+          "ministry": "Ministry Of Education",
+          "total": 29982193
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities ",
+          "total": 20514282
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "trillium-rail-partners",
+      "name": "Trillium Rail Partners (Consortium)",
+      "contracts": [
+        "ecwe-srs"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 114445088,
+      "public_accounts_years": {
+        "2024-25": 56228101,
+        "2023-24": 58216987
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Health",
+          "total": 51618936
+        },
+        {
+          "ministry": "Ministry Of Education",
+          "total": 29982193
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities ",
+          "total": 20514282
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "scarborough-transit-connect",
+      "name": "Scarborough Transit Connect (Consortium)",
+      "contracts": [
+        "sse-srs"
+      ],
+      "total_gov_value": 5700000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Consortium entity for SSE Stations, Rail & Systems.",
+      "public_accounts_total": 69356630,
+      "public_accounts_years": {
+        "2024-25": 28074400,
+        "2023-24": 41282230
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Education",
+          "total": 29982193
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities ",
+          "total": 20514282
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities",
+          "total": 11717565
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "west-end-connectors",
+      "name": "West End Connectors (Consortium)",
+      "contracts": [
+        "ecwe-tunnel-1"
+      ],
+      "total_gov_value": 729000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 62826152,
+      "public_accounts_years": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Education",
+          "total": 29982193
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities ",
+          "total": 20514282
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities",
+          "total": 11717565
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "north-end-connectors",
+      "name": "North End Connectors (Consortium)",
+      "contracts": [
+        "ynse-tunnel"
+      ],
+      "total_gov_value": 1400000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 62826152,
+      "public_accounts_years": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Education",
+          "total": 29982193
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities ",
+          "total": 20514282
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities",
+          "total": 11717565
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "onxpress",
+      "name": "ONxpress (Consortium)",
+      "contracts": [
+        "go-oncorridor"
+      ],
+      "total_gov_value": 1600000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 62826152,
+      "public_accounts_years": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Education",
+          "total": 29982193
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities ",
+          "total": 20514282
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities",
+          "total": 11717565
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "mobilinx",
+      "name": "Mobilinx (Consortium)",
+      "contracts": [
+        "hazel-mccallion-lrt"
+      ],
+      "total_gov_value": 4600000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 62826152,
+      "public_accounts_years": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Education",
+          "total": 29982193
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities ",
+          "total": 20514282
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities",
+          "total": 11717565
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "mosaic-transit-group",
+      "name": "Mosaic Transit Group (Consortium)",
+      "contracts": [
+        "finch-west-lrt"
+      ],
+      "total_gov_value": 2500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 62826152,
+      "public_accounts_years": {
+        "2024-25": 28074400,
+        "2023-24": 34751752
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Education",
+          "total": 29982193
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities ",
+          "total": 20514282
+        },
+        {
+          "ministry": "Ministry Of Colleges And Universities",
+          "total": 11717565
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "shoreline-power-group",
+      "name": "Shoreline Power Group (Aecon/AtkinsRealis JV)",
+      "contracts": [
+        "bruce-power-fuel-channel"
+      ],
+      "total_gov_value": 1300000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 4110125,
+      "public_accounts_years": {
+        "2024-25": 1927789,
+        "2023-24": 2182336
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Labour, Immigration, Training And Skills Development",
+          "total": 3094932
+        },
+        {
+          "ministry": "Ministry Of Agriculture, Food And Rural Affairs",
+          "total": 355950
+        },
+        {
+          "ministry": "Ministry Of Tourism, Culture And Sport\n    ",
+          "total": 266499
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "canatom",
+      "name": "CanAtom (AtkinsRealis + Aecon JV)",
+      "contracts": [
+        "pickering-retube",
+        "darlington-refurbishment"
+      ],
+      "total_gov_value": 14900000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Joint venture of AtkinsRealis (Candu Energy) + Aecon. $2.1B Pickering retube + $12.8B Darlington refurb. Values represent the JV contract, shared between partners.",
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "aecon-kiewit",
+      "name": "Aecon Kiewit Nuclear Partners",
+      "contracts": [
+        "darlington-smr-construction"
+      ],
+      "total_gov_value": 1300000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 26603894,
+      "public_accounts_years": {
+        "2024-25": 13823164,
+        "2023-24": 12780730
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 26603894
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "deutsche-bahn",
+      "name": "Deutsche Bahn",
+      "contracts": [
+        "go-oncorridor"
+      ],
+      "total_gov_value": 1600000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 1,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Daniel Pascucci",
+          "firm": "Rubicon Strategy",
+          "status": "Inactive",
+          "registration_no": "CL9951-20250417033891"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "motor-coach-industries",
+      "name": "Motor Coach Industries (MCI)",
+      "contracts": [
+        "go-commuter-coaches"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "acs-infrastructure",
+      "name": "ACS Infrastructure Canada",
+      "contracts": [
+        "finch-west-lrt"
+      ],
+      "total_gov_value": 2500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Nick Kayler",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4490-20181126021790"
+        },
+        {
+          "lobbyist": "Carly Luis",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL1625-20190122022126"
+        },
+        {
+          "lobbyist": "John Penner",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4510-20181219021988"
+        },
+        {
+          "lobbyist": "Kelly Baker",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL3410-20160823017795"
+        },
+        {
+          "lobbyist": "Brian Teefy",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL3752-20160114016827"
+        },
+        {
+          "lobbyist": "John Duffy",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0059-20130719170757"
+        },
+        {
+          "lobbyist": "Leslie Noble",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0058-20130724090726"
+        },
+        {
+          "lobbyist": "Martin Green",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL1372-20130724090717"
+        },
+        {
+          "lobbyist": "David MacNaughton",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0790-20130724090742"
+        },
+        {
+          "lobbyist": "Amber Crawford",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL1624-20140219150233"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "shwe-miikaan",
+      "name": "Shwe Miikaan (Indigenous Partnership)",
+      "contracts": [
+        "hwy-69-french-river"
+      ],
+      "total_gov_value": 500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 317999,
+      "public_accounts_years": {
+        "2023-24": 317999
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Solicitor General",
+          "total": 317999
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "aecom",
+      "name": "AECOM",
+      "contracts": [
+        "ontario-line-south",
+        "ontario-line-pape",
+        "bradford-bypass"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 86332617,
+      "public_accounts_years": {
+        "2024-25": 52927582,
+        "2023-24": 33405035
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 84853730
+        },
+        {
+          "ministry": "Ministry Of Natural Resources And Forestry",
+          "total": 1097249
+        },
+        {
+          "ministry": "Ministry Of Environment, Conservation And Parks",
+          "total": 381638
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "jacobs",
+      "name": "Jacobs",
+      "contracts": [
+        "bradford-bypass"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 828515,
+      "public_accounts_years": {
+        "2024-25": 405546,
+        "2023-24": 422969
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Health",
+          "total": 609069
+        },
+        {
+          "ministry": "Ministry Of The Environment, Conservation And Parks",
+          "total": 123280
+        },
+        {
+          "ministry": "Ministry Of Environment, Conservation And Parks",
+          "total": 96166
+        }
+      ],
+      "lobbyist_count": 3,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "MacKenzie Collings",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Active",
+          "registration_no": "CL10567-20251124035623"
+        },
+        {
+          "lobbyist": "Daniel Pascucci",
+          "firm": "Rubicon Strategy",
+          "status": "Inactive",
+          "registration_no": "CL9951-20220316028070"
+        },
+        {
+          "lobbyist": "Jan O'Driscoll",
+          "firm": "Rubicon Strategy",
+          "status": "Inactive",
+          "registration_no": "CL4775-20220320028091"
+        }
+      ],
+      "lobbyist_firms": [
+        "Rubicon Strategy Inc."
+      ],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "parsons",
+      "name": "Parsons",
+      "contracts": [
+        "hwy-401-mississauga-milton"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 54270582,
+      "public_accounts_years": {
+        "2024-25": 35116568,
+        "2023-24": 19154014
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 53793220
+        },
+        {
+          "ministry": "Ministry Of Children, Community And Social Services",
+          "total": 282930
+        },
+        {
+          "ministry": "Ministry Of Natural Resources And Forestry",
+          "total": 116561
+        }
+      ],
+      "lobbyist_count": 9,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Peter Van Loan",
+          "firm": "Aird & Berlis",
+          "status": "Inactive",
+          "registration_no": "CL4481-20181120021744"
+        },
+        {
+          "lobbyist": "David Crump",
+          "firm": "Hill+Knowlton Strategies (formerly Hill & Knowlton Canada Ltd.)",
+          "status": "Inactive",
+          "registration_no": "CL0924-20070807090819"
+        },
+        {
+          "lobbyist": "Sheila Willis",
+          "firm": "Hill+Knowlton Strategies (formerly Hill & Knowlton Canada Ltd.)",
+          "status": "Inactive",
+          "registration_no": "CL0295-20070807090821"
+        },
+        {
+          "lobbyist": "Ian Connerty",
+          "firm": "Gayle Alexander Associates Limited",
+          "status": "Inactive",
+          "registration_no": "CL0069-20140509014800"
+        },
+        {
+          "lobbyist": "Robert Breeze",
+          "firm": "Hill+Knowlton Strategies (formerly Hill & Knowlton Canada Ltd.)",
+          "status": "Inactive",
+          "registration_no": "CL1334-20101217111238"
+        },
+        {
+          "lobbyist": "Judy Pfeifer",
+          "firm": "Hill & Knowlton Canada Ltd.",
+          "status": "Inactive",
+          "registration_no": "CL1045-20100430140432"
+        },
+        {
+          "lobbyist": "Judy Pfeifer",
+          "firm": "Hill & Knowlton Canada Ltd.",
+          "status": "Inactive",
+          "registration_no": "CL1045-20081119121157"
+        },
+        {
+          "lobbyist": "Pam Gutteridge",
+          "firm": "Pam Gutteridge & Associates",
+          "status": "Inactive",
+          "registration_no": "CL0778-20050908140924"
+        },
+        {
+          "lobbyist": "Ian Connerty",
+          "firm": "Gayle Alexander Associates Limited",
+          "status": "Inactive",
+          "registration_no": "CL0069-20050830100842"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "construction-demathieu-bard",
+      "name": "Construction Demathieu & Bard",
+      "contracts": [
+        "garden-city-skyway"
+      ],
+      "total_gov_value": 500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 8057188,
+      "public_accounts_years": {
+        "2024-25": 3322457,
+        "2023-24": 4734731
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Natural Resources And Forestry",
+          "total": 8057188
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "fengate",
+      "name": "Fengate Asset Management",
+      "contracts": [
+        "peter-gilgan-mississauga-hospital"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Equity provider in ED+PCL Healthcare Partners for $13.9B Mississauga Hospital. Does not receive full contract value — provides financing capital.",
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "hatch",
+      "name": "Hatch",
+      "contracts": [
+        "east-harbour-transit-hub"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 22544884,
+      "public_accounts_years": {
+        "2024-25": 12798619,
+        "2023-24": 9746265
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 21220539
+        },
+        {
+          "ministry": "Ministry Of Natural Resources And Forestry",
+          "total": 1044824
+        },
+        {
+          "ministry": "Ministry Of Solicitor General",
+          "total": 279521
+        }
+      ],
+      "lobbyist_count": 2,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Trueman Tuck",
+          "firm": "Tuck's Professional Services",
+          "status": "Inactive",
+          "registration_no": "CL1047-20110525090514"
+        },
+        {
+          "lobbyist": "John Cruickshank",
+          "firm": "JAC Public Affairs Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0664-20040518100545"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "mott-macdonald",
+      "name": "Mott MacDonald",
+      "contracts": [
+        "sse-srs"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 5,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Mustapha Khamissa",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive",
+          "registration_no": "CL10197-20240308031824"
+        },
+        {
+          "lobbyist": "Steve Coupland",
+          "firm": "SGC Research",
+          "status": "Inactive",
+          "registration_no": "CL10204-20230402029978"
+        },
+        {
+          "lobbyist": "Christine Simundson",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4371-20230713030499"
+        },
+        {
+          "lobbyist": "Patrick Harris",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4382-20210316026541"
+        },
+        {
+          "lobbyist": "Christine Simundson",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4371-20210316026539"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "arup-canada",
+      "name": "Arup Canada",
+      "contracts": [
+        "sse-tunnel"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "arcadis",
+      "name": "Arcadis",
+      "contracts": [
+        "ontario-line-pape",
+        "garden-city-skyway"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 18535947,
+      "public_accounts_years": {
+        "2024-25": 6510104,
+        "2023-24": 12025843
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 11453329
+        },
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        },
+        {
+          "ministry": "Ministry Of Municipal Affairs And Housing",
+          "total": 162155
+        }
+      ],
+      "lobbyist_count": 1,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Bart Maves",
+          "firm": "Sterlingbridge Marketing and Communications",
+          "status": "Inactive",
+          "registration_no": "CL4376-20200810025257"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "ghd",
+      "name": "GHD",
+      "contracts": [
+        "ontario-line-south",
+        "garden-city-skyway"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 38743050,
+      "public_accounts_years": {
+        "2024-25": 19898843,
+        "2023-24": 18844207
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 36871797
+        },
+        {
+          "ministry": "Ministry Of Mines",
+          "total": 876705
+        },
+        {
+          "ministry": "Ministry Of Natural Resources And Forestry",
+          "total": 701827
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "alberici",
+      "name": "Alberici",
+      "contracts": [
+        "ecwe-srs"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 1,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Giancarlo Drennan",
+          "firm": "Sussex Strategy Group",
+          "status": "Active",
+          "registration_no": "CL3248-20250623034477"
+        }
+      ],
+      "lobbyist_firms": [
+        "Sussex Strategy Group"
+      ],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "nge-contracting",
+      "name": "NGE Contracting",
+      "contracts": [
+        "ontario-line-rssom"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "bot-construction",
+      "name": "Bot Construction Group",
+      "contracts": [
+        "hazel-mccallion-lrt"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 2,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "David Angus",
+          "firm": "The Capital Hill Group Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0083-20070115100107"
+        },
+        {
+          "lobbyist": "Steven Dover",
+          "firm": "The Capital Hill Group Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0155-20061013091047"
+        }
+      ],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "john-laing",
+      "name": "John Laing",
+      "contracts": [
+        "hazel-mccallion-lrt"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "exp-services",
+      "name": "EXP Services",
+      "contracts": [
+        "ynse-tunnel"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 7688990,
+      "public_accounts_years": {
+        "2024-25": 4233121,
+        "2023-24": 3455869
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 6234446
+        },
+        {
+          "ministry": "Ministry Of Natural Resources And Forestry",
+          "total": 653463
+        },
+        {
+          "ministry": "Ministry Of The Environment, Conservation And Parks",
+          "total": 526881
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "ge",
+      "name": "GE (General Electric)",
+      "contracts": [
+        "bruce-power-mcr",
+        "darlington-refurbishment"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 980073,
+      "public_accounts_years": {
+        "2024-25": 459613,
+        "2023-24": 520460
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Solicitor General",
+          "total": 980073
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "sener",
+      "name": "SENER",
+      "contracts": [
+        "ontario-line-south"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 354198,
+      "public_accounts_years": {
+        "2024-25": 191475,
+        "2023-24": 162723
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of The Attorney General",
+          "total": 354198
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "janin-atlas",
+      "name": "Janin Atlas",
+      "contracts": [
+        "ontario-line-south"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "cowi",
+      "name": "COWI",
+      "contracts": [
+        "ontario-line-south"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "egis",
+      "name": "Egis",
+      "contracts": [
+        "bradford-bypass"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Mark Holmes",
+          "firm": "Marlyn Consulting",
+          "status": "Inactive",
+          "registration_no": "CL4361-20220422028231"
+        },
+        {
+          "lobbyist": "Ralph Palumbo",
+          "firm": "The Hillcrest Consulting Group Inc.",
+          "status": "Inactive",
+          "registration_no": "CL3660-20220427028246"
+        },
+        {
+          "lobbyist": "Stefanie Di Cosmo",
+          "firm": "Hill & Knowlton",
+          "status": "Active",
+          "registration_no": "CL11013-20260213036134"
+        },
+        {
+          "lobbyist": "Scott Munnoch",
+          "firm": "Temple Scott Associates",
+          "status": "Active",
+          "registration_no": "CL3544-20171122019659"
+        },
+        {
+          "lobbyist": "Patrick Rooney",
+          "firm": "Hill & Knowlton",
+          "status": "Inactive",
+          "registration_no": "CL10010-20230216029721"
+        },
+        {
+          "lobbyist": "Daniel Matthew Boudreau",
+          "firm": "Hill & Knowlton",
+          "status": "Inactive",
+          "registration_no": "CL4057-20230921030875"
+        },
+        {
+          "lobbyist": "Ron Ross",
+          "firm": "Newforum",
+          "status": "Active",
+          "registration_no": "CL4564-20250924035165"
+        },
+        {
+          "lobbyist": "Hailey Budgell",
+          "firm": "Hill & Knowlton",
+          "status": "Active",
+          "registration_no": "CL10613-20240801032594"
+        },
+        {
+          "lobbyist": "Kiki Cekota",
+          "firm": "Hill & Knowlton",
+          "status": "Active",
+          "registration_no": "CL10110-20240313031860"
+        },
+        {
+          "lobbyist": "Ron Ross",
+          "firm": "Newforum",
+          "status": "Inactive",
+          "registration_no": "CL4564-20240227031740"
+        }
+      ],
+      "lobbyist_firms": [
+        "Hill & Knowlton",
+        "Newforum",
+        "Temple Scott Associates"
+      ],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "kodiak-tree-services",
+      "name": "Kodiak Tree Services",
+      "contracts": [
+        "bradford-bypass"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "dillon",
+      "name": "Dillon Consulting",
+      "contracts": [
+        "hwy-3-widening"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 11444961,
+      "public_accounts_years": {
+        "2024-25": 6801226,
+        "2023-24": 4643735
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 10797782
+        },
+        {
+          "ministry": "Ministry Of Environment, Conservation And Parks",
+          "total": 498368
+        },
+        {
+          "ministry": "Ministry Of The Environment, Conservation And Parks",
+          "total": 148811
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "parkin-architects",
+      "name": "Parkin Architects",
+      "contracts": [
+        "peter-gilgan-mississauga-hospital"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Design architect on Mississauga Hospital. Receives design fees, not the $13.9B construction contract.",
+      "public_accounts_total": 333290,
+      "public_accounts_years": {
+        "2024-25": 197929,
+        "2023-24": 135361
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Natural Resources And Forestry",
+          "total": 333290
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "adamson-associates",
+      "name": "Adamson Associates",
+      "contracts": [
+        "peter-gilgan-mississauga-hospital"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Design architect on Mississauga Hospital. Receives design fees, not the full contract value.",
+      "public_accounts_total": 1304439,
+      "public_accounts_years": {
+        "2024-25": 75915,
+        "2023-24": 1228524
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Transportation",
+          "total": 1304439
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "diamond-schmitt",
+      "name": "Diamond Schmitt Architects",
+      "contracts": [
+        "camh-phase-1d"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 333290,
+      "public_accounts_years": {
+        "2024-25": 197929,
+        "2023-24": 135361
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Natural Resources And Forestry",
+          "total": 333290
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "kpmb-architects",
+      "name": "KPMB Architects",
+      "contracts": [
+        "sickkids-project-horizon"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 333290,
+      "public_accounts_years": {
+        "2024-25": 197929,
+        "2023-24": 135361
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Natural Resources And Forestry",
+          "total": 333290
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "cannon-design",
+      "name": "Cannon Design",
+      "contracts": [
+        "peel-memorial-phase-2"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "brightpath-kids",
+      "name": "BrightPath Kids (Busy Bees UK)",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "ymca-ontario",
+      "name": "YMCA Ontario",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "public_accounts_total": 6530478,
+      "public_accounts_years": {
+        "2023-24": 6530478
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Public And Business Service Delivery",
+          "total": 6530478
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "therme-group",
+      "name": "Therme Group",
+      "contracts": [
+        "ontario-place-therme"
+      ],
+      "total_gov_value": 625000000,
+      "donations_pc": null,
+      "connection_strength": "very_strong",
+      "lobbyists": [
+        "mark-lawson",
+        "amir-remtulla"
+      ],
+      "notes": "Austrian spa company; 95-year lease on Ontario Place West Island; NYT found 5 of 6 claimed spas were NOT Therme's; AG found total project cost $2.2B (up from $335-424M); Ford met CEO personally June 2022",
+      "lobbyist_count": 10,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Ana Salvagna",
+          "firm": "StrategyCorp Inc.",
+          "status": "Active",
+          "registration_no": "CL9959-20230405029986"
+        },
+        {
+          "lobbyist": "John Perenack",
+          "firm": "StrategyCorp Inc.",
+          "status": "Active",
+          "registration_no": "CL1616-20211119027482"
+        },
+        {
+          "lobbyist": "Fraser Macdonald",
+          "firm": "StrategyCorp Inc.",
+          "status": "Active",
+          "registration_no": "CL10099-20250203033506"
+        },
+        {
+          "lobbyist": "Aidan Grove-White",
+          "firm": "StrategyCorp Inc.",
+          "status": "Active",
+          "registration_no": "CL4752-20250205033517"
+        },
+        {
+          "lobbyist": "Amir Remtulla",
+          "firm": "Amir Remtulla Inc.",
+          "status": "Active",
+          "registration_no": "CL4155-20220621028328"
+        },
+        {
+          "lobbyist": "Tasnia Khan",
+          "firm": "Amir Remtulla Inc.",
+          "status": "Active",
+          "registration_no": "CL10370-20240506032151"
+        },
+        {
+          "lobbyist": "Ramneek Bala",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL10674-20250203033508"
+        },
+        {
+          "lobbyist": "Richard Ositashvili",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL10607-20250203033504"
+        },
+        {
+          "lobbyist": "Liam Thompson",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL10106-20250203033505"
+        },
+        {
+          "lobbyist": "Aidan Grove-White",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive",
+          "registration_no": "CL4752-20211119027484"
+        }
+      ],
+      "lobbyist_firms": [
+        "Amir Remtulla Inc.",
+        "StrategyCorp Inc."
+      ],
+      "evidence_sources": [
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "live-nation",
+      "name": "Live Nation",
+      "contracts": [
+        "ontario-place-concert-venue"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Expanding Budweiser Stage to 20K capacity; 30+15yr lease at Ontario Place",
+      "lobbyist_count": 4,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Daniel Moulton",
+          "firm": "Crestview Strategy",
+          "status": "Active",
+          "registration_no": "CL4070-20180801020679"
+        },
+        {
+          "lobbyist": "Chad Rogers",
+          "firm": "Crestview Strategy",
+          "status": "Active",
+          "registration_no": "CL3865-20200529024875"
+        },
+        {
+          "lobbyist": "Ginny Movat",
+          "firm": "Crestview Strategy",
+          "status": "Inactive",
+          "registration_no": "CL3569-20181208021896"
+        },
+        {
+          "lobbyist": "David Angus",
+          "firm": "The Capital Hill Group Inc.",
+          "status": "Inactive",
+          "registration_no": "CL0083-20160609017381"
+        }
+      ],
+      "lobbyist_firms": [
+        "Crestview Strategy"
+      ],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "nieuport-aviation",
+      "name": "Nieuport Aviation (J.P. Morgan)",
+      "contracts": [
+        "billy-bishop-terminal"
+      ],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": [
+        "mark-lawson"
+      ],
+      "notes": "Billy Bishop terminal owner; 100% J.P. Morgan Asset Management; retained Ford's former deputy chief of staff Mark Lawson as lobbyist",
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "porter-airlines",
+      "name": "Porter Airlines",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Robert Deluce (Exec Chair) has deep Conservative connections; OMERS owns 21.4%; stands to benefit massively from Billy Bishop expansion Note: Porter Airlines itself is not a direct government contract recipient. The political connections run through Nieuport Aviation (terminal owner) and PortsToronto (board). Porter would benefit indirectly from Billy Bishop expansion.",
+      "lobbyist_count": 5,
+      "lobbyist_registrations": [
+        {
+          "lobbyist": "Grace Lin",
+          "firm": "Sussex Strategy Group",
+          "status": "Active",
+          "registration_no": "CL10683-20251107035506"
+        },
+        {
+          "lobbyist": "Paul Pellegrini",
+          "firm": "Sussex Strategy Group",
+          "status": "Active",
+          "registration_no": "CL0048-20210722027186"
+        },
+        {
+          "lobbyist": "Michael Diamond",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL3922-20180720020586"
+        },
+        {
+          "lobbyist": "Christopher Chapin",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL4350-20190702023221"
+        },
+        {
+          "lobbyist": "Michael Diamond",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive",
+          "registration_no": "CL3922-20171019019491"
+        }
+      ],
+      "lobbyist_firms": [
+        "Sussex Strategy Group"
+      ],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "ontario-science-partners",
+      "name": "Ontario Science Partners",
+      "contracts": [
+        "new-science-centre"
+      ],
+      "total_gov_value": 1040000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Includes Hariri Pontarini Architects; $1.04B fixed-price DBFM contract for new Science Centre at Ontario Place",
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "lobbyist_registry"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "strategycorp",
+      "name": "StrategyCorp",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": [],
+      "notes": "Hired by Therme in 2018 (under Liberals); continued lobbying after Ford won; 3 principals registered as consultant lobbyists for Therme; founded by Leslie Noble (Harris campaign manager)",
+      "public_accounts_total": 8806804,
+      "public_accounts_years": {
+        "2024-25": 4622401,
+        "2023-24": 4184403
+      },
+      "public_accounts_ministries": [
+        {
+          "ministry": "Ministry Of Health",
+          "total": 7543617
+        },
+        {
+          "ministry": "Ministry Of Children, Community And Social Services",
+          "total": 495290
+        },
+        {
+          "ministry": "Ministry Of The Attorney General",
+          "total": 438786
+        }
+      ],
+      "lobbyist_count": 0,
+      "lobbyist_registrations": [],
+      "lobbyist_firms": [],
+      "evidence_sources": [
+        "public_accounts",
+        "lobbyist_registry",
+        "political_connections"
+      ],
+      "evidence_count": 3
+    }
+  ]
+}

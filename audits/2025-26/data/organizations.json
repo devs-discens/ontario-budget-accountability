@@ -1,0 +1,1308 @@
+{
+  "organizations": [
+    {
+      "id": "aecon",
+      "name": "Aecon Group",
+      "org_type": "company",
+      "contracts": ["ontario-line-south", "ecwe-tunnel-1", "ecwe-guideway", "sse-srs", "ynse-tunnel", "go-oncorridor", "finch-west-lrt", "hwy-401-mississauga-milton", "pickering-retube", "darlington-new-nuclear", "darlington-smr-construction", "bruce-power-mcr", "darlington-refurbishment", "bruce-power-fuel-channel"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": [],
+      "notes": "Involved in 14 contracts across transit, nuclear, and highways totalling $70.3B in combined contract value. Actual Aecon share is a fraction — they are one of multiple consortium members on every contract."
+    },
+    {
+      "id": "atkinsrealis",
+      "name": "AtkinsRealis (fka SNC-Lavalin)",
+      "org_type": "company",
+      "contracts": ["pickering-refurbishment", "pickering-retube", "darlington-new-nuclear", "darlington-smr-engineering", "bruce-power-mcr", "bruce-power-fuel-channel", "darlington-refurbishment", "hwy-69-french-river", "east-harbour-transit-hub"],
+      "total_gov_value": 5000000000,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": ["todd-smith"]
+    },
+    {
+      "id": "alstom",
+      "name": "Alstom Transport Canada",
+      "org_type": "company",
+      "contracts": ["go-oncorridor", "go-fleet-refurb", "ttc-line-2-trains", "alstom-ttc-sole-source"],
+      "total_gov_value": 5100000000,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": []
+    },
+    {
+      "id": "ellisdon",
+      "name": "EllisDon",
+      "org_type": "company",
+      "contracts": ["peter-gilgan-mississauga-hospital", "south-niagara-hospital", "ottawa-hospital-civic", "windsor-regional-hospital"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Lead builder (with PCL) on 4 Ontario hospital projects totalling $22.3B in contract value."
+    },
+    {
+      "id": "pcl-construction",
+      "name": "PCL Construction",
+      "org_type": "company",
+      "contracts": ["peter-gilgan-mississauga-hospital", "ottawa-hospital-civic", "camh-phase-1d", "sickkids-project-horizon", "cortellucci-vaughan-hospital"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Lead builder (with EllisDon) on 5 Ontario hospital projects totalling $22.0B in contract value."
+    },
+    {
+      "id": "webuild",
+      "name": "Webuild Group",
+      "org_type": "company",
+      "contracts": ["ontario-line-rssom", "ontario-line-pape", "hazel-mccallion-lrt"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "hitachi-rail",
+      "name": "Hitachi Rail",
+      "org_type": "company",
+      "contracts": ["ontario-line-rssom", "hazel-mccallion-lrt"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "ferrovial",
+      "name": "Ferrovial Construction Canada",
+      "org_type": "company",
+      "contracts": ["ontario-line-south"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "vinci-construction",
+      "name": "VINCI Construction",
+      "org_type": "company",
+      "contracts": ["ontario-line-south"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "fcc-canada",
+      "name": "FCC Canada (FCC Construccion)",
+      "org_type": "company",
+      "contracts": ["ontario-line-pape", "sse-srs", "ynse-tunnel", "go-oncorridor"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "strabag",
+      "name": "Strabag Inc.",
+      "org_type": "company",
+      "contracts": ["sse-tunnel", "ecwe-tunnel-2"],
+      "total_gov_value": 1012000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "dragados",
+      "name": "Dragados Canada",
+      "org_type": "company",
+      "contracts": ["ecwe-tunnel-1"],
+      "total_gov_value": 729000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "ghella",
+      "name": "Ghella Canada",
+      "org_type": "company",
+      "contracts": ["ecwe-tunnel-1", "ynse-tunnel"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Italian tunnelling specialist."
+    },
+    {
+      "id": "acciona",
+      "name": "Acciona Infrastructure Canada",
+      "org_type": "company",
+      "contracts": ["ontario-line-elevated", "ecwe-srs"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "amico",
+      "name": "Amico Major Projects",
+      "org_type": "company",
+      "contracts": ["ontario-line-elevated", "ecwe-srs", "hazel-mccallion-lrt", "hwy-401-mississauga-milton"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "wsp-canada",
+      "name": "WSP Canada",
+      "org_type": "company",
+      "contracts": ["ontario-line-elevated", "ecwe-tunnel-2", "ecwe-srs", "bradford-bypass", "hwy-3-widening", "hwy-401-tunnel-study"],
+      "total_gov_value": 500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "transdev-canada",
+      "name": "Transdev Canada",
+      "org_type": "company",
+      "contracts": ["ontario-line-rssom", "hazel-mccallion-lrt"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "plenary-americas",
+      "name": "Plenary Americas",
+      "org_type": "company",
+      "contracts": ["ontario-line-rssom", "peter-gilgan-mississauga-hospital"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Equity provider in multiple P3 consortia."
+    },
+    {
+      "id": "ontario-shipyards",
+      "name": "Ontario Shipyards (fka Heddle Marine)",
+      "org_type": "company",
+      "contracts": ["sdf-ontario-shipyards", "shipbuilding-program"],
+      "total_gov_value": 237400000,
+      "donations_pc": 35000,
+      "connection_strength": "very_strong",
+      "lobbyists": ["kory-teneycke"]
+    },
+    {
+      "id": "merit-ontario",
+      "name": "Merit Ontario",
+      "org_type": "association",
+      "contracts": ["sdf-merit-ontario"],
+      "total_gov_value": 23000000,
+      "donations_pc": 90000,
+      "connection_strength": "strong",
+      "lobbyists": []
+    },
+    {
+      "id": "liuna-local-183",
+      "name": "LiUNA Local 183",
+      "org_type": "union",
+      "contracts": ["sdf-liuna-183"],
+      "total_gov_value": 26000000,
+      "donations_pc": 74070,
+      "connection_strength": "strong",
+      "lobbyists": []
+    },
+    {
+      "id": "bayshore-healthcare",
+      "name": "Bayshore HealthCare",
+      "org_type": "company",
+      "contracts": ["sdf-bayshore"],
+      "total_gov_value": 18600000,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": []
+    },
+    {
+      "id": "scale-hospitality",
+      "name": "Scale Hospitality",
+      "org_type": "company",
+      "contracts": ["sdf-scale-hospitality"],
+      "total_gov_value": 11000000,
+      "donations_pc": 10000,
+      "connection_strength": "strong",
+      "lobbyists": ["amin-massoudi"]
+    },
+    {
+      "id": "agnico-eagle-mines",
+      "name": "Agnico Eagle Mines",
+      "org_type": "company",
+      "contracts": ["sdf-agnico-eagle"],
+      "total_gov_value": 10000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "canadian-niagara-hotels",
+      "name": "Canadian Niagara Hotels",
+      "org_type": "company",
+      "contracts": ["sdf-canadian-niagara-hotels"],
+      "total_gov_value": 9000000,
+      "donations_pc": 7000,
+      "connection_strength": "moderate",
+      "lobbyists": []
+    },
+    {
+      "id": "keel-digital-solutions",
+      "name": "Keel Digital Solutions / Get A-Head",
+      "org_type": "company",
+      "contracts": ["sdf-keel-digital"],
+      "total_gov_value": 7500000,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": ["michael-rudderham"]
+    },
+    {
+      "id": "the-justice-fund",
+      "name": "The Justice Fund",
+      "org_type": "non-profit",
+      "contracts": ["sdf-justice-fund"],
+      "total_gov_value": 4000000,
+      "donations_pc": null,
+      "connection_strength": "weak",
+      "lobbyists": []
+    },
+    {
+      "id": "orba",
+      "name": "ORBA (Ontario Road Builders' Association)",
+      "org_type": "association",
+      "contracts": ["sdf-orba"],
+      "total_gov_value": 1800000,
+      "donations_pc": 100000,
+      "connection_strength": "moderate",
+      "lobbyists": []
+    },
+    {
+      "id": "tacc-de-gasperis",
+      "name": "TACC / De Gasperis Family (Nashville Developments)",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": 294000,
+      "connection_strength": "very_strong",
+      "lobbyists": ["peter-van-loan", "frank-klees", "amir-remtulla"]
+    },
+    {
+      "id": "flato-developments",
+      "name": "Flato Developments (Shakir Rehmatullah)",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": []
+    },
+    {
+      "id": "mattamy-homes",
+      "name": "Mattamy Homes (Peter Gilgan)",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": 61000,
+      "connection_strength": "strong",
+      "lobbyists": []
+    },
+    {
+      "id": "cortellucci-family",
+      "name": "Cortellucci Family",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": 12000,
+      "connection_strength": "moderate",
+      "lobbyists": []
+    },
+    {
+      "id": "extendicare",
+      "name": "Extendicare (+ ParaMed)",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": 1350000000,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": ["melissa-lantsman"]
+    },
+    {
+      "id": "chartwell",
+      "name": "Chartwell Retirement Residences",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": 690000000,
+      "donations_pc": null,
+      "connection_strength": "very_strong",
+      "lobbyists": ["leslie-noble"]
+    },
+    {
+      "id": "sienna-senior-living",
+      "name": "Sienna Senior Living",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": 930000000,
+      "donations_pc": null,
+      "connection_strength": "weak",
+      "lobbyists": []
+    },
+    {
+      "id": "revera",
+      "name": "Revera",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": ["lauren-mcdonald", "michael-wilson-lobbyist", "amir-remtulla"]
+    },
+    {
+      "id": "oltca",
+      "name": "OLTCA (Ontario Long Term Care Association)",
+      "org_type": "association",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": ["leslie-noble", "andrew-brander"]
+    },
+    {
+      "id": "bruce-power",
+      "name": "Bruce Power",
+      "org_type": "company",
+      "contracts": ["bruce-power-mcr", "bruce-power-fuel-channel"],
+      "total_gov_value": 13000000000,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": ["chris-froggatt"]
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "org_type": "company",
+      "contracts": ["ibm-sams", "ibm-sams-maintenance"],
+      "total_gov_value": 332200000,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": ["kory-teneycke"]
+    },
+    {
+      "id": "mckinsey",
+      "name": "McKinsey & Company",
+      "org_type": "company",
+      "contracts": ["mckinsey-covid-command", "mckinsey-school-reopening"],
+      "total_gov_value": 4800000,
+      "donations_pc": null,
+      "connection_strength": "weak",
+      "lobbyists": []
+    },
+    {
+      "id": "accenture",
+      "name": "Accenture",
+      "org_type": "company",
+      "contracts": ["accenture-sdmt"],
+      "total_gov_value": 206000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "deloitte",
+      "name": "Deloitte",
+      "org_type": "company",
+      "contracts": ["deloitte-covid-vaccine"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "cgi",
+      "name": "CGI",
+      "org_type": "company",
+      "contracts": ["cgi-ehealth-diabetes"],
+      "total_gov_value": 46200000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "staples-canada",
+      "name": "Staples Canada",
+      "org_type": "company",
+      "contracts": ["staples-serviceontario"],
+      "total_gov_value": 11700000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "compugen",
+      "name": "Compugen Inc.",
+      "org_type": "company",
+      "contracts": ["compugen-it-vor"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "d2l",
+      "name": "D2L (Brightspace)",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "honda-canada",
+      "name": "Honda Canada",
+      "org_type": "company",
+      "contracts": ["honda-ev-subsidy"],
+      "total_gov_value": 2500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "stellantis",
+      "name": "Stellantis",
+      "org_type": "company",
+      "contracts": ["stellantis-nextstar-subsidy"],
+      "total_gov_value": 5000000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "lg-energy",
+      "name": "LG Energy Solution (NextStar)",
+      "org_type": "company",
+      "contracts": ["stellantis-nextstar-subsidy"],
+      "total_gov_value": 5000000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "volkswagen-powerco",
+      "name": "Volkswagen PowerCo",
+      "org_type": "company",
+      "contracts": ["volkswagen-powerco-subsidy"],
+      "total_gov_value": 500000000,
+      "donations_pc": null,
+      "connection_strength": "weak",
+      "lobbyists": []
+    },
+    {
+      "id": "toyota",
+      "name": "Toyota",
+      "org_type": "company",
+      "contracts": ["toyota-subsidy"],
+      "total_gov_value": 110000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "dufferin-crh",
+      "name": "Dufferin Construction / CRH Canada",
+      "org_type": "company",
+      "contracts": ["finch-west-lrt", "hwy-401-oshawa"],
+      "total_gov_value": 2500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "green-infrastructure-partners",
+      "name": "Green Infrastructure Partners (GIP)",
+      "org_type": "company",
+      "contracts": ["garden-city-skyway", "hwy-3-widening"],
+      "total_gov_value": 638600000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "fermar-paving",
+      "name": "Fermar Paving",
+      "org_type": "company",
+      "contracts": ["highway-413"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "flatiron-dragados",
+      "name": "Flatiron Dragados Canada",
+      "org_type": "company",
+      "contracts": ["garden-city-skyway"],
+      "total_gov_value": 500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "miller-group",
+      "name": "Miller Group (Colas Canada)",
+      "org_type": "company",
+      "contracts": ["bradford-bypass"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "brennan-construction",
+      "name": "Brennan Construction",
+      "org_type": "company",
+      "contracts": ["bradford-bypass"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "brennan-paving",
+      "name": "Brennan Paving & Construction",
+      "org_type": "company",
+      "contracts": ["hwy-404-midblock"],
+      "total_gov_value": 114000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "stantec",
+      "name": "Stantec",
+      "org_type": "company",
+      "contracts": ["bradford-bypass", "hwy-6-bridge-design", "sickkids-project-horizon"],
+      "total_gov_value": 9000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "moncrief-construction",
+      "name": "Moncrief Construction",
+      "org_type": "company",
+      "contracts": ["hwy-17-kenora"],
+      "total_gov_value": 32000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "coco-paving",
+      "name": "Coco Paving",
+      "org_type": "company",
+      "contracts": ["hwy-3-widening"],
+      "total_gov_value": 138600000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "pave-al",
+      "name": "Pave-Al",
+      "org_type": "company",
+      "contracts": ["highway-413"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "andritz-hydropower",
+      "name": "Andritz Hydropower Canada",
+      "org_type": "company",
+      "contracts": ["northern-ontario-hydro", "eastern-ontario-hydro"],
+      "total_gov_value": 2500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "valard-construction",
+      "name": "Valard Construction LP",
+      "org_type": "company",
+      "contracts": ["waasigan-transmission"],
+      "total_gov_value": 1200000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "forbes-bros",
+      "name": "Forbes Bros.",
+      "org_type": "company",
+      "contracts": ["waasigan-transmission", "st-clair-transmission"],
+      "total_gov_value": 1671900000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "hydro-one",
+      "name": "Hydro One",
+      "org_type": "crown-agency",
+      "contracts": ["waasigan-transmission", "st-clair-transmission"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": []
+    },
+    {
+      "id": "opg",
+      "name": "Ontario Power Generation (OPG)",
+      "org_type": "crown-agency",
+      "contracts": ["pickering-refurbishment", "darlington-new-nuclear", "darlington-refurbishment", "northern-ontario-hydro", "eastern-ontario-hydro"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": []
+    },
+    {
+      "id": "ge-vernova-hitachi",
+      "name": "GE Vernova Hitachi Nuclear Energy",
+      "org_type": "company",
+      "contracts": ["darlington-new-nuclear"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Reactor technology vendor for Darlington SMR ($20.9B total project). Provides BWRX-300 reactor design."
+    },
+    {
+      "id": "bwxt-canada",
+      "name": "BWXT Canada",
+      "org_type": "company",
+      "contracts": ["pickering-refurbishment", "bruce-power-mcr", "darlington-refurbishment"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "siemens-energy",
+      "name": "Siemens Energy",
+      "org_type": "company",
+      "contracts": ["pickering-refurbishment"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "black-and-mcdonald",
+      "name": "Black & McDonald",
+      "org_type": "company",
+      "contracts": ["bruce-power-mcr", "darlington-refurbishment", "st-clair-transmission"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "es-fox",
+      "name": "ES Fox",
+      "org_type": "company",
+      "contracts": ["bruce-power-mcr", "darlington-refurbishment"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "bird-construction",
+      "name": "Bird Construction",
+      "org_type": "company",
+      "contracts": ["east-harbour-transit-hub", "peel-memorial-phase-2"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "se-health",
+      "name": "SE Health (Saint Elizabeth)",
+      "org_type": "non-profit",
+      "contracts": [],
+      "total_gov_value": 1300000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "carepartners",
+      "name": "CarePartners",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": 140000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "noront-resources",
+      "name": "Noront Resources (Wyloo Metals)",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "ontario-transit-group",
+      "name": "Ontario Transit Group (Consortium)",
+      "org_type": "consortium",
+      "contracts": ["ontario-line-south"],
+      "total_gov_value": 6000000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "connect-6ix",
+      "name": "Connect 6ix (Consortium)",
+      "org_type": "consortium",
+      "contracts": ["ontario-line-rssom"],
+      "total_gov_value": 9000000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "pape-north-connect",
+      "name": "Pape North Connect (Consortium)",
+      "org_type": "consortium",
+      "contracts": ["ontario-line-pape"],
+      "total_gov_value": 2500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "trillium-guideway-partners",
+      "name": "Trillium Guideway Partners (Consortium)",
+      "org_type": "consortium",
+      "contracts": ["ontario-line-elevated"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "trillium-rail-partners",
+      "name": "Trillium Rail Partners (Consortium)",
+      "org_type": "consortium",
+      "contracts": ["ecwe-srs"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "scarborough-transit-connect",
+      "name": "Scarborough Transit Connect (Consortium)",
+      "org_type": "consortium",
+      "contracts": ["sse-srs"],
+      "total_gov_value": 5700000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "west-end-connectors",
+      "name": "West End Connectors (Consortium)",
+      "org_type": "consortium",
+      "contracts": ["ecwe-tunnel-1"],
+      "total_gov_value": 729000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "north-end-connectors",
+      "name": "North End Connectors (Consortium)",
+      "org_type": "consortium",
+      "contracts": ["ynse-tunnel"],
+      "total_gov_value": 1400000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "onxpress",
+      "name": "ONxpress (Consortium)",
+      "org_type": "consortium",
+      "contracts": ["go-oncorridor"],
+      "total_gov_value": 1600000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "mobilinx",
+      "name": "Mobilinx (Consortium)",
+      "org_type": "consortium",
+      "contracts": ["hazel-mccallion-lrt"],
+      "total_gov_value": 4600000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "mosaic-transit-group",
+      "name": "Mosaic Transit Group (Consortium)",
+      "org_type": "consortium",
+      "contracts": ["finch-west-lrt"],
+      "total_gov_value": 2500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "shoreline-power-group",
+      "name": "Shoreline Power Group (Aecon/AtkinsRealis JV)",
+      "org_type": "consortium",
+      "contracts": ["bruce-power-fuel-channel"],
+      "total_gov_value": 1300000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "canatom",
+      "name": "CanAtom (AtkinsRealis + Aecon JV)",
+      "org_type": "consortium",
+      "contracts": ["pickering-retube", "darlington-refurbishment"],
+      "total_gov_value": 14900000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Joint venture of AtkinsRealis (Candu Energy) + Aecon."
+    },
+    {
+      "id": "aecon-kiewit",
+      "name": "Aecon Kiewit Nuclear Partners",
+      "org_type": "consortium",
+      "contracts": ["darlington-smr-construction"],
+      "total_gov_value": 1300000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "deutsche-bahn",
+      "name": "Deutsche Bahn",
+      "org_type": "company",
+      "contracts": ["go-oncorridor"],
+      "total_gov_value": 1600000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "motor-coach-industries",
+      "name": "Motor Coach Industries (MCI)",
+      "org_type": "company",
+      "contracts": ["go-commuter-coaches"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "acs-infrastructure",
+      "name": "ACS Infrastructure Canada",
+      "org_type": "company",
+      "contracts": ["finch-west-lrt"],
+      "total_gov_value": 2500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "shwe-miikaan",
+      "name": "Shwe Miikaan (Indigenous Partnership)",
+      "org_type": "consortium",
+      "contracts": ["hwy-69-french-river"],
+      "total_gov_value": 500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "aecom",
+      "name": "AECOM",
+      "org_type": "company",
+      "contracts": ["ontario-line-south", "ontario-line-pape", "bradford-bypass"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "jacobs",
+      "name": "Jacobs",
+      "org_type": "company",
+      "contracts": ["bradford-bypass"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "parsons",
+      "name": "Parsons",
+      "org_type": "company",
+      "contracts": ["hwy-401-mississauga-milton"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "construction-demathieu-bard",
+      "name": "Construction Demathieu & Bard",
+      "org_type": "company",
+      "contracts": ["garden-city-skyway"],
+      "total_gov_value": 500000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "fengate",
+      "name": "Fengate Asset Management",
+      "org_type": "company",
+      "contracts": ["peter-gilgan-mississauga-hospital"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Equity provider in ED+PCL Healthcare Partners for $13.9B Mississauga Hospital."
+    },
+    {
+      "id": "hatch",
+      "name": "Hatch",
+      "org_type": "company",
+      "contracts": ["east-harbour-transit-hub"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "mott-macdonald",
+      "name": "Mott MacDonald",
+      "org_type": "company",
+      "contracts": ["sse-srs"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "arup-canada",
+      "name": "Arup Canada",
+      "org_type": "company",
+      "contracts": ["sse-tunnel"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "arcadis",
+      "name": "Arcadis",
+      "org_type": "company",
+      "contracts": ["ontario-line-pape", "garden-city-skyway"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "ghd",
+      "name": "GHD",
+      "org_type": "company",
+      "contracts": ["ontario-line-south", "garden-city-skyway"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "alberici",
+      "name": "Alberici",
+      "org_type": "company",
+      "contracts": ["ecwe-srs"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "nge-contracting",
+      "name": "NGE Contracting",
+      "org_type": "company",
+      "contracts": ["ontario-line-rssom"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "bot-construction",
+      "name": "Bot Construction Group",
+      "org_type": "company",
+      "contracts": ["hazel-mccallion-lrt"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "john-laing",
+      "name": "John Laing",
+      "org_type": "company",
+      "contracts": ["hazel-mccallion-lrt"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "exp-services",
+      "name": "EXP Services",
+      "org_type": "company",
+      "contracts": ["ynse-tunnel"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "ge",
+      "name": "GE (General Electric)",
+      "org_type": "company",
+      "contracts": ["bruce-power-mcr", "darlington-refurbishment"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "sener",
+      "name": "SENER",
+      "org_type": "company",
+      "contracts": ["ontario-line-south"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "janin-atlas",
+      "name": "Janin Atlas",
+      "org_type": "company",
+      "contracts": ["ontario-line-south"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "cowi",
+      "name": "COWI",
+      "org_type": "company",
+      "contracts": ["ontario-line-south"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "egis",
+      "name": "Egis",
+      "org_type": "company",
+      "contracts": ["bradford-bypass"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "kodiak-tree-services",
+      "name": "Kodiak Tree Services",
+      "org_type": "company",
+      "contracts": ["bradford-bypass"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "dillon",
+      "name": "Dillon Consulting",
+      "org_type": "company",
+      "contracts": ["hwy-3-widening"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "parkin-architects",
+      "name": "Parkin Architects",
+      "org_type": "company",
+      "contracts": ["peter-gilgan-mississauga-hospital"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "adamson-associates",
+      "name": "Adamson Associates",
+      "org_type": "company",
+      "contracts": ["peter-gilgan-mississauga-hospital"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "diamond-schmitt",
+      "name": "Diamond Schmitt Architects",
+      "org_type": "company",
+      "contracts": ["camh-phase-1d"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "kpmb-architects",
+      "name": "KPMB Architects",
+      "org_type": "company",
+      "contracts": ["sickkids-project-horizon"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "cannon-design",
+      "name": "Cannon Design",
+      "org_type": "company",
+      "contracts": ["peel-memorial-phase-2"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "brightpath-kids",
+      "name": "BrightPath Kids (Busy Bees UK)",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "ymca-ontario",
+      "name": "YMCA Ontario",
+      "org_type": "non-profit",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": []
+    },
+    {
+      "id": "therme-group",
+      "name": "Therme Group",
+      "org_type": "company",
+      "contracts": ["ontario-place-therme"],
+      "total_gov_value": 625000000,
+      "donations_pc": null,
+      "connection_strength": "very_strong",
+      "lobbyists": ["mark-lawson", "amir-remtulla"],
+      "notes": "Austrian spa company; 95-year lease on Ontario Place West Island; NYT found 5 of 6 claimed spas were NOT Therme's; AG found total project cost $2.2B (up from $335-424M); Ford met CEO personally June 2022"
+    },
+    {
+      "id": "live-nation",
+      "name": "Live Nation",
+      "org_type": "company",
+      "contracts": ["ontario-place-concert-venue"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Expanding Budweiser Stage to 20K capacity; 30+15yr lease at Ontario Place"
+    },
+    {
+      "id": "nieuport-aviation",
+      "name": "Nieuport Aviation (J.P. Morgan)",
+      "org_type": "company",
+      "contracts": ["billy-bishop-terminal"],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "strong",
+      "lobbyists": ["mark-lawson"],
+      "notes": "Billy Bishop terminal owner; 100% J.P. Morgan Asset Management; retained Ford's former deputy chief of staff Mark Lawson as lobbyist"
+    },
+    {
+      "id": "porter-airlines",
+      "name": "Porter Airlines",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Robert Deluce (Exec Chair) has deep Conservative connections; OMERS owns 21.4%; stands to benefit massively from Billy Bishop expansion"
+    },
+    {
+      "id": "ontario-science-partners",
+      "name": "Ontario Science Partners",
+      "org_type": "consortium",
+      "contracts": ["new-science-centre"],
+      "total_gov_value": 1040000000,
+      "donations_pc": null,
+      "connection_strength": "none",
+      "lobbyists": [],
+      "notes": "Includes Hariri Pontarini Architects; $1.04B fixed-price DBFM contract for new Science Centre at Ontario Place"
+    },
+    {
+      "id": "strategycorp",
+      "name": "StrategyCorp",
+      "org_type": "company",
+      "contracts": [],
+      "total_gov_value": null,
+      "donations_pc": null,
+      "connection_strength": "moderate",
+      "lobbyists": [],
+      "notes": "Hired by Therme in 2018 (under Liberals); continued lobbying after Ford won; 3 principals registered as consultant lobbyists for Therme; founded by Leslie Noble (Harris campaign manager)"
+    }
+  ]
+}

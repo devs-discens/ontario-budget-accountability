@@ -1,0 +1,137 @@
+{
+  "fiscal_year": "2025-26",
+  "appointments": [
+    {
+      "id": "deb-hutton-hydro-one",
+      "person": "deb-hutton",
+      "position": "Board Member (Ontario government nominee)",
+      "organization": "hydro-one",
+      "date": "2026-02",
+      "appointed_by": "doug-ford",
+      "compensation": null,
+      "notes": "Harris-era senior adviser; Tim Hudak's wife. Previously served on Metrolinx board. Previously spent Hydro One money wining and dining Harris-era politicians (2000-2003).",
+      "source_url": "https://www.prnewswire.com/news-releases/government-of-ontario-nominee-appointed-to-the-board-of-directors-of-hydro-one-limited-302693125.html"
+    },
+    {
+      "id": "deb-hutton-metrolinx",
+      "person": "deb-hutton",
+      "position": "Board Member",
+      "organization": "metrolinx",
+      "date": null,
+      "appointed_by": "doug-ford",
+      "compensation": null,
+      "notes": "Served on Metrolinx board prior to Hydro One appointment.",
+      "source_url": ""
+    },
+    {
+      "id": "jane-mckenna-portstoronto",
+      "person": "jane-mckenna",
+      "position": "Board Member (became Chair March 2025)",
+      "organization": "portstoronto",
+      "date": "2023",
+      "appointed_by": "doug-ford",
+      "compensation": null,
+      "notes": "Former PC MPP for Burlington (2011-2014, 2018-2022). Parliamentary Assistant to Minister of Labour under Ford. Became Board Chair March 2025. PortsToronto governs Billy Bishop Airport and 'fully supports' Ford's expansion plan.",
+      "source_url": "https://www.pas.gov.on.ca/Home/Agency/483"
+    },
+    {
+      "id": "joe-oliver-ieso",
+      "person": "joe-oliver",
+      "position": "Chair",
+      "organization": "ieso",
+      "date": "2019-03",
+      "appointed_by": "doug-ford",
+      "compensation": null,
+      "notes": "Harper's Finance Minister; described as climate denier by National Observer. Appointed to chair the Independent Electricity System Operator.",
+      "source_url": "https://www.nationalobserver.com/2019/03/28/news/doug-ford-government-appoints-tory-climate-denier-board-overseeing-ontarios"
+    },
+    {
+      "id": "mark-saunders-ontario-place",
+      "person": "mark-saunders",
+      "position": "Ontario Place Special Advisor",
+      "organization": "ontario-place",
+      "date": "2021",
+      "appointed_by": "doug-ford",
+      "compensation": 171000,
+      "notes": "Paid up to $171K/year ($700/day). FOI revealed NO records of any advice or reports produced. Subsequently became PC Party candidate.",
+      "source_url": "https://globalnews.ca/news/7679992/ontario-place-toronto-mark-saunders-special-advisor/"
+    },
+    {
+      "id": "carmine-nigro-lcbo",
+      "person": "carmine-nigro",
+      "position": "Chair",
+      "organization": "lcbo",
+      "date": null,
+      "appointed_by": "doug-ford",
+      "compensation": null,
+      "notes": "Former PC Ontario Fund Vice-Chair; donated $8,200+ to PCs; organized fundraisers for PC ministers. Developer.",
+      "source_url": "https://www.theglobeandmail.com/canada/article-lcbo-chairman-carmine-nigro-inviting-donors-to-cash-for-access/"
+    },
+    {
+      "id": "carmine-nigro-invest-ontario",
+      "person": "carmine-nigro",
+      "position": "Board Member",
+      "organization": "invest-ontario",
+      "date": null,
+      "appointed_by": "doug-ford",
+      "compensation": null,
+      "notes": "Also serves as LCBO Chair. Former PC Ontario Fund Vice-Chair.",
+      "source_url": "https://www.investontario.ca/board"
+    },
+    {
+      "id": "ernie-eves-invest-ontario",
+      "person": "ernie-eves",
+      "position": "Board Member",
+      "organization": "invest-ontario",
+      "date": null,
+      "appointed_by": "doug-ford",
+      "compensation": null,
+      "notes": "Former PC Premier of Ontario (2002-2003).",
+      "source_url": "https://www.investontario.ca/board"
+    },
+    {
+      "id": "janet-ecker-invest-ontario",
+      "person": "janet-ecker",
+      "position": "Board Member",
+      "organization": "invest-ontario",
+      "date": null,
+      "appointed_by": "doug-ford",
+      "compensation": null,
+      "notes": "Former PC Finance Minister under Harris/Eves.",
+      "source_url": "https://www.investontario.ca/board"
+    },
+    {
+      "id": "joseph-mancinelli-invest-ontario",
+      "person": "joseph-mancinelli",
+      "position": "Board Member",
+      "organization": "invest-ontario",
+      "date": null,
+      "appointed_by": "doug-ford",
+      "compensation": null,
+      "notes": "LiUNA International VP and Canadian Director. Staunch Ford supporter. LiUNA endorsed Ford (Jan 2025). LiUNA donated $74,070 to PCs.",
+      "source_url": "https://www.investontario.ca/board"
+    },
+    {
+      "id": "padulo-hamilton-police",
+      "person": "padulo",
+      "position": "Board Member",
+      "organization": "hamilton-police-board",
+      "date": null,
+      "appointed_by": "doug-ford",
+      "compensation": null,
+      "notes": "CEO of Ontario Shipyards. Donated $6,700+ to PC ridings of Labour Ministers Piccini and McNaughton. Company received $22M SDF + $215M shipbuilding program.",
+      "source_url": "https://www.thetrillium.ca/news/the-trillium-investigations/premier-ford-urging-feds-to-give-major-shipbuilding-contract-to-company-his-campaign-managers-firm-lobbies-for-11921305"
+    },
+    {
+      "id": "james-dodds-metrolinx",
+      "person": "james-dodds",
+      "position": "Board Chair",
+      "organization": "metrolinx",
+      "date": null,
+      "appointed_by": "doug-ford",
+      "compensation": null,
+      "notes": "Also chairs the Conservative Fund (federal party fundraising arm). Metrolinx oversees $70B+ in transit projects.",
+      "source_url": "https://globalnews.ca/news/9844380/metrolinx-ceo-complains-ford-government-direct-control/"
+    }
+  ]
+}

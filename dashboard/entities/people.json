@@ -1,0 +1,586 @@
+{
+  "people": [
+    {
+      "id": "kory-teneycke",
+      "name": "Kory Teneycke",
+      "type": "lobbyist-insider",
+      "firm": "Rubicon Strategy",
+      "integrity_violations": false,
+      "clients": ["ontario-shipyards", "ibm"],
+      "timeline": [
+        { "date": "2018", "event": "Managed Ford's winning election campaign" },
+        { "date": "2018", "event": "Founded Rubicon Strategy" },
+        { "date": "2022", "event": "Managed Ford's second election campaign" },
+        { "date": "2022", "event": "Ontario Shipyards became Rubicon client" },
+        { "date": "2023", "event": "Rubicon clients receive $100M+ in SDF grants across 16 clients" },
+        { "date": "2025", "event": "Managed Ford's third election campaign" }
+      ]
+    },
+    {
+      "id": "jenni-byrne",
+      "name": "Jenni Byrne",
+      "type": "lobbyist-insider",
+      "firm": "Jenni Byrne + Associates",
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2018-06", "event": "Appointed Principal Secretary to Ford" },
+        { "date": "2019", "event": "Left Premier's office" },
+        { "date": "2019", "event": "Founded Jenni Byrne + Associates lobbying firm" },
+        { "date": "2025", "event": "Now has 60+ lobbying clients" }
+      ]
+    },
+    {
+      "id": "amin-massoudi",
+      "name": "Amin Massoudi",
+      "type": "lobbyist-insider",
+      "firm": "Atlas Strategic Advisors",
+      "integrity_violations": true,
+      "clients": ["scale-hospitality"],
+      "timeline": [
+        { "date": "2019", "event": "Appointed Principal Secretary to Ford (replaced Byrne)" },
+        { "date": "2022", "event": "Left Premier's office" },
+        { "date": "2022", "event": "Founded Atlas Strategic Advisors" },
+        { "date": "2023", "event": "Lobbied for Scale Hospitality on SDF grants" },
+        { "date": "2024", "event": "Scale Hospitality received $11M SDF despite late, low-scoring application" },
+        { "date": "2025", "event": "Integrity Commissioner found he broke lobbying rules" }
+      ]
+    },
+    {
+      "id": "nico-fidani-diker",
+      "name": "Nico Fidani-Diker",
+      "type": "lobbyist-insider",
+      "firm": "ONpoint Strategy Group",
+      "integrity_violations": true,
+      "clients": [],
+      "timeline": [
+        { "date": "2018", "event": "Appointed Executive Assistant in Ford government" },
+        { "date": "2020", "event": "Left government" },
+        { "date": "2020", "event": "Founded ONpoint Strategy Group" },
+        { "date": "2025", "event": "5 separate integrity violations found including unregistered Greenbelt lobbying" }
+      ]
+    },
+    {
+      "id": "chris-froggatt",
+      "name": "Chris Froggatt",
+      "type": "lobbyist-insider",
+      "firm": "Loyalist Public Affairs",
+      "integrity_violations": false,
+      "clients": ["bruce-power"],
+      "timeline": [
+        { "date": "2018", "event": "Vice-Chair of Ford election campaign" },
+        { "date": "2018", "event": "Chaired Ford transition team" },
+        { "date": "2018", "event": "Founded/runs Loyalist Public Affairs" },
+        { "date": "2020", "event": "Lobbies for Bruce Power, Canadian Nuclear Association, Pfizer, Canopy Growth" }
+      ]
+    },
+    {
+      "id": "michael-diamond",
+      "name": "Michael Diamond",
+      "type": "lobbyist-insider",
+      "firm": "Upstream Strategy Group",
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2018", "event": "PC Party President" },
+        { "date": "2022", "event": "Upstream Strategy Group clients receive ~$31M in SDF grants" }
+      ]
+    },
+    {
+      "id": "dean-french",
+      "name": "Dean French",
+      "type": "insider",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2018-06", "event": "Appointed Chief of Staff to Ford" },
+        { "date": "2019-07", "event": "Forced out over patronage appointments to Agent General posts, OPP Commissioner, WSIB, OPG" }
+      ]
+    },
+    {
+      "id": "tony-miele",
+      "name": "Tony Miele",
+      "type": "insider",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2011", "event": "Began fundraising for Ontario PCs" },
+        { "date": "2018", "event": "PC Ontario Fund Chair" },
+        { "date": "2022-08", "event": "Sold tickets to Ford daughter's stag-and-doe where Greenbelt developers attended" }
+      ]
+    },
+    {
+      "id": "carmine-nigro",
+      "name": "Carmine Nigro",
+      "type": "insider",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2018", "event": "Former PC Ontario Fund Vice-Chair" },
+        { "date": "2019", "event": "Appointed LCBO Chair by Ford" },
+        { "date": "2022", "event": "Appointed to Invest Ontario board" },
+        { "date": "2023", "event": "Donated $8,200+ to PCs; organized fundraisers for PC ministers" }
+      ]
+    },
+    {
+      "id": "mark-saunders",
+      "name": "Mark Saunders",
+      "type": "insider",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2021", "event": "Appointed Ontario Place Special Advisor at $700/day ($171K/yr max)" },
+        { "date": "2023", "event": "FOI revealed no records of any work product" },
+        { "date": "2025", "event": "Became PC Party candidate" }
+      ]
+    },
+    {
+      "id": "david-piccini",
+      "name": "David Piccini",
+      "type": "politician",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2018", "event": "Elected PC MPP" },
+        { "date": "2023", "event": "Appointed Minister of Labour" },
+        { "date": "2023", "event": "Office overrode SDF scoring to award grants to lobbyist clients" },
+        { "date": "2024", "event": "Attended lobbyist Rudderham's Paris wedding after awarding his clients $8.5M" },
+        { "date": "2025-12", "event": "Integrity Commissioner investigation launched" }
+      ]
+    },
+    {
+      "id": "michael-rudderham",
+      "name": "Michael Rudderham",
+      "type": "lobbyist",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["keel-digital-solutions"],
+      "timeline": [
+        { "date": "2023", "event": "Lobbied for Keel Digital/Get A-Head on SDF grants" },
+        { "date": "2023", "event": "Clients received $8.5M in SDF grants" },
+        { "date": "2024", "event": "Hosted Paris wedding (Five Seasons Hotel George V) attended by Minister Piccini" },
+        { "date": "2025", "event": "Province alleges fraud by Keel Digital; OPP investigating; $25.9M civil suit" }
+      ]
+    },
+    {
+      "id": "doug-ford",
+      "name": "Doug Ford",
+      "type": "politician",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2018-06", "event": "Elected Premier of Ontario" },
+        { "date": "2022-06", "event": "Re-elected with majority" },
+        { "date": "2022-06", "event": "Met personally with Therme CEO Robert Hanea" },
+        { "date": "2022-11", "event": "Greenbelt removals announced" },
+        { "date": "2023-12", "event": "Greenbelt decision reversed after scandal" },
+        { "date": "2025-02", "event": "Re-elected for third term" },
+        { "date": "2026-03", "event": "Announced Billy Bishop seizure and special economic zone" }
+      ]
+    },
+    {
+      "id": "mike-harris",
+      "name": "Mike Harris",
+      "type": "politician",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["chartwell"],
+      "timeline": [
+        { "date": "1995", "event": "Elected Premier of Ontario" },
+        { "date": "1996", "event": "Eliminated minimum 2.25 hours/day nursing care standard" },
+        { "date": "2002", "event": "Resigned as Premier" },
+        { "date": "2003", "event": "Joined Chartwell Retirement Residences as Board Chair" },
+        { "date": "2020", "event": "COVID killed thousands in for-profit LTC homes; Chartwell had among worst outcomes" },
+        { "date": "2022", "event": "Left Chartwell board after ~$3.5M compensation + $6-7M stock" },
+        { "date": "2024", "event": "Co-chairs 'Canadians for CANDU' campaign with Jean Chretien promoting nuclear industry" }
+      ]
+    },
+    {
+      "id": "melissa-lantsman",
+      "name": "Melissa Lantsman",
+      "type": "lobbyist-insider",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["extendicare"],
+      "timeline": [
+        { "date": "2018", "event": "Ford campaign spokesperson and war room director" },
+        { "date": "2018", "event": "VP of the PC Party of Ontario" },
+        { "date": "2020-04", "event": "Registered as Extendicare lobbyist during COVID pandemic" },
+        { "date": "2021", "event": "Elected federal Conservative MP for Thornhill" }
+      ]
+    },
+    {
+      "id": "leslie-noble",
+      "name": "Leslie Noble",
+      "type": "lobbyist-insider",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["chartwell", "oltca"],
+      "timeline": [
+        { "date": "1995", "event": "Campaign manager for Mike Harris (first election)" },
+        { "date": "1999", "event": "Campaign manager for Mike Harris (second election)" },
+        { "date": "2000", "event": "Founded StrategyCorp" },
+        { "date": "2018", "event": "StrategyCorp hired by Therme (under Liberals); continued after Ford won" },
+        { "date": "2020-03", "event": "Registered as Chartwell and OLTCA lobbyist during COVID pandemic" }
+      ]
+    },
+    {
+      "id": "lauren-mcdonald",
+      "name": "Lauren McDonald",
+      "type": "lobbyist-insider",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["revera"],
+      "timeline": [
+        { "date": "2018", "event": "Ford's Director of Marketing" },
+        { "date": "2020-05", "event": "Registered as Revera lobbyist during COVID pandemic (May 7, 2020)" }
+      ]
+    },
+    {
+      "id": "michael-wilson-lobbyist",
+      "name": "Michael Wilson",
+      "type": "lobbyist-insider",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["revera"],
+      "timeline": [
+        { "date": "2018", "event": "Chief of Staff to Attorney General (Ford government)" },
+        { "date": "2020-05", "event": "Registered as Revera lobbyist during COVID pandemic (May 5, 2020)" }
+      ]
+    },
+    {
+      "id": "amir-remtulla",
+      "name": "Amir Remtulla",
+      "type": "lobbyist-insider",
+      "firm": "Amir Remtulla & Associates",
+      "integrity_violations": false,
+      "clients": ["revera", "therme-group", "tacc-de-gasperis"],
+      "timeline": [
+        { "date": "2010", "event": "Chief of Staff to Rob Ford (Doug's brother) as mayor" },
+        { "date": "2019-09", "event": "Registered lobbyist for Lormel Homes (Greenbelt developer)" },
+        { "date": "2019-10", "event": "Registered lobbyist for TACC Construction (De Gasperis, Greenbelt/Hwy 413)" },
+        { "date": "2019", "event": "Registered as Revera lobbyist" },
+        { "date": "2020", "event": "Lobbied for Therme at Ontario Place" },
+        { "date": "2025", "event": "Spans three major Ford government scandals: Greenbelt, Ontario Place, LTC" }
+      ]
+    },
+    {
+      "id": "andrew-brander",
+      "name": "Andrew Brander",
+      "type": "lobbyist-insider",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["oltca"],
+      "timeline": [
+        { "date": "2018", "event": "Director of Communications for Ford cabinet minister Rod Phillips" },
+        { "date": "2020", "event": "Moved to Crestview Strategy; lobbied for OLTCA during pandemic" },
+        { "date": "2020", "event": "Donated $4,303 to PCs" }
+      ]
+    },
+    {
+      "id": "peter-van-loan",
+      "name": "Peter Van Loan",
+      "type": "lobbyist",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["tacc-de-gasperis"],
+      "timeline": [
+        { "date": "2015", "event": "Retired as federal Conservative House Leader" },
+        { "date": "2021", "event": "Registered lobbyist for De Gasperis/TACC on Greenbelt and Highway 413" }
+      ]
+    },
+    {
+      "id": "frank-klees",
+      "name": "Frank Klees",
+      "type": "lobbyist",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["tacc-de-gasperis"],
+      "timeline": [
+        { "date": "2014", "event": "Retired as PC MPP" },
+        { "date": "2021", "event": "Registered lobbyist for De Gasperis/TACC on Greenbelt and Highway 413" }
+      ]
+    },
+    {
+      "id": "todd-smith",
+      "name": "Todd Smith",
+      "type": "politician",
+      "firm": "AtkinsRealis",
+      "integrity_violations": false,
+      "clients": ["atkinsrealis"],
+      "timeline": [
+        { "date": "2018", "event": "Ford cabinet minister" },
+        { "date": "2021", "event": "Appointed Minister of Energy" },
+        { "date": "2023", "event": "Oversaw nuclear policy including Pickering, Darlington, Bruce decisions" },
+        { "date": "2024-03", "event": "Resigned as Energy Minister" },
+        { "date": "2024-08", "event": "Hired as VP by AtkinsRealis — the dominant nuclear contractor benefiting from his policy decisions" }
+      ]
+    },
+    {
+      "id": "joe-oliver",
+      "name": "Joe Oliver",
+      "type": "politician",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2014", "event": "Harper's Finance Minister" },
+        { "date": "2015", "event": "Lost federal seat" },
+        { "date": "2019-03", "event": "Appointed IESO Chair by Ford" }
+      ]
+    },
+    {
+      "id": "deb-hutton",
+      "name": "Deb Hutton",
+      "type": "insider",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "1995", "event": "Senior adviser to Premier Harris" },
+        { "date": "2000", "event": "Spent Hydro One funds wining and dining Harris-era politicians" },
+        { "date": "2018", "event": "Appointed to Metrolinx board by Ford" },
+        { "date": "2026-02", "event": "Appointed to Hydro One board as Ontario government nominee" }
+      ]
+    },
+    {
+      "id": "james-dodds",
+      "name": "James Dodds",
+      "type": "insider",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2019", "event": "Appointed Metrolinx Board Chair by Ford" },
+        { "date": "2023", "event": "Also chairs the Conservative Fund (federal party fundraising arm)" }
+      ]
+    },
+    {
+      "id": "vic-fedeli",
+      "name": "Vic Fedeli",
+      "type": "politician",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2018", "event": "Appointed Ford's first Finance Minister" },
+        { "date": "2019", "event": "Moved to Minister of Economic Development" },
+        { "date": "2023-04", "event": "Negotiated Stellantis/NextStar battery plant deal (~$5B Ontario)" },
+        { "date": "2023-06", "event": "Negotiated VW PowerCo gigafactory deal (~$500M Ontario)" },
+        { "date": "2024-04", "event": "Negotiated Honda EV plant deal (~$2.5B Ontario)" }
+      ]
+    },
+    {
+      "id": "ernie-eves",
+      "name": "Ernie Eves",
+      "type": "politician",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2002", "event": "Became PC Premier of Ontario" },
+        { "date": "2003", "event": "Lost election" },
+        { "date": "2022", "event": "Appointed to Invest Ontario Board by Ford" }
+      ]
+    },
+    {
+      "id": "janet-ecker",
+      "name": "Janet Ecker",
+      "type": "politician",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "1999", "event": "PC Finance Minister under Harris" },
+        { "date": "2003", "event": "Left provincial politics" },
+        { "date": "2022", "event": "Appointed to Invest Ontario Board by Ford" }
+      ]
+    },
+    {
+      "id": "joseph-mancinelli",
+      "name": "Joseph Mancinelli",
+      "type": "executive",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["liuna-local-183"],
+      "timeline": [
+        { "date": "2018", "event": "LiUNA International VP and Canadian Director" },
+        { "date": "2022", "event": "Called PCs 'completely aligned with LIUNA'" },
+        { "date": "2022", "event": "Appointed to Invest Ontario Board by Ford" },
+        { "date": "2025-01", "event": "LiUNA formally endorsed Ford for third election" },
+        { "date": "2025-02", "event": "Praised SDF at Ford campaign stop" }
+      ]
+    },
+    {
+      "id": "prabmeet-sarkaria",
+      "name": "Prabmeet Sarkaria",
+      "type": "politician",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2018", "event": "Elected PC MPP" },
+        { "date": "2023", "event": "Appointed Minister of Transportation" },
+        { "date": "2025-06", "event": "Formally requested Toronto award sole-source $2.3B TTC contract to Alstom" },
+        { "date": "2026-03", "event": "Announced Billy Bishop special economic zone and runway extension" }
+      ]
+    },
+    {
+      "id": "peter-gilgan",
+      "name": "Peter Gilgan",
+      "type": "executive",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["mattamy-homes"],
+      "timeline": [
+        { "date": "2014", "event": "Mattamy Homes donated $61K+ to Ontario PCs" },
+        { "date": "2018", "event": "Donated $100K to Ontario Proud (pro-Ford third-party group)" },
+        { "date": "2020", "event": "Received MZO benefits for developments" },
+        { "date": "2023", "event": "Donated $105M to name the Peter Gilgan Mississauga Hospital ($13.9B public contract)" }
+      ]
+    },
+    {
+      "id": "dino-dicienzo",
+      "name": "Dino DiCienzo",
+      "type": "executive",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["canadian-niagara-hotels"],
+      "timeline": [
+        { "date": "2019", "event": "Began donating to Ontario PCs (~$7,000 total, 2019-2022)" },
+        { "date": "2023", "event": "Canadian Niagara Hotels received ~$9M in SDF grants across four rounds" }
+      ]
+    },
+    {
+      "id": "shakir-rehmatullah",
+      "name": "Shakir Rehmatullah",
+      "type": "executive",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["flato-developments"],
+      "timeline": [
+        { "date": "2022-08", "event": "Attended Ford daughter's stag-and-doe party and wedding" },
+        { "date": "2022-11", "event": "Greenbelt land removed (benefiting Flato)" },
+        { "date": "2023", "event": "Integrity Commissioner found his testimony 'questionable'" }
+      ]
+    },
+    {
+      "id": "john-beck",
+      "name": "John Beck",
+      "type": "executive",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["aecon"],
+      "timeline": [
+        { "date": "1960", "event": "Founded Aecon Group" },
+        { "date": "2023", "event": "Received King Charles III Coronation Medal nominated by Ontario PC MPPs" },
+        { "date": "2025", "event": "Aecon involved in $15B+ of Ontario contracts across transit and nuclear" }
+      ]
+    },
+    {
+      "id": "jean-chretien",
+      "name": "Jean Chretien",
+      "type": "politician",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "1993", "event": "Became Liberal PM" },
+        { "date": "2003", "event": "Retired as PM" },
+        { "date": "2024", "event": "Co-chairs 'Canadians for CANDU' campaign with Mike Harris promoting nuclear industry benefiting AtkinsRealis" }
+      ]
+    },
+    {
+      "id": "padulo",
+      "name": "Padulo (Ontario Shipyards CEO)",
+      "type": "executive",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["ontario-shipyards"],
+      "timeline": [
+        { "date": "2021", "event": "Began donating to PC ridings of Labour Ministers Piccini and McNaughton ($6,700+)" },
+        { "date": "2022", "event": "Appointed to Hamilton Police Board by Ford" },
+        { "date": "2023", "event": "Ontario Shipyards received $22M SDF" },
+        { "date": "2024", "event": "Ontario Shipyards received $215M shipbuilding program" }
+      ]
+    },
+    {
+      "id": "mark-lawson",
+      "name": "Mark Lawson",
+      "type": "lobbyist-insider",
+      "firm": "Therme Group / Nieuport Aviation",
+      "integrity_violations": false,
+      "clients": ["therme-group", "nieuport-aviation"],
+      "timeline": [
+        { "date": "2019-08", "event": "Appointed Deputy Chief of Staff to Ford" },
+        { "date": "2021-01", "event": "Became Chief of Staff to Finance Minister Bethlenfalvy" },
+        { "date": "2021-05", "event": "Left government entirely" },
+        { "date": "2021", "event": "Joined Therme Group Canada as VP of Communications and External Relations" },
+        { "date": "2025", "event": "Lobbied Ford government for Nieuport Aviation (Billy Bishop terminal owner)" },
+        { "date": "2026-03", "event": "Province declared Billy Bishop special economic zone, benefiting Nieuport" }
+      ]
+    },
+    {
+      "id": "robert-deluce",
+      "name": "Robert Deluce",
+      "type": "executive",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": ["porter-airlines"],
+      "timeline": [
+        { "date": "1980", "event": "Deep Conservative connections spanning four decades" },
+        { "date": "2006", "event": "Founded Porter Airlines" },
+        { "date": "2010", "event": "Donated max $2,500 to Rob Ford's mayoral campaign" },
+        { "date": "2026-03", "event": "Porter stands to benefit massively from Billy Bishop expansion" }
+      ]
+    },
+    {
+      "id": "jane-mckenna",
+      "name": "Jane McKenna",
+      "type": "insider",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2011", "event": "Elected PC MPP for Burlington" },
+        { "date": "2014", "event": "Lost seat" },
+        { "date": "2018", "event": "Re-elected PC MPP; Parliamentary Assistant to Minister of Labour" },
+        { "date": "2022", "event": "Did not seek re-election" },
+        { "date": "2023", "event": "Appointed to PortsToronto Board by Ford" },
+        { "date": "2025-03", "event": "Became PortsToronto Board Chair" },
+        { "date": "2026-03", "event": "PortsToronto 'fully supports' Ford's Billy Bishop expansion plan" }
+      ]
+    },
+    {
+      "id": "robert-hanea",
+      "name": "Robert Hanea",
+      "type": "executive",
+      "firm": "Therme Group",
+      "integrity_violations": false,
+      "clients": ["therme-group"],
+      "timeline": [
+        { "date": "2019", "event": "Therme proposed spa at Ontario Place" },
+        { "date": "2022-06", "event": "Met personally with Premier Ford" },
+        { "date": "2024", "event": "NYT investigation found 5 of 6 claimed spas were not Therme's" }
+      ]
+    },
+    {
+      "id": "jessica-lippert",
+      "name": "Jessica Lippert",
+      "type": "insider",
+      "firm": null,
+      "integrity_violations": false,
+      "clients": [],
+      "timeline": [
+        { "date": "2020", "event": "Chief of Staff for Cabinet Office (Ford government)" },
+        { "date": "2021", "event": "Married to Mark Lawson (who left government to join Therme, then lobby for Nieuport)" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "fiscal_year": "2025-26",
+  "actions": [
+    {
+      "id": "bill-218-ltc-immunity",
+      "name": "Bill 218 — LTC Legal Immunity",
+      "type": "legislation",
+      "date": "2020-11",
+      "description": "Shielded for-profit LTC operators from civil lawsuits for COVID negligence. Retroactive to March 2020. Passed while Ford insiders were simultaneously registering as lobbyists for LTC companies (Extendicare, Chartwell, Revera, OLTCA).",
+      "beneficiaries": ["extendicare", "sienna-senior-living", "chartwell", "revera", "oltca"],
+      "estimated_value": null,
+      "decision_maker": "Ford government",
+      "ag_flagged": false,
+      "source_url": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-218"
+    },
+    {
+      "id": "bill-5-special-economic-zones",
+      "name": "Bill 5 — Special Economic Zones (Billy Bishop)",
+      "type": "legislation",
+      "date": "2026-03",
+      "description": "Enables province to declare special economic zones overriding environmental, planning, and municipal rules. First application: Billy Bishop Airport expansion, seizing Toronto's stake, extending runway for jets, filling in part of Lake Ontario.",
+      "beneficiaries": ["nieuport-aviation", "porter-airlines"],
+      "estimated_value": null,
+      "decision_maker": "Ford government / Minister of Transportation (Sarkaria)",
+      "ag_flagged": false,
+      "source_url": "https://www.cbc.ca/news/canada/toronto/ford-billy-bishop-takeover-9.7138456"
+    },
+    {
+      "id": "rebuilding-ontario-place-act",
+      "name": "Rebuilding Ontario Place Act (Heritage Override)",
+      "type": "legislation",
+      "date": "2023-06",
+      "description": "Overrode heritage protections for Ontario Place to allow Therme spa redevelopment. Removed Ontario Heritage Act protections from the Cinesphere and pods. AG later found total cost $2.237B (up from $335-424M).",
+      "beneficiaries": ["therme-group", "live-nation"],
+      "estimated_value": 2237000000,
+      "decision_maker": "Ford government",
+      "ag_flagged": true,
+      "source_url": "https://globalnews.ca/news/10898839/auditor-general-ontario-place-2024/"
+    },
+    {
+      "id": "greenbelt-removals",
+      "name": "Greenbelt Land Removals",
+      "type": "ministerial-order",
+      "date": "2022-11",
+      "description": "Removed 7,400 acres from Greenbelt for development. Integrity Commissioner found process driven by developers with insider access (attended Ford family events). Land value increase estimated at $8B. Reversed December 2023 after scandal. Housing Minister Clark and Chief of Staff Amato resigned.",
+      "beneficiaries": ["tacc-de-gasperis", "flato-developments", "mattamy-homes", "cortellucci-family"],
+      "estimated_value": 8000000000,
+      "decision_maker": "Minister of Municipal Affairs (Clark)",
+      "ag_flagged": true,
+      "source_url": "https://www.cbc.ca/news/canada/toronto/greenbelt-land-swap-wake-report-1.6960488"
+    },
+    {
+      "id": "mzos-for-developers",
+      "name": "Minister's Zoning Orders (MZOs) for Developers",
+      "type": "ministerial-order",
+      "date": "2020-01",
+      "description": "Ford government issued 100+ MZOs (more than all previous governments combined), overriding local planning and environmental protections. Many benefited PC-connected developers including Mattamy Homes (Peter Gilgan, $161K to PCs/Ontario Proud) and other Greenbelt-adjacent landowners.",
+      "beneficiaries": ["mattamy-homes", "flato-developments", "tacc-de-gasperis"],
+      "estimated_value": null,
+      "decision_maker": "Minister of Municipal Affairs",
+      "ag_flagged": false,
+      "source_url": "https://www.cbc.ca/news/canada/toronto/ontario-mzo-tracker-1.5765504"
+    },
+    {
+      "id": "science-centre-closure",
+      "name": "Ontario Science Centre Closure",
+      "type": "executive-decision",
+      "date": "2024-06",
+      "description": "Closed the Ontario Science Centre on June 21, 2024, citing roof safety concerns. Draft Rimkus engineering reports recommended routine maintenance, not closure. Moriyama Teshima (original architects) called it 'a political move'. New $1.04B Science Centre to be built at Ontario Place as part of the Therme redevelopment.",
+      "beneficiaries": ["therme-group", "ontario-science-partners"],
+      "estimated_value": 1040000000,
+      "decision_maker": "Ford government / Infrastructure Ontario",
+      "ag_flagged": true,
+      "source_url": "https://globalnews.ca/news/11708012/ontario-science-centre-new-renders/"
+    },
+    {
+      "id": "highway-413-environmental-exemption",
+      "name": "Highway 413 Environmental Assessment Exemption",
+      "type": "legislation",
+      "date": "2021-11",
+      "description": "Exempted Highway 413 from provincial environmental assessment through Schedule 10 of the Budget Measures Act, 2021. Federal IA later also cancelled. Route crosses Greenbelt, benefits PC-connected landowners including De Gasperis family ($294K+ PC donations, lobbied by Peter Van Loan and Frank Klees). Cost undisclosed (estimates $10-18B).",
+      "beneficiaries": ["tacc-de-gasperis", "mattamy-homes", "cortellucci-family"],
+      "estimated_value": null,
+      "decision_maker": "Ford government",
+      "ag_flagged": false,
+      "source_url": "https://www.nationalobserver.com/2021/04/03/investigations/developers-ties-ford-government-benefit-highway-413"
+    },
+    {
+      "id": "wsib-surplus-rebates",
+      "name": "WSIB Surplus Rebates ($4B)",
+      "type": "executive-decision",
+      "date": "2025-03",
+      "description": "Directed $4B in WSIB surplus reserves to be rebated to employers. FAO says 'not expected to materially impact budget balance' since funded from WSIB surplus, not provincial operating budget. Announced as part of Budget 2025.",
+      "beneficiaries": [],
+      "estimated_value": 4000000000,
+      "decision_maker": "Ford government",
+      "ag_flagged": false,
+      "source_url": "https://budget.ontario.ca/2025/chapter-3.html"
+    },
+    {
+      "id": "protecting-ontario-account",
+      "name": "Protecting Ontario Account ($5B)",
+      "type": "executive-decision",
+      "date": "2025-03",
+      "description": "Created $5B 'Protecting Ontario Account' in Budget 2025, framed as response to US tariff threats. FAO says 'not expected to materially impact budget balance' — may be loan guarantees rather than new expenditure.",
+      "beneficiaries": [],
+      "estimated_value": 5000000000,
+      "decision_maker": "Ford government",
+      "ag_flagged": false,
+      "source_url": "https://budget.ontario.ca/2025/chapter-3.html"
+    },
+    {
+      "id": "strong-mayors-powers",
+      "name": "Strong Mayors, Building Homes Act (Bill 3)",
+      "type": "legislation",
+      "date": "2022-09",
+      "description": "Gave mayors of Toronto and Ottawa (later expanded) veto powers over council and the ability to pass bylaws with one-third of council. Centralized power in offices more susceptible to developer lobbying.",
+      "beneficiaries": [],
+      "estimated_value": null,
+      "decision_maker": "Ford government",
+      "ag_flagged": false,
+      "source_url": "https://www.ola.org/en/legislative-business/bills/parliament-43/session-1/bill-3"
+    },
+    {
+      "id": "more-homes-built-faster-act",
+      "name": "More Homes Built Faster Act (Bill 23)",
+      "type": "legislation",
+      "date": "2022-11",
+      "description": "Reduced development charges for builders, cut conservation authority powers, and opened more land for development. Municipalities estimated $5B+ in lost development charge revenue over 10 years. Benefited large homebuilders.",
+      "beneficiaries": ["mattamy-homes", "tacc-de-gasperis", "flato-developments"],
+      "estimated_value": 5000000000,
+      "decision_maker": "Ford government",
+      "ag_flagged": false,
+      "source_url": "https://www.ola.org/en/legislative-business/bills/parliament-43/session-1/bill-23"
+    },
+    {
+      "id": "ltc-deregulation-harris",
+      "name": "LTC Deregulation (Harris era, maintained by Ford)",
+      "type": "legislation",
+      "date": "1996-01",
+      "description": "Harris government eliminated the minimum 2.25 hours of daily nursing care standard in 1996. Ford government maintained this deregulation. Mike Harris later became Chartwell Board Chair (2003-2022), earning ~$3.5M + $6-7M in stock. During COVID, for-profit LTC homes had death rates 4x higher than non-profit.",
+      "beneficiaries": ["chartwell", "extendicare", "sienna-senior-living", "revera"],
+      "estimated_value": null,
+      "decision_maker": "Harris government (maintained by Ford)",
+      "ag_flagged": false,
+      "source_url": "https://www.huffpost.com/archive/ca/entry/ontario-nursing-home-lobbyists-pc-party-donations_ca_5fc53f95c5b63d1b770e8a4d"
+    },
+    {
+      "id": "sdf-program-creation",
+      "name": "Skills Development Fund — Program Creation",
+      "type": "executive-decision",
+      "date": "2021-01",
+      "description": "Created $2.5B Skills Development Fund with ministerial discretion over grants. AG found process 'not fair, transparent or accountable'. Over $100M traced to lobbyists with ties to Ford. Integrity Commissioner investigating Minister Piccini (Dec 2025). OPP investigating Keel Digital fraud ($7.5M).",
+      "beneficiaries": ["ontario-shipyards", "liuna-local-183", "scale-hospitality", "merit-ontario", "bayshore-healthcare", "canadian-niagara-hotels", "keel-digital-solutions", "the-justice-fund", "orba", "agnico-eagle-mines"],
+      "estimated_value": 2500000000,
+      "decision_maker": "Minister of Labour",
+      "ag_flagged": true,
+      "source_url": "https://www.ctvnews.ca/toronto/politics/queens-park/article/something-doesnt-smell-right-100-million-in-skills-development-fund-grants-traced-to-lobbyists-with-ties-to-ontario-premier/"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "keyword": "ctl00$BodyContent$ucQuickSearch$txtSearchByKeyWord",
+  "client_name": "ctl00$BodyContent$ucQuickSearch$txtSearchByClient",
+  "search_button": "ctl00$BodyContent$ucQuickSearch$btnSearch",
+  "lobbyist_name": "ctl00$BodyContent$ucQuickSearch$txtSearchByLobbyist"
+}

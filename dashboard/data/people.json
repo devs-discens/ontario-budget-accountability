@@ -1,0 +1,3274 @@
+{
+  "people": [
+    {
+      "id": "kory-teneycke",
+      "name": "Kory Teneycke",
+      "role": "Campaign manager (2018, 2022, 2025); Rubicon Strategy founder",
+      "firm": "Rubicon Strategy",
+      "type": "lobbyist-insider",
+      "integrity_violations": false,
+      "clients": [
+        "ontario-shipyards",
+        "ibm"
+      ],
+      "donations_pc_total": 13224.0,
+      "donations_all_total": 13224.0,
+      "top_donations": [
+        {
+          "year": "2021",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2024",
+          "amount": 1920.0,
+          "recipient": "Progressive Conservative Party of Ontario - Northumberland—Peterborough South"
+        },
+        {
+          "year": "2020",
+          "amount": 1405.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2018",
+          "amount": 1222.0,
+          "recipient": "Ford, Doug"
+        },
+        {
+          "year": "2019",
+          "amount": 1083.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "Hydro One Networks Inc.",
+          "firm": "Rubicon Strategy",
+          "status": "Inactive"
+        },
+        {
+          "client": "TC Energy Corporation (Formerly known as TransCanada Corporation)",
+          "firm": "Rubicon Strategy",
+          "status": "Inactive"
+        },
+        {
+          "client": "Windstream Energy LLC",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Canaccord Genuity Group Inc.",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Procom",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "KWG Resources Inc.",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Teranet",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Joint Electrical Promotion Plan",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Himelfarb Proszanski Barristers & Solicitors",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Cassels Brock & Blackwell LLP",
+          "firm": "Rubicon Strategy Inc.",
+          "status": "Inactive"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "jenni-byrne",
+      "name": "Jenni Byrne",
+      "role": "Principal Secretary (2018-2019); 60+ clients",
+      "firm": "Jenni Byrne + Associates",
+      "type": "lobbyist-insider",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 17674.68,
+      "donations_all_total": 39144.92,
+      "top_donations": [
+        {
+          "year": "2021",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2024",
+          "amount": 1890.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2018",
+          "amount": 1222.0,
+          "recipient": "SANCHEZ, FEDERICO"
+        },
+        {
+          "year": "2022",
+          "amount": 1000.0,
+          "recipient": "Progressive Conservative Party of Ontario - Brampton South"
+        },
+        {
+          "year": "2014",
+          "amount": 940.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2002",
+        "2001",
+        "1998"
+      ],
+      "sunshine_total_records": 102,
+      "sunshine_top_salary": "227382.93",
+      "sunshine_top_employer": "Attorney General",
+      "sunshine_top_title": "Counsel",
+      "sunshine_top_year": "2019",
+      "sunshine_employers": [
+        "University Of Western Ontario",
+        "Community Safety & Correctional Services",
+        "Community Safety and Correctional Services",
+        "Ontario Power Generation",
+        "Ontario Energy Board"
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "Procter & Gamble Inc.",
+          "firm": "Jenni Byrne + Associates Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Council of Ontario Directors of Education",
+          "firm": "Jenni Byrne + Associates Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Oskar Group",
+          "firm": "Jenni Byrne + Associates Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Canadian Academy of Osteopathy",
+          "firm": "Jenni Byrne + Associates Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Ontario School Boards' Insurance Exchange",
+          "firm": "Jenni Byrne + Associates Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Bausch Health Companies Inc.",
+          "firm": "Jenni Byrne + Associates Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "BioVaxys Technology Corporation",
+          "firm": "Jenni Byrne + Associates Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Ontario Osteopathic Association",
+          "firm": "Jenni Byrne + Associates Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Brunswick Bierworks",
+          "firm": "Jenni Byrne + Associates Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "South Eastern Ontario Production Accelerator Fund (SEOPAF)",
+          "firm": "Jenni Byrne + Associates Inc.",
+          "status": "Inactive"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "amin-massoudi",
+      "name": "Amin Massoudi",
+      "role": "Principal Secretary (2019-2022)",
+      "firm": "Atlas Strategic Advisors",
+      "type": "lobbyist-insider",
+      "integrity_violations": true,
+      "clients": [
+        "scale-hospitality"
+      ],
+      "donations_pc_total": 5535.0,
+      "donations_all_total": 8234.94,
+      "top_donations": [
+        {
+          "year": "2023",
+          "amount": 1920.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 1890.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 1430.0,
+          "recipient": "Progressive Conservative Party of Ontario - Pickering—Uxbridge"
+        },
+        {
+          "year": "2016",
+          "amount": 295.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2014",
+        "2013"
+      ],
+      "sunshine_total_records": 6,
+      "sunshine_top_salary": "$199,315.48",
+      "sunshine_top_employer": "Office Of The Premier",
+      "sunshine_top_title": "Principal Secretary",
+      "sunshine_top_year": "2020",
+      "sunshine_employers": [
+        "City of Toronto",
+        "Office Of The Premier"
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "G6 Energy Corp (Global Battery Materials)",
+          "firm": "Atlas Strategic Advisors Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "Malahat Battery Technologies Corp.",
+          "firm": "Atlas Strategic Advisors Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "Platinum Automotive Group",
+          "firm": "Atlas Strategic Advisors Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Council of Ontario Universities",
+          "firm": "Atlas Strategic Advisors Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "Thomas Hannam Medicine Professional Corporation",
+          "firm": "Atlas Strategic Advisors Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "Placemaker Corporation",
+          "firm": "Atlas Strategic Advisors Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "Global University Systems Canada Inc",
+          "firm": "Atlas Strategic Advisors Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "Convenience Industry Council of Canada",
+          "firm": "Atlas Strategic Advisors Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "Food Allergy Canada",
+          "firm": "Atlas Strategic Advisors Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "Epilepsy Ontario Business No: 118900844RR0001",
+          "firm": "Atlas Strategic Advisors Inc.",
+          "status": "Active"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list",
+        "lobbyist_registry",
+        "integrity_commissioner"
+      ],
+      "evidence_count": 4
+    },
+    {
+      "id": "nico-fidani-diker",
+      "name": "Nico Fidani-Diker",
+      "role": "Executive Assistant (2018-2020); 5 integrity violations",
+      "firm": "ONpoint Strategy Group",
+      "type": "lobbyist-insider",
+      "integrity_violations": true,
+      "clients": [],
+      "donations_pc_total": 39281.0,
+      "donations_all_total": 39281.0,
+      "top_donations": [
+        {
+          "year": "2023",
+          "amount": 3350.0,
+          "recipient": "WIESNER, PETE"
+        },
+        {
+          "year": "2022",
+          "amount": 3325.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 3325.0,
+          "recipient": "Progressive Conservative Party of Ontario - Brampton North"
+        },
+        {
+          "year": "2022",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario - Mississauga East—Cooksville"
+        },
+        {
+          "year": "2022",
+          "amount": 2835.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "Essa Township",
+          "firm": "ONpoint Strategy Group",
+          "status": "Active"
+        },
+        {
+          "client": "ARGO Development Corporation",
+          "firm": "ONpoint Strategy Group",
+          "status": "Active"
+        },
+        {
+          "client": "Markinch Consulting Inc.",
+          "firm": "ONpoint Strategy Group",
+          "status": "Active"
+        },
+        {
+          "client": "Ontario Commercial Fisheries Association",
+          "firm": "ONpoint Strategy Group",
+          "status": "Active"
+        },
+        {
+          "client": "Fieldgate Land Development Limited",
+          "firm": "ONpoint Strategy Group",
+          "status": "Active"
+        },
+        {
+          "client": "White Owl Properties Limited",
+          "firm": "ONpoint Strategy Group",
+          "status": "Active"
+        },
+        {
+          "client": "Giampalo Investments Limited dba Giampaolo Developments",
+          "firm": "ONpoint Strategy Group",
+          "status": "Active"
+        },
+        {
+          "client": "Alinea Group Holdings Inc.",
+          "firm": "ONpoint Strategy Group",
+          "status": "Active"
+        },
+        {
+          "client": "Lakeview Community Partners Ltd.",
+          "firm": "ONpoint Strategy Group",
+          "status": "Active"
+        },
+        {
+          "client": "​Town of Bradford West Gwillimbury",
+          "firm": "ONpoint Strategy Group",
+          "status": "Active"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "lobbyist_registry",
+        "integrity_commissioner"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "chris-froggatt",
+      "name": "Chris Froggatt",
+      "role": "Vice-Chair of election campaign; Transition team chair",
+      "firm": "Loyalist Public Affairs",
+      "type": "lobbyist-insider",
+      "integrity_violations": false,
+      "clients": [
+        "bruce-power"
+      ],
+      "donations_pc_total": 39419.0,
+      "donations_all_total": 39419.0,
+      "top_donations": [
+        {
+          "year": "2021",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 3240.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 1448.0,
+          "recipient": "Progressive Conservative Party of Ontario - Renfrew—Nipissing—Pembroke"
+        },
+        {
+          "year": "2014",
+          "amount": 1380.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2020",
+          "amount": 1376.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "lobbyist_client_count": 0,
+      "lobbyist_clients": [],
+      "evidence_sources": [
+        "elections_ontario",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "michael-diamond",
+      "name": "Michael Diamond",
+      "role": "PC Party President",
+      "firm": "Upstream Strategy Group",
+      "type": "lobbyist-insider",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 120570.01,
+      "donations_all_total": 178439.84,
+      "top_donations": [
+        {
+          "year": "2016",
+          "amount": 5000.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 3325.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004"
+      ],
+      "sunshine_total_records": 50,
+      "sunshine_top_salary": "$205,552.02",
+      "sunshine_top_employer": "University Of Toronto",
+      "sunshine_top_title": "Professor of Geography",
+      "sunshine_top_year": "2020",
+      "sunshine_employers": [
+        "University of Toronto",
+        "University Of Toronto",
+        "Regional Municipality of York",
+        "City of Ottawa",
+        "Conestoga College"
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "Abbott Diabetes Care Canada",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive"
+        },
+        {
+          "client": "Canadian Addiction Treatment Centres",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive"
+        },
+        {
+          "client": "Information Services Corporation",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive"
+        },
+        {
+          "client": "Bayshore HealthCare Ltd.",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive"
+        },
+        {
+          "client": "Beef Farmers of Ontario",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive"
+        },
+        {
+          "client": "CAA Club Group (operating as CAA South Central Ontario)",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive"
+        },
+        {
+          "client": "ABBOTT RAPID DIAGNOSTICS ULC",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive"
+        },
+        {
+          "client": "Abbott Diabetes Care Canada",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive"
+        },
+        {
+          "client": "Abbott Diabetes Care Canada",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive"
+        },
+        {
+          "client": "Canadian Addiction Treatment Centres LP",
+          "firm": "Upstream Strategy Group",
+          "status": "Inactive"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "dean-french",
+      "name": "Dean French",
+      "role": "Chief of Staff (2018-2019); forced out over patronage appointments",
+      "firm": null,
+      "type": "insider",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 25859.94,
+      "donations_all_total": 71976.55,
+      "top_donations": [
+        {
+          "year": "2021",
+          "amount": 2570.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 2569.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 1830.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2024",
+          "amount": 1780.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2014",
+          "amount": 1330.0,
+          "recipient": "Ffrench, Andrew"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004"
+      ],
+      "sunshine_total_records": 29,
+      "sunshine_top_salary": "191444.24",
+      "sunshine_top_employer": "Office Of The Premier",
+      "sunshine_top_title": "Chief of Staff to the Premier",
+      "sunshine_top_year": "2019",
+      "sunshine_employers": [
+        "York Region District School Board",
+        "Algonquin And Lakeshore Catholic District School Board",
+        "Office of The Premier",
+        "Algonquin & Lakeshore Catholic District School Board",
+        "Algonquin and Lakeshore Catholic District School Board"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "tony-miele",
+      "name": "Tony Miele",
+      "role": "PC Ontario Fund Chair; fundraiser since 2011; works for developers",
+      "firm": null,
+      "type": "insider",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 30885.0,
+      "donations_all_total": 30885.0,
+      "top_donations": [
+        {
+          "year": "2022",
+          "amount": 3325.0,
+          "recipient": "KOVARIKOVA, JANE"
+        },
+        {
+          "year": "2022",
+          "amount": 3325.0,
+          "recipient": "Progressive Conservative Party of Ontario - London—Fanshawe"
+        },
+        {
+          "year": "2024",
+          "amount": 2575.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2024",
+          "amount": 2000.0,
+          "recipient": "ALLSOPP, TYLER"
+        },
+        {
+          "year": "2018",
+          "amount": 1600.0,
+          "recipient": "Ford, Doug"
+        }
+      ],
+      "sunshine_years": [
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003",
+        "2002",
+        "2001",
+        "2000",
+        "1999"
+      ],
+      "sunshine_total_records": 9,
+      "sunshine_top_salary": "430170.57",
+      "sunshine_top_employer": "Ontario Realty Corporation",
+      "sunshine_top_title": "President & Chief Executive Officer",
+      "sunshine_top_year": "2006",
+      "sunshine_employers": [
+        "Ontario Realty Corporation"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "carmine-nigro",
+      "name": "Carmine Nigro",
+      "role": "LCBO Chair; Invest Ontario board; former PC Ontario Fund Vice-Chair; developer",
+      "firm": null,
+      "type": "insider",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 33829.95,
+      "donations_all_total": 40699.95,
+      "top_donations": [
+        {
+          "year": "2022",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario - Haliburton—Kawartha Lakes—Brock"
+        },
+        {
+          "year": "2025",
+          "amount": 2880.0,
+          "recipient": "Progressive Conservative Party of Ontario - Milton"
+        },
+        {
+          "year": "2020",
+          "amount": 1625.0,
+          "recipient": "Progressive Conservative Party of Ontario - Etobicoke Centre"
+        },
+        {
+          "year": "2018",
+          "amount": 1600.0,
+          "recipient": "Ford, Doug"
+        },
+        {
+          "year": "2019",
+          "amount": 1600.0,
+          "recipient": "Progressive Conservative Party of Ontario - Etobicoke North"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "mark-saunders",
+      "name": "Mark Saunders",
+      "role": "Ontario Place Special Advisor; paid up to $171K/year; no work product found via FOI",
+      "firm": null,
+      "type": "insider",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 47629.77,
+      "donations_all_total": 106549.85,
+      "top_donations": [
+        {
+          "year": "2022",
+          "amount": 2000.0,
+          "recipient": "SAUNDERSON, BRIAN"
+        },
+        {
+          "year": "2022",
+          "amount": 2000.0,
+          "recipient": "SAUNDERSON, BRIAN"
+        },
+        {
+          "year": "2022",
+          "amount": 1790.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2018",
+          "amount": 1600.0,
+          "recipient": "Ford, Doug"
+        },
+        {
+          "year": "2019",
+          "amount": 1433.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004"
+      ],
+      "sunshine_total_records": 142,
+      "sunshine_top_salary": "$481,515.21",
+      "sunshine_top_employer": "City Of Toronto – Police Service",
+      "sunshine_top_title": "Chief Of Police",
+      "sunshine_top_year": "2020",
+      "sunshine_employers": [
+        "City of London",
+        "Women’s Health In Womens Hands",
+        "North York General Hospital",
+        "Ontario Federation of Indigenous Friendship Centres",
+        "Ottawa-Carleton District School Board"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "david-piccini",
+      "name": "David Piccini",
+      "role": "Minister of Labour; under Integrity Commissioner investigation for SDF (investigation launched Dec 2025; no findings yet as of Mar 2026)",
+      "firm": null,
+      "type": "politician",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 38188.0,
+      "donations_all_total": 40288.84,
+      "top_donations": [
+        {
+          "year": "2024",
+          "amount": 3375.0,
+          "recipient": "Progressive Conservative Party of Ontario - Barrie—Innisfil"
+        },
+        {
+          "year": "2021",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario - Northumberland—Peterborough South"
+        },
+        {
+          "year": "2022",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario - Northumberland—Peterborough South"
+        },
+        {
+          "year": "2023",
+          "amount": 2660.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 2000.0,
+          "recipient": "Progressive Conservative Party of Ontario - Northumberland—Peterborough South"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019"
+      ],
+      "sunshine_total_records": 4,
+      "sunshine_top_salary": "$133,217.04",
+      "sunshine_top_employer": "Legislative Assembly",
+      "sunshine_top_title": "Parliamentary Assistant, Colleges and Universities / Adjoint parlementaire, Collèges et Universités",
+      "sunshine_top_year": "2020",
+      "sunshine_employers": [
+        "Legislative Assembly"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "michael-rudderham",
+      "name": "Michael Rudderham",
+      "role": "Lobbyist; Piccini's friend (Paris wedding); clients received $8.5M SDF",
+      "firm": null,
+      "type": "lobbyist",
+      "integrity_violations": false,
+      "clients": [
+        "keel-digital-solutions"
+      ],
+      "donations_pc_total": 9246.0,
+      "donations_all_total": 9246.0,
+      "top_donations": [
+        {
+          "year": "2019",
+          "amount": 1563.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 1363.0,
+          "recipient": "Progressive Conservative Party of Ontario - Leeds—Grenville—Thousand Islands and Rideau Lakes"
+        },
+        {
+          "year": "2023",
+          "amount": 1330.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 1250.0,
+          "recipient": "Progressive Conservative Party of Ontario - Bay of Quinte"
+        },
+        {
+          "year": "2020",
+          "amount": 1156.0,
+          "recipient": "Progressive Conservative Party of Ontario - Brampton South"
+        }
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "45 Drives Ltd.",
+          "firm": "MCR Public Affairs",
+          "status": "Active"
+        },
+        {
+          "client": "LifeLabs LP",
+          "firm": "MCR Public Affairs",
+          "status": "Inactive"
+        },
+        {
+          "client": "Algonquin Park Residents Association",
+          "firm": "MCR Public Affairs",
+          "status": "Active"
+        },
+        {
+          "client": "GFL Enviromental Inc",
+          "firm": "MCR Public Affairs",
+          "status": "Active"
+        },
+        {
+          "client": "Keel Digital Solutions Inc. (formerly Get A-head Inc.)",
+          "firm": "MCR Public Affairs",
+          "status": "Inactive"
+        },
+        {
+          "client": "Southbridge Care Homes",
+          "firm": "MCR Public Affairs",
+          "status": "Inactive"
+        },
+        {
+          "client": "Commonwealth Asset Management LP",
+          "firm": "MCR Public Affairs",
+          "status": "Inactive"
+        },
+        {
+          "client": "HumanisRx Corporation",
+          "firm": "MCR Public Affairs",
+          "status": "Inactive"
+        },
+        {
+          "client": "Cestar College of Business, Health and Technology",
+          "firm": "MCR Public Affairs",
+          "status": "Inactive"
+        },
+        {
+          "client": "LifeLabs",
+          "firm": "MCR Public Affairs",
+          "status": "Inactive"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "doug-ford",
+      "name": "Doug Ford",
+      "role": "Premier of Ontario",
+      "firm": null,
+      "type": "politician",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 630790.76,
+      "donations_all_total": 1168213.59,
+      "top_donations": [
+        {
+          "year": "2014",
+          "amount": 9975.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2015",
+          "amount": 9975.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2016",
+          "amount": 9975.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2016",
+          "amount": 9975.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2016",
+          "amount": 9235.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      "sunshine_total_records": 98,
+      "sunshine_top_salary": "$208,974.00",
+      "sunshine_top_employer": "Legislative Assembly",
+      "sunshine_top_title": "Premier / Premièr ministre",
+      "sunshine_top_year": "2020",
+      "sunshine_employers": [
+        "Ottawa-Carleton DSB",
+        "Central East Community Care Access Centre",
+        "Ottawa-Carleton District School Board",
+        "Sault Ste Marie Police Services",
+        "Town of Halton Hills"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "mike-harris",
+      "name": "Mike Harris",
+      "role": "Former Premier (1995-2002); Chartwell Board Chair (2003-2022); earned ~$3.5M compensation + ~$6-7M stock holdings",
+      "firm": null,
+      "type": "politician",
+      "integrity_violations": false,
+      "clients": [
+        "chartwell"
+      ],
+      "donations_pc_total": 224189.34,
+      "donations_all_total": 441872.41,
+      "top_donations": [
+        {
+          "year": "2016",
+          "amount": 9975.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2016",
+          "amount": 9975.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario - Northumberland—Peterborough South"
+        },
+        {
+          "year": "2024",
+          "amount": 3270.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 2660.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003",
+        "2002",
+        "2001",
+        "2000",
+        "1999",
+        "1998",
+        "1997",
+        "1996"
+      ],
+      "sunshine_total_records": 233,
+      "sunshine_top_salary": "253581.47",
+      "sunshine_top_employer": "Ontario Court of Justice",
+      "sunshine_top_title": "Judge",
+      "sunshine_top_year": "2004",
+      "sunshine_employers": [
+        "Kingston Employment And Youth Services Inc (Keys)",
+        "Revenue",
+        "Ontario Human Rights Commission / Commission ontarienne des droits de la personne",
+        "Community Safety & Correctional Services",
+        "Ontario Human Rights Commission"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "melissa-lantsman",
+      "name": "Melissa Lantsman",
+      "role": "2018 campaign spokesperson; war room director; PC VP",
+      "firm": null,
+      "type": "lobbyist-insider",
+      "integrity_violations": false,
+      "clients": [
+        "extendicare"
+      ],
+      "donations_pc_total": 7754.0,
+      "donations_all_total": 7754.0,
+      "top_donations": [
+        {
+          "year": "2021",
+          "amount": 1650.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2019",
+          "amount": 1556.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2020",
+          "amount": 1081.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2020",
+          "amount": 950.0,
+          "recipient": "Progressive Conservative Party of Ontario - Ajax"
+        },
+        {
+          "year": "2019",
+          "amount": 923.0,
+          "recipient": "Progressive Conservative Party of Ontario - Nipissing"
+        }
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "Purolator",
+          "firm": "Enterprise Canada",
+          "status": "Inactive"
+        },
+        {
+          "client": "True North Gaming",
+          "firm": "Enterprise Canada",
+          "status": "Inactive"
+        },
+        {
+          "client": "Ontario Genomics",
+          "firm": "Enterprise Canada",
+          "status": "Inactive"
+        },
+        {
+          "client": "Mindbeacon",
+          "firm": "Enterprise Canada",
+          "status": "Inactive"
+        },
+        {
+          "client": "Extendicare",
+          "firm": "Enterprise Canada",
+          "status": "Inactive"
+        },
+        {
+          "client": "Ontario Pharmacists Association",
+          "firm": "Enterprise Canada",
+          "status": "Inactive"
+        },
+        {
+          "client": "Walmart",
+          "firm": "Enterprise Canada",
+          "status": "Inactive"
+        },
+        {
+          "client": "Canaccord Genuity",
+          "firm": "Enterprise Canada",
+          "status": "Inactive"
+        },
+        {
+          "client": "Ontario College of Social Workers and Social Service Workers",
+          "firm": "Hill & Knowlton Strategies",
+          "status": "Inactive"
+        },
+        {
+          "client": "Registered Practical Nurses Association of Ontario",
+          "firm": "Hill & Knowlton Strategies",
+          "status": "Inactive"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "leslie-noble",
+      "name": "Leslie Noble",
+      "role": "Harris campaign manager (1995, 1999); donated $11,434 to PCs",
+      "firm": null,
+      "type": "lobbyist-insider",
+      "integrity_violations": false,
+      "clients": [
+        "chartwell",
+        "oltca"
+      ],
+      "donations_pc_total": 41421.35,
+      "donations_all_total": 85556.46,
+      "top_donations": [
+        {
+          "year": "2021",
+          "amount": 3000.0,
+          "recipient": "Progressive Conservative Party of Ontario - Windsor West"
+        },
+        {
+          "year": "2022",
+          "amount": 1600.0,
+          "recipient": "LEONTOWICZ, JOHN"
+        },
+        {
+          "year": "2022",
+          "amount": 1600.0,
+          "recipient": "Progressive Conservative Party of Ontario - Windsor West"
+        },
+        {
+          "year": "2022",
+          "amount": 1500.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 1330.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      "sunshine_total_records": 28,
+      "sunshine_top_salary": "145611.19",
+      "sunshine_top_employer": "Hamilton Health Sciences",
+      "sunshine_top_title": "Perfusionist",
+      "sunshine_top_year": "2018",
+      "sunshine_employers": [
+        "Sinai Health System",
+        "Ontario Shores Centre For Mental Health Sciences",
+        "Durham DSB",
+        "Kawartha Pine Ridge District School Board",
+        "Whitby Mental Health Centre"
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "",
+          "firm": "Therme Group RHTG AG",
+          "status": "Active"
+        },
+        {
+          "client": "Therme Group RHTG AG",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Crosslinx Transit Solutions Constructors",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Enbridge Inc.",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "EnergySolutions Canada Corporation",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Colleges Ontario",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Planet Energy (Ontario) Corp",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "In Colour Capital",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Sysco Canada Inc.",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Indigo Books and Music",
+          "firm": "StrategyCorp Inc.",
+          "status": "Inactive"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "lauren-mcdonald",
+      "name": "Lauren McDonald",
+      "role": "Ford's Director of Marketing",
+      "firm": null,
+      "type": "lobbyist-insider",
+      "integrity_violations": false,
+      "clients": [
+        "revera"
+      ],
+      "donations_pc_total": 101147.64,
+      "donations_all_total": 298471.44,
+      "top_donations": [
+        {
+          "year": "2023",
+          "amount": 3350.0,
+          "recipient": "Progressive Conservative Party of Ontario - Durham"
+        },
+        {
+          "year": "2023",
+          "amount": 3000.0,
+          "recipient": "Progressive Conservative Party of Ontario - Durham"
+        },
+        {
+          "year": "2021",
+          "amount": 3000.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 2978.0,
+          "recipient": "Progressive Conservative Party of Ontario - Durham"
+        },
+        {
+          "year": "2023",
+          "amount": 2500.0,
+          "recipient": "Progressive Conservative Party of Ontario - Durham"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003",
+        "2002"
+      ],
+      "sunshine_total_records": 115,
+      "sunshine_top_salary": "191480.52",
+      "sunshine_top_employer": "University of Toronto",
+      "sunshine_top_title": "Professor of Social Work",
+      "sunshine_top_year": "2017",
+      "sunshine_employers": [
+        "Legal Aid Ontario",
+        "Carleton University",
+        "Ontario HIV Treatment Network",
+        "Conseil Scolaire De District Catholique De L'Est Ontarien",
+        "Catholic District School Board Of Eastern Ontario"
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "Mobilize Canada",
+          "firm": "Proof Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "StubHub",
+          "firm": "Proof Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "DoorDash",
+          "firm": "Proof Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "eBay Canada",
+          "firm": "Proof Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Scarsin",
+          "firm": "Proof Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Society of Composers, Authors & Music Publishers of Canada (SOCAN)",
+          "firm": "Proof Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Revera Inc.",
+          "firm": "Proof Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Maritime Employers Association (MEA)",
+          "firm": "Proof Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Ontario Virtual School",
+          "firm": "Proof Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "Institute for Optimizing Health Outcomes",
+          "firm": "Proof Inc.",
+          "status": "Inactive"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "michael-wilson-lobbyist",
+      "name": "Michael Wilson",
+      "role": "Chief of Staff to Attorney General (Ford government)",
+      "firm": null,
+      "type": "lobbyist-insider",
+      "integrity_violations": false,
+      "clients": [
+        "revera"
+      ],
+      "donations_pc_total": 348285.5,
+      "donations_all_total": 572945.78,
+      "top_donations": [
+        {
+          "year": "2014",
+          "amount": 7500.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2014",
+          "amount": 7400.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2025",
+          "amount": 3375.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2024",
+          "amount": 3375.0,
+          "recipient": "Progressive Conservative Party of Ontario - Essex"
+        },
+        {
+          "year": "2023",
+          "amount": 3350.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003",
+        "2002",
+        "2001",
+        "2000",
+        "1999",
+        "1998",
+        "1997",
+        "1996"
+      ],
+      "sunshine_total_records": 691,
+      "sunshine_top_salary": "$354,586.49",
+      "sunshine_top_employer": "MacKenzie Health",
+      "sunshine_top_title": "Executive Vice President And Chief Operating Officer",
+      "sunshine_top_year": "2020",
+      "sunshine_employers": [
+        "District School Board of Niagara",
+        "Natural Resources and Forestry",
+        "City Of Brampton",
+        "Ontario Racing Commission",
+        "City of Burlington"
+      ],
+      "lobbyist_client_count": 4,
+      "lobbyist_clients": [
+        {
+          "client": "Nelson Education Ltd.",
+          "firm": "Goodmans LLP",
+          "status": "Inactive"
+        },
+        {
+          "client": "Sienna Senior Living Inc.",
+          "firm": "Goodmans LLP",
+          "status": "Inactive"
+        },
+        {
+          "client": "Revera Inc",
+          "firm": "Goodmans LLP",
+          "status": "Inactive"
+        },
+        {
+          "client": "Newmont Goldcorp Corporation",
+          "firm": "Goodmans LLP",
+          "status": "Inactive"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "amir-remtulla",
+      "name": "Amir Remtulla",
+      "role": "Rob Ford's Chief of Staff; lobbyist for Greenbelt developers, Therme (Ontario Place), Revera (LTC) — spans 3 major scandals",
+      "firm": "Amir Remtulla & Associates",
+      "type": "lobbyist-insider",
+      "integrity_violations": false,
+      "clients": [
+        "revera",
+        "therme-group",
+        "tacc-de-gasperis"
+      ],
+      "donations_pc_total": 31641.0,
+      "donations_all_total": 33241.0,
+      "top_donations": [
+        {
+          "year": "2024",
+          "amount": 3350.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2024",
+          "amount": 2700.0,
+          "recipient": "Progressive Conservative Party of Ontario - Markham—Unionville"
+        },
+        {
+          "year": "2022",
+          "amount": 2200.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 1918.0,
+          "recipient": "Progressive Conservative Party of Ontario - Bay of Quinte"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006"
+      ],
+      "sunshine_total_records": 44,
+      "sunshine_top_salary": "561591.72",
+      "sunshine_top_employer": "Toronto Organizing Committee for the 2015 Pan American & Parapan American Games 2015",
+      "sunshine_top_title": "Senior Vice President, Community, Aboriginal, Cultural and Public Affairs / Vice-président principal, Affaires autochtones, communautaires, culturelles et publiques",
+      "sunshine_top_year": "2015",
+      "sunshine_employers": [
+        "Government and Consumer Services",
+        "Trillium Gift of Life Network",
+        "Toronto Organizing Committee for the 2015 Pan American and Parapan American Games",
+        "North York General Hospital",
+        "Peel District School Board"
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "Bentall Kennedy Canada (Limited) Partnership",
+          "firm": "Amir Remtulla Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "RioCan Real Estate Investment Trust",
+          "firm": "Amir Remtulla Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "LYONS AUTO BODY LIMITED O/A Lyons towing",
+          "firm": "Amir Remtulla Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "The Beedie Group Developments Ltd",
+          "firm": "Amir Remtulla Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "Menkes Ritson Road Inc.",
+          "firm": "Amir Remtulla Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "2440332 Ontario Inc.",
+          "firm": "Amir Remtulla Inc.",
+          "status": "Inactive"
+        },
+        {
+          "client": "First Nations Diagnostics Inc.",
+          "firm": "Amir Remtulla Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "Cloud Diagnostics Canada Inc. DBA Cloud DX",
+          "firm": "Amir Remtulla Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "First Mining Gold Corp.",
+          "firm": "Amir Remtulla Inc.",
+          "status": "Active"
+        },
+        {
+          "client": "Therme Group RHTG AG",
+          "firm": "Amir Remtulla Inc.",
+          "status": "Active"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "andrew-brander",
+      "name": "Andrew Brander",
+      "role": "Director of Communications for Minister Rod Phillips; donated to PCs",
+      "firm": null,
+      "type": "lobbyist-insider",
+      "integrity_violations": false,
+      "clients": [
+        "oltca"
+      ],
+      "donations_pc_total": 11114.0,
+      "donations_all_total": 11864.0,
+      "top_donations": [
+        {
+          "year": "2023",
+          "amount": 1430.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 1000.0,
+          "recipient": "Progressive Conservative Party of Ontario - Brampton North"
+        },
+        {
+          "year": "2020",
+          "amount": 950.0,
+          "recipient": "Progressive Conservative Party of Ontario - Ajax"
+        },
+        {
+          "year": "2019",
+          "amount": 949.0,
+          "recipient": "Progressive Conservative Party of Ontario - Ajax"
+        },
+        {
+          "year": "2023",
+          "amount": 948.0,
+          "recipient": "Progressive Conservative Party of Ontario - Brampton North"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      "sunshine_total_records": 15,
+      "sunshine_top_salary": "128236.41",
+      "sunshine_top_employer": "York Catholic District School Board",
+      "sunshine_top_title": "Principal",
+      "sunshine_top_year": "2016",
+      "sunshine_employers": [
+        "York Catholic District School Board",
+        "Lambton Kent District School Board"
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "CGC Inc - USG",
+          "firm": "Crestview Strategy",
+          "status": "Active"
+        },
+        {
+          "client": "Grain Farmers of Ontario",
+          "firm": "Crestview Strategy",
+          "status": "Active"
+        },
+        {
+          "client": "Greater Toronto Airports Authority",
+          "firm": "Crestview Strategy",
+          "status": "Inactive"
+        },
+        {
+          "client": "Qualcomm Inc",
+          "firm": "Crestview Strategy",
+          "status": "Active"
+        },
+        {
+          "client": "Association of Canadian Distillers/Spirits Canada",
+          "firm": "Crestview Strategy",
+          "status": "Inactive"
+        },
+        {
+          "client": "Rideau Hall Foundation",
+          "firm": "Crestview Strategy",
+          "status": "Active"
+        },
+        {
+          "client": "Ontario Long Term Care Association",
+          "firm": "Crestview Strategy",
+          "status": "Active"
+        },
+        {
+          "client": "National Steel Car",
+          "firm": "Crestview Strategy",
+          "status": "Active"
+        },
+        {
+          "client": "Pallium Canada",
+          "firm": "Crestview Strategy",
+          "status": "Inactive"
+        },
+        {
+          "client": "Thunder Bay Pulp and Paper Inc.",
+          "firm": "Crestview Strategy",
+          "status": "Inactive"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "peter-van-loan",
+      "name": "Peter Van Loan",
+      "role": "Former federal Conservative House Leader; Greenbelt/Hwy 413 lobbyist",
+      "firm": null,
+      "type": "lobbyist",
+      "integrity_violations": false,
+      "clients": [
+        "tacc-de-gasperis"
+      ],
+      "donations_pc_total": 51940.83,
+      "donations_all_total": 94884.22,
+      "top_donations": [
+        {
+          "year": "2022",
+          "amount": 3325.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 3325.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2020",
+          "amount": 1600.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2019",
+          "amount": 1433.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "Georgian International",
+          "firm": "Fraser Milner Casgrain LLP",
+          "status": "Inactive"
+        },
+        {
+          "client": "Duke of Richmond Developments Inc.",
+          "firm": "Fraser Milner Casgrain LLP",
+          "status": "Inactive"
+        },
+        {
+          "client": "CANAC Ontario Services Inc.",
+          "firm": "Fraser Milner Casgrain LLP",
+          "status": "Inactive"
+        },
+        {
+          "client": "Orlando Corporation",
+          "firm": "Fraser Milner Casgrain LLP",
+          "status": "Inactive"
+        },
+        {
+          "client": "Orlando Corporation",
+          "firm": "Fraser Milner Casgrain LLP",
+          "status": "Inactive"
+        },
+        {
+          "client": "Union Pearson Group",
+          "firm": "Fraser Milner Casgrain LLP",
+          "status": "Inactive"
+        },
+        {
+          "client": "O&Y Properties Inc.",
+          "firm": "Fraser Milner Casgrain LLP",
+          "status": "Inactive"
+        },
+        {
+          "client": "Mobius Corp.",
+          "firm": "Fraser Milner Casgrain LLP",
+          "status": "Inactive"
+        },
+        {
+          "client": "DeVry Institute of Technology",
+          "firm": "Fraser Milner Casgrain LLP",
+          "status": "Inactive"
+        },
+        {
+          "client": "Lakeburn Properties",
+          "firm": "Fraser Milner Casgrain LLP",
+          "status": "Inactive"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "frank-klees",
+      "name": "Frank Klees",
+      "role": "Former PC MPP; Greenbelt/Hwy 413 lobbyist",
+      "firm": null,
+      "type": "lobbyist",
+      "integrity_violations": false,
+      "clients": [
+        "tacc-de-gasperis"
+      ],
+      "donations_pc_total": 52081.0,
+      "donations_all_total": 52081.0,
+      "top_donations": [
+        {
+          "year": "2024",
+          "amount": 3375.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 3350.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 3350.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 3000.0,
+          "recipient": "Progressive Conservative Party of Ontario - King—Vaughan"
+        },
+        {
+          "year": "2022",
+          "amount": 3000.0,
+          "recipient": "Progressive Conservative Party of Ontario - King—Vaughan"
+        }
+      ],
+      "sunshine_years": [
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2003"
+      ],
+      "sunshine_total_records": 9,
+      "sunshine_top_salary": "130148.73",
+      "sunshine_top_employer": "Legislative Assembly",
+      "sunshine_top_title": "Caucus Chair, Official Opposition",
+      "sunshine_top_year": "2008",
+      "sunshine_employers": [
+        "Legislative Assembly / Assembl�e l�gislative",
+        "Legislative Assembly"
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "Pures College of Technology",
+          "firm": "Klees & Associates Ltd.",
+          "status": "Inactive"
+        },
+        {
+          "client": "DG Group",
+          "firm": "Klees & Associates Ltd.",
+          "status": "Active"
+        },
+        {
+          "client": "Condor PropertiesLtd.",
+          "firm": "Klees & Associates Ltd.",
+          "status": "Active"
+        },
+        {
+          "client": "Bond Head Properties Inc. / Metrus Properties",
+          "firm": "Klees & Associates Ltd.",
+          "status": "Active"
+        },
+        {
+          "client": "Strada Aggregates Inc.",
+          "firm": "Klees & Associates Ltd.",
+          "status": "Active"
+        },
+        {
+          "client": "Sequoia Stockyards GP Inc.",
+          "firm": "Klees & Associates Ltd.",
+          "status": "Active"
+        },
+        {
+          "client": "ERS International",
+          "firm": "Klees & Associates Ltd.",
+          "status": "Active"
+        },
+        {
+          "client": "York Major Holdings Inc.",
+          "firm": "Klees & Associates Ltd.",
+          "status": "Active"
+        },
+        {
+          "client": "Geranium Corporation",
+          "firm": "Klees & Associates Ltd.",
+          "status": "Inactive"
+        },
+        {
+          "client": "CT12 (Tower I & II) Limited Partnership",
+          "firm": "Klees & Associates Ltd.",
+          "status": "Inactive"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "todd-smith",
+      "name": "Todd Smith",
+      "role": "Former PC Energy Minister; hired as VP by AtkinsRealis (Aug 2024)",
+      "firm": "AtkinsRealis",
+      "type": "politician",
+      "integrity_violations": false,
+      "clients": [
+        "atkinsrealis"
+      ],
+      "donations_pc_total": 609471.35,
+      "donations_all_total": 1215056.17,
+      "top_donations": [
+        {
+          "year": "2025",
+          "amount": 3400.0,
+          "recipient": "ROSENBERG, BILL"
+        },
+        {
+          "year": "2025",
+          "amount": 3400.0,
+          "recipient": "SMITH, LAURA"
+        },
+        {
+          "year": "2025",
+          "amount": 3400.0,
+          "recipient": "STEELE, BILL"
+        },
+        {
+          "year": "2024",
+          "amount": 3375.0,
+          "recipient": "ALLSOPP, TYLER"
+        },
+        {
+          "year": "2024",
+          "amount": 3375.0,
+          "recipient": "Progressive Conservative Party of Ontario - Toronto—Danforth"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003",
+        "2002",
+        "2001",
+        "1998"
+      ],
+      "sunshine_total_records": 548,
+      "sunshine_top_salary": "355034.75",
+      "sunshine_top_employer": "Hamilton Health Sciences",
+      "sunshine_top_title": "President, Hamilton General Hospital",
+      "sunshine_top_year": "2013",
+      "sunshine_employers": [
+        "Peterborough Victoria Northumberland & Clarington Catholic DSB",
+        "Regional Municipality of Niagara - Niagara Reg. Police",
+        "Peterborough Victoria Northumberland and Clarington Catholic DSB",
+        "University Of Toronto",
+        "University of Ottawa Heart Institute"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "joe-oliver",
+      "name": "Joe Oliver",
+      "role": "Harper's Finance Minister; appointed IESO Chair by Ford",
+      "firm": null,
+      "type": "politician",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 53948.85,
+      "donations_all_total": 229998.14,
+      "top_donations": [
+        {
+          "year": "2023",
+          "amount": 3350.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario - Nepean"
+        },
+        {
+          "year": "2022",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario - Nepean"
+        },
+        {
+          "year": "2024",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario - Northumberland—Peterborough South"
+        },
+        {
+          "year": "2021",
+          "amount": 1430.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003",
+        "2002",
+        "2001",
+        "2000",
+        "1999",
+        "1998",
+        "1997",
+        "1996"
+      ],
+      "sunshine_total_records": 105,
+      "sunshine_top_salary": "547776.04",
+      "sunshine_top_employer": "Halton Healthcare Services",
+      "sunshine_top_title": "President/Chief Executive Officer",
+      "sunshine_top_year": "2008",
+      "sunshine_employers": [
+        "Peterborough Victoria Northumberland & Clarington Catholic DSB",
+        "Community Safety & Correctional Services",
+        "Université d'Ottawa",
+        "Public Safety and Security",
+        "Lambton College"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "deb-hutton",
+      "name": "Deb Hutton",
+      "role": "Harris senior adviser; Tim Hudak's wife; Hydro One board (Ontario govt nominee, Feb 2026); Metrolinx board",
+      "firm": null,
+      "type": "insider",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 15553.7,
+      "donations_all_total": 44482.78,
+      "top_donations": [
+        {
+          "year": "2023",
+          "amount": 900.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 825.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2014",
+          "amount": 785.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2014",
+          "amount": 600.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2018",
+          "amount": 600.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003",
+        "2002",
+        "2001",
+        "2000",
+        "1999"
+      ],
+      "sunshine_total_records": 9,
+      "sunshine_top_salary": "247937.43",
+      "sunshine_top_employer": "Hydro One",
+      "sunshine_top_title": "VP, Corporate Strategy",
+      "sunshine_top_year": "2002",
+      "sunshine_employers": [
+        "Office of the Premier",
+        "Hydro One",
+        "Hamilton-Wentworth District School Board",
+        "Hamilton-Wentworth DSB"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "james-dodds",
+      "name": "James Dodds",
+      "role": "Metrolinx Board Chair; Chair of the Conservative Fund (federal fundraising)",
+      "firm": null,
+      "type": "insider",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 67962.0,
+      "donations_all_total": 75087.0,
+      "top_donations": [
+        {
+          "year": "2016",
+          "amount": 7000.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2016",
+          "amount": 3066.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2015",
+          "amount": 3000.0,
+          "recipient": "Brown, Patrick"
+        },
+        {
+          "year": "2022",
+          "amount": 2600.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010"
+      ],
+      "sunshine_total_records": 8,
+      "sunshine_top_salary": "155343.50",
+      "sunshine_top_employer": "Quinte Healthcare Corporation",
+      "sunshine_top_title": "Registered Nurse",
+      "sunshine_top_year": "2015",
+      "sunshine_employers": [
+        "Quinte Healthcare",
+        "Quinte Healthcare Corporation",
+        "Thames Valley District School Board",
+        "Quinte Health Care"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "vic-fedeli",
+      "name": "Vic Fedeli",
+      "role": "Minister of Economic Development; key auto sector negotiator",
+      "firm": null,
+      "type": "politician",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 20251.5,
+      "donations_all_total": 20251.5,
+      "top_donations": [
+        {
+          "year": "2016",
+          "amount": 1667.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2020",
+          "amount": 1625.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2019",
+          "amount": 1600.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 1330.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2018",
+          "amount": 1222.0,
+          "recipient": "Ford, Doug"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      "sunshine_total_records": 11,
+      "sunshine_top_salary": "$165,851.04",
+      "sunshine_top_employer": "Legislative Assembly",
+      "sunshine_top_title": "Minister, Economic Development, Job Creation and Trade / Ministre, Développement économique, création d’emplois et Commerce",
+      "sunshine_top_year": "2020",
+      "sunshine_employers": [
+        "Legislative Assembly",
+        "Legislative Assembly / Assemblée législative"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "ernie-eves",
+      "name": "Ernie Eves",
+      "role": "Former PC Premier; Invest Ontario Board member",
+      "firm": null,
+      "type": "politician",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 44840.0,
+      "donations_all_total": 95808.0,
+      "top_donations": [
+        {
+          "year": "2022",
+          "amount": 3325.0,
+          "recipient": "SMITH, GRAYDON"
+        },
+        {
+          "year": "2022",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario - Simcoe North"
+        },
+        {
+          "year": "2022",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario - Brampton South"
+        },
+        {
+          "year": "2025",
+          "amount": 2500.0,
+          "recipient": "HARDEMAN, ERNIE"
+        },
+        {
+          "year": "2021",
+          "amount": 1650.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2004",
+        "2003",
+        "2002",
+        "2000",
+        "1999",
+        "1998",
+        "1997",
+        "1996"
+      ],
+      "sunshine_total_records": 8,
+      "sunshine_top_salary": "147801.56",
+      "sunshine_top_employer": "Legislative Assembly",
+      "sunshine_top_title": "Leader, Official Opposition",
+      "sunshine_top_year": "2003",
+      "sunshine_employers": [
+        "Legislative Assembly"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "janet-ecker",
+      "name": "Janet Ecker",
+      "role": "Former PC Finance Minister; Invest Ontario Board member",
+      "firm": null,
+      "type": "politician",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 94761.69,
+      "donations_all_total": 140181.79,
+      "top_donations": [
+        {
+          "year": "2021",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario - Kitchener—Conestoga"
+        },
+        {
+          "year": "2024",
+          "amount": 2625.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 2500.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2016",
+          "amount": 1900.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003",
+        "2002",
+        "2001",
+        "2000",
+        "1999",
+        "1998",
+        "1997"
+      ],
+      "sunshine_total_records": 34,
+      "sunshine_top_salary": "291350.00",
+      "sunshine_top_employer": "Toronto Financial Services Alliance",
+      "sunshine_top_title": "President And Chief Executive Officer",
+      "sunshine_top_year": "2016",
+      "sunshine_employers": [
+        "City Of Toronto",
+        "Echo: Improving Women's Health in Ontario",
+        "Toronto Financial Services Alliance",
+        "City of Toronto",
+        "Legislative Assembly"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "joseph-mancinelli",
+      "name": "Joseph Mancinelli",
+      "role": "LiUNA VP; Ford supporter; Invest Ontario Board member",
+      "firm": null,
+      "type": "executive",
+      "integrity_violations": false,
+      "clients": [
+        "liuna-local-183"
+      ],
+      "donations_pc_total": 15985.0,
+      "donations_all_total": 18907.0,
+      "top_donations": [
+        {
+          "year": "2022",
+          "amount": 2000.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 1555.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2024",
+          "amount": 1415.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 1000.0,
+          "recipient": "Progressive Conservative Party of Ontario - York—Simcoe"
+        },
+        {
+          "year": "2025",
+          "amount": 1000.0,
+          "recipient": "CIRIELLO, MONICA"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "prabmeet-sarkaria",
+      "name": "Prabmeet Sarkaria",
+      "role": "Transportation Minister; pushed Alstom sole-source TTC deal",
+      "firm": null,
+      "type": "politician",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 49256.0,
+      "donations_all_total": 52256.0,
+      "top_donations": [
+        {
+          "year": "2016",
+          "amount": 9975.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2016",
+          "amount": 9975.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2016",
+          "amount": 5080.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 1453.0,
+          "recipient": "Progressive Conservative Party of Ontario - Brampton West"
+        },
+        {
+          "year": "2017",
+          "amount": 1200.0,
+          "recipient": "Progressive Conservative Party of Ontario - Brampton South"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019"
+      ],
+      "sunshine_total_records": 4,
+      "sunshine_top_salary": "$138,927.96",
+      "sunshine_top_employer": "Legislative Assembly",
+      "sunshine_top_title": "Associate Minister, Small Business and Red Tape Reduction / Ministre associé délégué au dossier des Petites Entreprises et de la Réduction des formalités administratives",
+      "sunshine_top_year": "2020",
+      "sunshine_employers": [
+        "Legislative Assembly"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "peter-gilgan",
+      "name": "Peter Gilgan",
+      "role": "CEO Mattamy Homes; $61K to PCs; $100K to Ontario Proud; $105M hospital donation",
+      "firm": null,
+      "type": "executive",
+      "integrity_violations": false,
+      "clients": [
+        "mattamy-homes"
+      ],
+      "donations_pc_total": 17544.1,
+      "donations_all_total": 17744.1,
+      "top_donations": [
+        {
+          "year": "2015",
+          "amount": 5000.0,
+          "recipient": "Fedeli, Victor (\"Vic\")"
+        },
+        {
+          "year": "2015",
+          "amount": 5000.0,
+          "recipient": "Elliott, Christine"
+        },
+        {
+          "year": "2018",
+          "amount": 1222.0,
+          "recipient": "Mulroney Lapham, Caroline"
+        },
+        {
+          "year": "2018",
+          "amount": 1222.0,
+          "recipient": "Progressive Conservative Party of Ontario - Ajax"
+        },
+        {
+          "year": "2018",
+          "amount": 1222.0,
+          "recipient": "PHILLIPS, ROD"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "dino-dicienzo",
+      "name": "Dino DiCienzo",
+      "role": "CEO Canadian Niagara Hotels; donated ~$7,000 to PCs",
+      "firm": null,
+      "type": "executive",
+      "integrity_violations": false,
+      "clients": [
+        "canadian-niagara-hotels"
+      ],
+      "donations_pc_total": 21965.0,
+      "donations_all_total": 24165.0,
+      "top_donations": [
+        {
+          "year": "2021",
+          "amount": 1825.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 1330.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 1330.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 1330.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2017",
+          "amount": 1200.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "shakir-rehmatullah",
+      "name": "Shakir Rehmatullah",
+      "role": "Flato Developments owner; attended Ford stag-and-doe + wedding",
+      "firm": null,
+      "type": "executive",
+      "integrity_violations": false,
+      "clients": [
+        "flato-developments"
+      ],
+      "donations_pc_total": 3600.0,
+      "donations_all_total": 13200.0,
+      "top_donations": [
+        {
+          "year": "2018",
+          "amount": 1200.0,
+          "recipient": "Ford, Doug"
+        },
+        {
+          "year": "2018",
+          "amount": 1200.0,
+          "recipient": "JONES, SYLVIA"
+        },
+        {
+          "year": "2017",
+          "amount": 850.0,
+          "recipient": "Progressive Conservative Party of Ontario - Markham—Thornhill"
+        },
+        {
+          "year": "2017",
+          "amount": 350.0,
+          "recipient": "Progressive Conservative Party of Ontario - St. Catharines"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "john-beck",
+      "name": "John Beck",
+      "role": "Aecon founder; received King's Coronation Medal (PC nominees)",
+      "firm": null,
+      "type": "executive",
+      "integrity_violations": false,
+      "clients": [
+        "aecon"
+      ],
+      "donations_pc_total": 147639.41,
+      "donations_all_total": 332122.67,
+      "top_donations": [
+        {
+          "year": "2014",
+          "amount": 5000.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 3300.0,
+          "recipient": "Progressive Conservative Party of Ontario - Kitchener—Conestoga"
+        },
+        {
+          "year": "2025",
+          "amount": 3300.0,
+          "recipient": "SARKARIA, PRABMEET SINGH"
+        },
+        {
+          "year": "2024",
+          "amount": 2780.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 2494.0,
+          "recipient": "Progressive Conservative Party of Ontario - York—Simcoe"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2003",
+        "2002",
+        "2001",
+        "2000"
+      ],
+      "sunshine_total_records": 76,
+      "sunshine_top_salary": "$201,175.02",
+      "sunshine_top_employer": "University Of Toronto",
+      "sunshine_top_title": "Professor of Mechanical and Industrial Engineering",
+      "sunshine_top_year": "2020",
+      "sunshine_employers": [
+        "University of Toronto",
+        "Ontario Power Generation",
+        "City Of Toronto",
+        "City Of Guelph",
+        "City of Guelph"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "jean-chretien",
+      "name": "Jean Chretien",
+      "role": "Former Liberal PM; co-chairs Canadians for CANDU with Mike Harris",
+      "firm": null,
+      "type": "politician",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 1000.0,
+      "donations_all_total": 3825.0,
+      "top_donations": [
+        {
+          "year": "2014",
+          "amount": 1000.0,
+          "recipient": "Progressive Conservative Party of Ontario - Sudbury"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019"
+      ],
+      "sunshine_total_records": 4,
+      "sunshine_top_salary": "$101,964.37",
+      "sunshine_top_employer": "Arnprior Regional Health",
+      "sunshine_top_title": "Registered Nurse",
+      "sunshine_top_year": "2020",
+      "sunshine_employers": [
+        "Arnprior Regional Health"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "padulo",
+      "name": "Padulo (Ontario Shipyards CEO)",
+      "role": "CEO Ontario Shipyards; Ford appointee to Hamilton Police Board; donated $6,700+ to PC ridings",
+      "firm": null,
+      "type": "executive",
+      "integrity_violations": false,
+      "clients": [
+        "ontario-shipyards"
+      ],
+      "evidence_sources": [],
+      "evidence_count": 0
+    },
+    {
+      "id": "mark-lawson",
+      "name": "Mark Lawson",
+      "role": "Ford's Deputy Chief of Staff (2019-2021); VP Therme Group Canada; now lobbies for Nieuport Aviation (Billy Bishop terminal). Wife Jessica Lippert is Chief of Staff for Cabinet Office.",
+      "firm": "Therme Group / Nieuport Aviation",
+      "type": "lobbyist-insider",
+      "integrity_violations": false,
+      "clients": [
+        "therme-group",
+        "nieuport-aviation"
+      ],
+      "donations_pc_total": 46935.91,
+      "donations_all_total": 116844.36,
+      "top_donations": [
+        {
+          "year": "2022",
+          "amount": 3325.0,
+          "recipient": "BYERS, RICK"
+        },
+        {
+          "year": "2021",
+          "amount": 3270.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2024",
+          "amount": 1700.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2021",
+          "amount": 1413.37,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 1371.67,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2003"
+      ],
+      "sunshine_total_records": 82,
+      "sunshine_top_salary": "$174,400.98",
+      "sunshine_top_employer": "Office Of The Premier",
+      "sunshine_top_title": "Deputy Chief of Staff, Policy",
+      "sunshine_top_year": "2020",
+      "sunshine_employers": [
+        "City Of Greater Sudbury",
+        "City of Richmond Hill",
+        "Natural Resources and Forestry",
+        "Community Safety & Correctional Services",
+        "Office Of The Premier"
+      ],
+      "lobbyist_client_count": 10,
+      "lobbyist_clients": [
+        {
+          "client": "Novo Nordisk Canada Inc.",
+          "firm": "Anthem Advisory",
+          "status": "Inactive"
+        },
+        {
+          "client": "Mitacs Inc.",
+          "firm": "Anthem Advisory",
+          "status": "Active"
+        },
+        {
+          "client": "NextEra Energy Canadian Operating Services, Inc. (formerly NextEra Canada Energy Development LP)",
+          "firm": "Anthem Advisory",
+          "status": "Active"
+        },
+        {
+          "client": "Miovision Technologies",
+          "firm": "Anthem Advisory",
+          "status": "Active"
+        },
+        {
+          "client": "Nieuport Aviation",
+          "firm": "Anthem Advisory",
+          "status": "Active"
+        },
+        {
+          "client": "",
+          "firm": "Union Gas - A Spectra Energy Company",
+          "status": "Inactive"
+        },
+        {
+          "client": "Loblaw Companies Limited",
+          "firm": "Hill+Knowlton Strategies",
+          "status": "Inactive"
+        },
+        {
+          "client": "Valeant Pharmaceuticals International Inc.",
+          "firm": "Hill+Knowlton Strategies",
+          "status": "Inactive"
+        },
+        {
+          "client": "Rosa Flora Growers Limited",
+          "firm": "Hill+Knowlton Strategies",
+          "status": "Inactive"
+        },
+        {
+          "client": "Vaccine and Infectious Disease Organization",
+          "firm": "Hill+Knowlton Strategies",
+          "status": "Inactive"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list",
+        "lobbyist_registry"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "id": "robert-deluce",
+      "name": "Robert Deluce",
+      "role": "Executive Chairman, Porter Airlines; deep Conservative connections spanning 4 decades; donated $2,500 to Rob Ford's MAYORAL campaign (not PC party); family donated additional $5,000 municipally",
+      "firm": null,
+      "type": "executive",
+      "integrity_violations": false,
+      "clients": [
+        "porter-airlines"
+      ],
+      "donations_pc_total": 52957.0,
+      "donations_all_total": 53262.0,
+      "top_donations": [
+        {
+          "year": "2025",
+          "amount": 3400.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 3350.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2023",
+          "amount": 2660.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2022",
+          "amount": 2000.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2020",
+          "amount": 1625.0,
+          "recipient": "Progressive Conservative Party of Ontario - York—Simcoe"
+        }
+      ],
+      "evidence_sources": [
+        "elections_ontario"
+      ],
+      "evidence_count": 1
+    },
+    {
+      "id": "jane-mckenna",
+      "name": "Jane McKenna",
+      "role": "Former PC MPP (Burlington); Ford appointee to PortsToronto Board (2023); became Board Chair (March 2025)",
+      "firm": null,
+      "type": "insider",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 34670.32,
+      "donations_all_total": 55057.5,
+      "top_donations": [
+        {
+          "year": "2015",
+          "amount": 5000.0,
+          "recipient": "Brown, Patrick"
+        },
+        {
+          "year": "2024",
+          "amount": 3375.0,
+          "recipient": "ALLSOPP, TYLER"
+        },
+        {
+          "year": "2024",
+          "amount": 3375.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2024",
+          "amount": 3375.0,
+          "recipient": "Progressive Conservative Party of Ontario - Toronto—Danforth"
+        },
+        {
+          "year": "2023",
+          "amount": 2000.0,
+          "recipient": "Progressive Conservative Party of Ontario - Mississauga—Lakeshore"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "1999",
+        "1998",
+        "1997",
+        "1996"
+      ],
+      "sunshine_total_records": 65,
+      "sunshine_top_salary": "$290,314.67",
+      "sunshine_top_employer": "City Of Ottawa – Police Services",
+      "sunshine_top_title": "Superintendent",
+      "sunshine_top_year": "2020",
+      "sunshine_employers": [
+        "Community Safety & Correctional Services",
+        "Health",
+        "City Of Ottawa - Police Services",
+        "Community Safety and Correctional Services",
+        "University of Toronto"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "id": "robert-hanea",
+      "name": "Robert Hanea",
+      "role": "CEO Therme Group; met personally with Ford (June 2022); NYT investigation found 5 of 6 claimed spas were not Therme's",
+      "firm": "Therme Group",
+      "type": "executive",
+      "integrity_violations": false,
+      "clients": [
+        "therme-group"
+      ],
+      "evidence_sources": [],
+      "evidence_count": 0
+    },
+    {
+      "id": "jessica-lippert",
+      "name": "Jessica Lippert",
+      "role": "Chief of Staff for Cabinet Office; wife of Mark Lawson (Therme VP / Nieuport lobbyist)",
+      "firm": null,
+      "type": "insider",
+      "integrity_violations": false,
+      "clients": [],
+      "donations_pc_total": 420.0,
+      "donations_all_total": 725.0,
+      "top_donations": [
+        {
+          "year": "2021",
+          "amount": 240.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        },
+        {
+          "year": "2020",
+          "amount": 180.0,
+          "recipient": "Progressive Conservative Party of Ontario"
+        }
+      ],
+      "sunshine_years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      "sunshine_total_records": 16,
+      "sunshine_top_salary": "$150,605.74",
+      "sunshine_top_employer": "Town Of Oakville",
+      "sunshine_top_title": "Captain Certified",
+      "sunshine_top_year": "2020",
+      "sunshine_employers": [
+        "Cabinet Office",
+        "Town of Oakville",
+        "Town Of Oakville",
+        "Regional Municipality of Waterloo"
+      ],
+      "evidence_sources": [
+        "elections_ontario",
+        "sunshine_list"
+      ],
+      "evidence_count": 2
+    }
+  ]
+}
