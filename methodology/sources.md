@@ -4,7 +4,8 @@
 
 | Source | URL | What it contains |
 |--------|-----|-----------------|
-| Ontario Budget | budget.ontario.ca/2025/ | Revenue/expense totals, sector breakdowns, infrastructure plan |
+| Ontario Budget 2026-27 | budget.ontario.ca/2026/ | "A Plan to Protect Ontario." Interim 2025-26 actuals + 2026-27 projections. $244.2B total expense, $13.8B deficit. |
+| Ontario Budget 2025-26 | budget.ontario.ca/2025/ | Revenue/expense totals, sector breakdowns, infrastructure plan |
 | Budget Chapter 3 (Fiscal Tables) | budget.ontario.ca/2025/chapter-3.html | The actual numbers — revenue by source, expenses by sector, deficit projections |
 | Ministry Expenditure Estimates | ontario.ca/page/expenditure-estimates-ministry-* | Detailed program-level spending by ministry |
 | Public Accounts | ontario.ca/page/public-accounts-ontario-2024-25 | Actual spending (vs budget projections), transfer payments by recipient |

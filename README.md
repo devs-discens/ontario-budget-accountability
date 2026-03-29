@@ -25,7 +25,11 @@ The 2026 Ontario Budget provides interim actuals for 2025-26 and projections for
 - **Postsecondary education is being cut** ($14.2B → $14.0B) despite the announced "$6.4B sustainability investment" headline.
 - **Not mentioned in 232 pages:** Skills Development Fund (under OPP investigation), Greenbelt (RCMP investigation), Ontario Place total cost ($335M → $2.237B per AG), Highway 413 total cost (never disclosed).
 
-Full analysis: [Budget Accuracy Check](audits/2026-27/research/budget-accuracy-2025-26.md) | [Year-over-Year Diff](audits/2026-27/research/budget-diff-2025-vs-2027.md)
+Full analysis: [Budget Accuracy Check](audits/2026-27/research/budget-accuracy-2025-26.md) | [Year-over-Year Diff](audits/2026-27/research/budget-diff-2025-vs-2027.md) | [Contract Tracker](audits/2026-27/research/contract-tracker-2025-vs-2026.md) | [New Companies Cross-Reference](audits/2026-27/research/new-companies-crossref.md)
+
+**New connections found:** Both mining projects fast-tracked under the government's new One Project One Process framework have active lobbyists from firms with documented Ford government ties:
+- **Kinross Gold** ($5B Great Bear Project) — lobbied by Rubicon Strategy (Kory Teneycke's firm). Active lobbyist Jan O'Driscoll is a former Ford Cabinet Chief of Staff, now Interim LCBO CEO.
+- **Canada Nickel** ($5B Crawford Project) — lobbied by Sussex Strategy. Active lobbyist Mark Olsheski is a former Queen's Park staffer who donated $15,407 to the PC Party.
 
 ### Key findings (2025-26 audit)
 
@@ -61,8 +65,9 @@ Every major Ford insider who left government launched a lobbying firm. Their cli
 | Nico Fidani-Diker | Executive Assistant (2018-2020) | ONpoint Strategy Group | Greenbelt developers. **5 integrity violations.** |
 | Mark Lawson | Deputy Chief of Staff (2019-2021) | — | VP at Therme Group (Ontario Place), then lobbied for Billy Bishop terminal owner. Wife is Chief of Staff for Cabinet Office. |
 | Amir Remtulla | Rob Ford's Chief of Staff | Amir Remtulla & Associates | **Spans 3 scandals:** Greenbelt developers (TACC/De Gasperis), Therme (Ontario Place), Revera (LTC during COVID) |
+| Jan O'Driscoll | Chief of Staff to Ford Cabinet ministers | Rubicon Strategy (SVP) | Kinross Gold ($5B Great Bear mine). **Now Interim LCBO CEO (Feb 2026).** |
 
-Full list of 13 lobbyist-insiders with clients and connections in the [political connections report](audits/2025-26/research/political-connections.md).
+Full list of lobbyist-insiders with clients and connections in the [political connections report](audits/2025-26/research/political-connections.md) and [new companies cross-reference](audits/2026-27/research/new-companies-crossref.md).
 
 ### Largest contracts
 
@@ -164,6 +169,8 @@ ontario-budget-accountability/
       research/
         budget-accuracy-2025-26.md  Did they hit their targets? (No.)
         budget-diff-2025-vs-2027.md Year-over-year: $16.9B more spending
+        contract-tracker-2025-vs-2026.md  80 contracts tracked across budgets
+        new-companies-crossref.md   12 new companies: lobbyist + donation checks
 
   scripts/                  Data collection and cross-reference tools
     cross_reference_donations.py    Elections Ontario contributions (429K records)
@@ -199,6 +206,8 @@ Start with the reports in `audits/2025-26/research/`. They contain the narrative
 - [Cross-Reference Report](audits/2025-26/research/cross-reference-report.md) — Unified view joining Elections Ontario, Public Accounts, Sunshine List, and Lobbyist Registry data against all 129 tracked organizations and 42 people
 - [Budget Accuracy Check](audits/2026-27/research/budget-accuracy-2025-26.md) — 2025 Budget projections vs 2025-26 interim actuals
 - [Year-over-Year Diff](audits/2026-27/research/budget-diff-2025-vs-2027.md) — 2024-25 actual vs 2026-27 plan
+- [Contract Tracker](audits/2026-27/research/contract-tracker-2025-vs-2026.md) — 80 contracts tracked across budget years, 17 new programs identified
+- [New Companies Cross-Reference](audits/2026-27/research/new-companies-crossref.md) — Lobbyist registry and donation checks for 12 new budget entrants
 
 ### Explore the data
 The structured JSON in `audits/2025-26/data/` is designed for analysis. Each file has source URLs on every claim.
@@ -292,6 +301,8 @@ python3 scripts/scrape_lobbyist_registry.py --mode single --query "Ontario Shipy
 
 ## Changelog
 
+- **2026-03-29** — New companies cross-reference: 12 companies from the 2026 budget checked against lobbyist registry and Elections Ontario. Kinross Gold (Rubicon Strategy) and Canada Nickel (Sussex Strategy) flagged. Jan O'Driscoll identified as revolving door: Ford Cabinet COS → Rubicon SVP → LCBO CEO.
+- **2026-03-29** — Contract tracker: 80 contracts compared across 2025 and 2026 budgets. 18 updated, 17 new programs, SDF program ($134M) erased from budget.
 - **2026-03-29** — 2026-27 budget analysis: accuracy check (2025 projections vs interim actuals) and year-over-year diff (2024-25 actual vs 2026-27 plan). Raw data files added as compressed .gz for reproducibility. 2025 Sunshine List (404,922 records) added.
 - **2026-03-26** — 2026-27 Ontario Budget PDF added to repo.
 - **2026-03-24** — Dashboard enriched with cross-reference data. Network graph tooltips and info panels now show Public Accounts payments, lobbyist registrations, Elections Ontario donations, and Sunshine List salaries. 8 new lobbying edges discovered from registry scrape.
