@@ -16,11 +16,15 @@ __pycache__/
 *.pyc
 .env
 
-# Large raw data files (downloadable via scripts — see methodology/sources.md)
+# Large raw CSV files (gzipped copies tracked instead — see raw-data/*/*.gz)
 raw-data/elections-ontario/Filed_Statement_Contributions.csv
 raw-data/sunshine-list/sunshine-*.csv
+!raw-data/sunshine-list/sunshine-*.csv.gz
 raw-data/sunshine-list/tbs-pssd-*.csv
+!raw-data/sunshine-list/tbs-pssd-*.csv.gz
 raw-data/sunshine-list/github-csv/
+raw-data/public-accounts/*.csv
+!raw-data/public-accounts/*.csv.gz
 
 # Debug/temp files from scraper
 raw-data/lobbyist-registry/debug_*.html

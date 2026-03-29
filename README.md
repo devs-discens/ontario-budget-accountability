@@ -6,12 +6,13 @@ An open-source accountability audit of the Ontario provincial budget. Traces pub
 
 This is **original research**, structured as both human-readable reports and machine-readable data. It covers:
 
-- **$232.5B** in Ontario provincial spending (2025-26 fiscal year)
+- **Two budget years:** 2025-26 ($232.5B) and 2026-27 ($244.2B)
 - **80 named spending decisions** with contract values, decision types, and recipients
 - **42 political figures** — politicians, lobbyists, government insiders, and executives
-- **93 documented relationships** between people, companies, and government — each with source URLs
+- **101 documented relationships** between people, companies, and government — each with source URLs
 - **13 policy actions** (legislation, MZOs, exemptions) that create spending or benefit specific parties
 - **12 government board appointments** to crown agencies and public bodies
+- **4 cross-referenced public datasets:** Elections Ontario (429K contributions), Public Accounts (30K payments), Sunshine List (2.4M+ salary records), Ontario Lobbyist Registry (390 registrations)
 
 ### Key findings
 
@@ -93,12 +94,30 @@ Full list of 13 lobbyist-insiders with clients and connections in the [political
 14. Ontario Science Centre: draft engineering reports recommended routine maintenance — government **closed it anyway**. Architect called it "a political move."
 15. AtkinsRealis **hired the sitting PC Energy Minister** as VP after he oversaw nuclear policy — then received $2.1B+ in contracts
 
+### 2026-27 Budget: What changed
+
+The 2026 Ontario Budget ("A Plan to Protect Ontario") was released March 26, 2026. Key changes from the 2025 Budget:
+
+| | 2025 Budget (projected) | 2026 Budget (interim/plan) | Change |
+|---|---|---|---|
+| 2025-26 Revenue | $219.9B | $226.6B (interim) | +$6.7B |
+| 2025-26 Expense | $232.5B | $238.4B (interim) | +$5.9B |
+| 2025-26 Deficit | ($14.6B) | ($12.3B) | Improved $2.3B |
+| 2026-27 Deficit | ($7.8B) | ($13.8B) | **Worse by $6.0B** |
+| Capital plan (10yr) | $190B | $210B | +$20B |
+| Long-term borrowing 2025-26 | $42.8B | $58.6B | +$15.8B |
+
+Full analysis: [Budget Accuracy Check](audits/2026-27/research/budget-accuracy-2025-26.md) | [Year-over-Year Diff](audits/2026-27/research/budget-diff-2025-vs-2027.md)
+
+Notable: Skills Development Fund, Greenbelt, Ontario Science Centre, and Highway 413 total cost are not mentioned or disclosed in the 232-page budget document.
+
 ### Period covered
 
-- **Budget data:** Ontario fiscal year 2025-26 (April 2025 - March 2026)
+- **Budget data:** Ontario fiscal years 2025-26 and 2026-27
 - **Contract data:** Multi-year commitments tracked as of March 2026
 - **Political connections:** Documented through March 2026
-- **Last updated:** March 24, 2026
+- **Sunshine List:** 1996-2020 + 2025 (404,922 records)
+- **Last updated:** March 29, 2026
 
 ## Repository structure
 
@@ -118,6 +137,7 @@ ontario-budget-accountability/
       research/
         spending-report.md          Detailed spending report with sources
         political-connections.md    Political connections with sources
+        cross-reference-report.md   Unified view: 4 data sources joined
       data/
         budget-lines.json           Revenue and expense line items
         contracts.json              80 procurement decisions with decision types
@@ -125,8 +145,12 @@ ontario-budget-accountability/
         appointments.json           12 board appointments
         people.json                 42 people with timelines
         organizations.json          129 organizations with metadata
-        relationships.json          93 documented political connections
+        relationships.json          101 documented political connections
         accountability-ledger.json  Flattened joined view of all data
+    2026-27/
+      research/
+        budget-accuracy-2025-26.md  Did they hit their targets? (No.)
+        budget-diff-2025-vs-2027.md Year-over-year: $16.9B more spending
 
   scripts/                  Data collection and cross-reference tools
     cross_reference_donations.py    Elections Ontario contributions (429K records)
@@ -134,11 +158,14 @@ ontario-budget-accountability/
     cross_reference_sunshine.py     Sunshine List salary matching
     scrape_lobbyist_registry.py     OICO Lobbyist Registry scraper (ASP.NET)
 
-  raw-data/                 Downloaded source datasets
-    elections-ontario/       Bulk contribution data + cross-reference results
-    public-accounts/         Payment CSVs + cross-reference results
-    sunshine-list/           Salary disclosure CSVs (1996-2020, 2M+ records)
-    lobbyist-registry/       Scraped registry data (orgs + people + targets)
+  raw-data/                 Downloaded source datasets (large CSVs stored as .gz)
+    elections-ontario/       Bulk contribution data (429K records) + cross-reference results
+    public-accounts/         Payment CSVs (30K records) + cross-reference results
+    sunshine-list/           Salary disclosure (1996-2020 + 2025, 2.4M+ records)
+    lobbyist-registry/       Scraped registry data (orgs + people)
+    cross-reference-report.json  Unified join of all 4 sources
+
+  2026/                     2026-27 Ontario Budget source PDF
 
   dashboard/                Optional interactive visualization
     index.html              Open in browser to explore the data
@@ -157,6 +184,8 @@ Start with the reports in `audits/2025-26/research/`. They contain the narrative
 - [Spending Report](audits/2025-26/research/spending-report.md) — Where $232.5B goes, company by company
 - [Political Connections](audits/2025-26/research/political-connections.md) — Who knows whom and how they got the contracts
 - [Cross-Reference Report](audits/2025-26/research/cross-reference-report.md) — Unified view joining Elections Ontario, Public Accounts, Sunshine List, and Lobbyist Registry data against all 129 tracked organizations and 42 people
+- [Budget Accuracy Check](audits/2026-27/research/budget-accuracy-2025-26.md) — 2025 Budget projections vs 2025-26 interim actuals
+- [Year-over-Year Diff](audits/2026-27/research/budget-diff-2025-vs-2027.md) — 2024-25 actual vs 2026-27 plan
 
 ### Explore the data
 The structured JSON in `audits/2025-26/data/` is designed for analysis. Each file has source URLs on every claim.
@@ -184,7 +213,7 @@ This project benefits from more eyes. You can help by:
 1. **Verifying claims** — Pick any entry in the data files, check the source URL, confirm the facts. File an issue if something is wrong.
 2. **Adding connections** — If you find a documented political connection we've missed (with a source URL), submit a PR.
 3. **Updating for new developments** — New AG reports, Integrity Commissioner findings, contract awards, or news investigations.
-4. **Auditing a new budget year** — When the 2026-27 budget drops, follow the [methodology](methodology/README.md) to build the next audit.
+4. **Auditing a new budget year** — The 2026-27 budget analysis is underway in `audits/2026-27/`. Follow the [methodology](methodology/README.md) to extend it or audit future years.
 5. **Forking for other jurisdictions** — The [schema](methodology/schema.md) is designed to work for any Canadian province. Fork it for Alberta, BC, Quebec, etc.
 
 ### Standards for contributions
@@ -196,6 +225,7 @@ This project benefits from more eyes. You can help by:
 
 ## Data sources
 
+- [Ontario Budget 2026-27](https://budget.ontario.ca/2026/) (interim for 2025-26)
 - [Ontario Budget 2025-26](https://budget.ontario.ca/2025/)
 - [Financial Accountability Office of Ontario](https://fao-on.org/)
 - [Ontario Auditor General](https://www.auditor.on.ca/)
@@ -216,7 +246,7 @@ This project benefits from more eyes. You can help by:
 - Some contract values represent the total consortium value, not individual company shares — this is noted in the data
 - Political donations data is limited to what's available through Elections Ontario public filings
 - Lobbyist Registry results are capped at 10 per search (first results page); 13 orgs hit this cap and likely have more registrations
-- Sunshine List data covers 1996-2020; 2021-2024 not yet downloaded
+- Sunshine List data covers 1996-2020 + 2025; years 2021-2024 not yet downloaded
 - Public Accounts covers direct provincial payments only — crown agency disbursements (Metrolinx, IO, OPG) are excluded, which is why 42 of 129 tracked organizations show no payment match despite receiving government contracts
 
 ## Data collection
