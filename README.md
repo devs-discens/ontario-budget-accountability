@@ -14,7 +14,20 @@ This is **original research**, structured as both human-readable reports and mac
 - **12 government board appointments** to crown agencies and public bodies
 - **4 cross-referenced public datasets:** Elections Ontario (429K contributions), Public Accounts (30K payments), Sunshine List (2.4M+ salary records), Ontario Lobbyist Registry (390 registrations)
 
-### Key findings
+### What's new: 2026-27 Budget (released March 26, 2026)
+
+The 2026 Ontario Budget provides interim actuals for 2025-26 and projections for 2026-27. Comparing against the government's own 2025 Budget projections:
+
+- **The 2026-27 deficit nearly doubled** from what was projected one year ago: $7.8B (2025 Budget) → $13.8B (2026 Budget). This is the second-largest deficit in Ontario history after the 2020-21 COVID deficit of $16.3B.
+- **Revenue windfall was spent, not saved.** 2025-26 revenue came in $6.7B higher than projected. Spending overran by $5.9B. The $2.3B deficit improvement is the gap between two misses.
+- **Borrowing exceeded plan by $15.8B** in a single year ($42.8B planned → $58.6B actual), used to "pre-fund" 2026-27 and the $5B Protect Ontario Account.
+- **Debt servicing reaches $17.2B** in 2026-27 — more than the entire Justice sector budget ($7.3B) and rising to $19.7B by 2028-29.
+- **Postsecondary education is being cut** ($14.2B → $14.0B) despite the announced "$6.4B sustainability investment" headline.
+- **Not mentioned in 232 pages:** Skills Development Fund (under OPP investigation), Greenbelt (RCMP investigation), Ontario Place total cost ($335M → $2.237B per AG), Highway 413 total cost (never disclosed).
+
+Full analysis: [Budget Accuracy Check](audits/2026-27/research/budget-accuracy-2025-26.md) | [Year-over-Year Diff](audits/2026-27/research/budget-diff-2025-vs-2027.md)
+
+### Key findings (2025-26 audit)
 
 - 31 of 80 tracked spending decisions (39%) involve companies with documented insider political connections
 - $80.7B flows through insider-connected companies
@@ -272,6 +285,16 @@ python3 scripts/scrape_lobbyist_registry.py --mode people            # search al
 python3 scripts/scrape_lobbyist_registry.py --mode targets           # search by govt officials
 python3 scripts/scrape_lobbyist_registry.py --mode single --query "Ontario Shipyards" --field client
 ```
+
+## Changelog
+
+- **2026-03-29** — 2026-27 budget analysis: accuracy check (2025 projections vs interim actuals) and year-over-year diff (2024-25 actual vs 2026-27 plan). Raw data files added as compressed .gz for reproducibility. 2025 Sunshine List (404,922 records) added.
+- **2026-03-26** — 2026-27 Ontario Budget PDF added to repo.
+- **2026-03-24** — Dashboard enriched with cross-reference data. Network graph tooltips and info panels now show Public Accounts payments, lobbyist registrations, Elections Ontario donations, and Sunshine List salaries. 8 new lobbying edges discovered from registry scrape.
+- **2026-03-24** — Cross-reference report: Elections Ontario, Public Accounts, Sunshine List, and Lobbyist Registry joined against 129 organizations and 42 people. 22 organizations flagged in 3+ of 4 independent data sources.
+- **2026-03-24** — Lobbyist Registry scraper completed. 41/129 organizations matched (246 registrations), 15/16 tracked people matched (144 registrations).
+- **2026-03-24** — Data collection completed for all 4 public sources: Elections Ontario (429K contributions), Public Accounts (30K payments), Sunshine List (2M+ salaries), Lobbyist Registry (390 registrations).
+- **2026-03-24** — Initial release. 2025-26 accountability audit with 80 spending decisions, 42 tracked people, 129 organizations, interactive dashboard.
 
 ## License
 
