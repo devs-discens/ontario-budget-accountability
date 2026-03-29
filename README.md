@@ -221,7 +221,7 @@ python3 scripts/import_budget.py validate 2026-27      # Check integrity
 
 ## Built with LLMs
 
-This project was built using LLM tools (Claude, but ChatGPT and Gemini would work too). It is highly recommended to use LLM tools for this kind of work — reading 232-page budget PDFs, writing data collection scripts, cross-referencing datasets, spotting contradictions in fiscal tables, and building visualizations. Humans guide the research, ask the right questions, and verify the data. The project is open-sourced so others can drill down into specific focus areas, verify claims, and expand on the analysis.
+This project was built using LLM tools (Claude, but ChatGPT and Gemini would work too). It is highly recommended to use LLM tools for this kind of work — reading 232-page budget PDFs, writing data collection scripts, cross-referencing datasets, spotting contradictions in fiscal tables, and building visualizations. Humans guide the research, ask the right questions, and verify the data. **LLMs can and do hallucinate — every claim, number, and assertion in this project was verified by the author against primary sources, and adding a source URL to every factual claim was mandated from the start.** The project is open-sourced so others can drill down into specific focus areas, verify claims, and expand on the analysis.
 
 ## How to contribute
 
