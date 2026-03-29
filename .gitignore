@@ -19,6 +19,7 @@ __pycache__/
 # Large raw data files (downloadable via scripts — see methodology/sources.md)
 raw-data/elections-ontario/Filed_Statement_Contributions.csv
 raw-data/sunshine-list/sunshine-*.csv
+raw-data/sunshine-list/tbs-pssd-*.csv
 raw-data/sunshine-list/github-csv/
 
 # Debug/temp files from scraper
